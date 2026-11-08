@@ -227821,28 +227821,4588 @@
   ],
   "dataset": {
     "observation_end": 2026,
-    "claims": [],
-    "ledger": [],
-    "taxa": [],
-    "effort": [],
+    "claims": [
+      {
+        "id": "claim-02c5a6fed3e84cda45",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "gynaecological",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-0a273ebc7a2ea8c31c",
+        "identity_group": "identity-culpeper-periwinkle",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "gynaecological",
+        "candidates": [
+          {
+            "species": "Vinca major",
+            "probability": 0.5
+          },
+          {
+            "species": "Vinca minor",
+            "probability": 0.5
+          }
+        ]
+      },
+      {
+        "id": "claim-17d5cf5d119462f26b",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "respiratory",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-1d7c9a4a530a5b3fd4",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "joint",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-2624566bfb7c671477",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "neuro",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-2f62a31c9a133aa2ff",
+        "identity_group": "identity-dioscorides-mekon",
+        "year": 60,
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "category": "neuro",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-2fcad9506ad9fca23d",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "neuro",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-39bdb40f0bac803583",
+        "identity_group": "identity-culpeper-periwinkle",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "gi",
+        "candidates": [
+          {
+            "species": "Vinca major",
+            "probability": 0.5
+          },
+          {
+            "species": "Vinca minor",
+            "probability": 0.5
+          }
+        ]
+      },
+      {
+        "id": "claim-5b2d75af33a235e1bb",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "gi",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-5cfddfe80d50eb9feb",
+        "identity_group": "identity-dioscorides-mekon",
+        "year": 60,
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "category": "respiratory",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-6b2ea139315769028c",
+        "identity_group": "identity-dioscorides-mekon",
+        "year": 60,
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "category": "gynaecological",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-7d60c487ee3d5a7cee",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "neuro",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-87caf2f6f4b6596722",
+        "identity_group": "identity-dioscorides-mekon",
+        "year": 60,
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "category": "gi",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-970b2b0f6da8be8974",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "respiratory",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-9926c4108b0a2c5547",
+        "identity_group": "identity-dioscorides-mekon",
+        "year": 60,
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "category": "respiratory",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-af6e0afdf6287cf84a",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "infection",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-b58a7fbd61b4a06e42",
+        "identity_group": "identity-dioscorides-mekon",
+        "year": 60,
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "category": "gi",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-b6c60bb406a315554a",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "gi",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-cc21b40a2d9f1fbed7",
+        "identity_group": "identity-dioscorides-mekon",
+        "year": 60,
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "category": "neuro",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-d6063d8390c058c6e1",
+        "identity_group": "identity-culpeper-wild-poppy",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "infection",
+        "candidates": [
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.9
+          },
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.1
+          }
+        ]
+      },
+      {
+        "id": "claim-ed00016f4ebc9ddccc",
+        "identity_group": "identity-culpeper-wild-poppy",
+        "year": 1653,
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "category": "neuro",
+        "candidates": [
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.9
+          },
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.1
+          }
+        ]
+      }
+    ],
+    "ledger": [
+      {
+        "species": "Catharanthus roseus",
+        "category": "joint",
+        "tested_year": 2025,
+        "confirmed_year": null,
+        "refuted_year": null,
+        "in_vitro_confirmed_year": 2025,
+        "pmids": [
+          "40802935"
+        ]
+      },
+      {
+        "species": "Catharanthus roseus",
+        "category": "metabolic",
+        "tested_year": 2025,
+        "confirmed_year": 2025,
+        "refuted_year": null,
+        "in_vitro_confirmed_year": 2025,
+        "pmids": [
+          "39949440",
+          "40676081",
+          "40802935"
+        ]
+      },
+      {
+        "species": "Galega officinalis",
+        "category": "metabolic",
+        "tested_year": 2021,
+        "confirmed_year": 2021,
+        "refuted_year": null,
+        "in_vitro_confirmed_year": 2021,
+        "pmids": [
+          "34572994",
+          "39139975",
+          "42105688"
+        ]
+      },
+      {
+        "species": "Papaver somniferum",
+        "category": "metabolic",
+        "tested_year": 2025,
+        "confirmed_year": 2025,
+        "refuted_year": null,
+        "in_vitro_confirmed_year": 2025,
+        "pmids": [
+          "40193308"
+        ]
+      }
+    ],
+    "taxa": [
+      {
+        "species": "Catharanthus roseus",
+        "family": "Apocynaceae",
+        "regions": [],
+        "hazard_trail": [
+          "The discovery of cytotoxic alkaloids supplies no evidence for safe diabetes self-treatment with the plant."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Colchicum autumnale",
+        "family": "Colchicaceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "All parts are poisonous. ANSES reported 28 confusions with wild or many-flowered garlic in 2020–22, including two deaths."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Galanthus nivalis",
+        "family": "Amaryllidaceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "A prescription-drug discovery does not establish the safety or efficacy of a raw snowdrop preparation."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Galega officinalis",
+        "family": "Fabaceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "The historical overview reports toxicity in early guanidine derivatives. It supplies no safe botanical dosing basis."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Papaver rhoeas",
+        "family": "Papaveraceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "Contains rhoeadine alkaloids; mildly toxic to livestock and humans in quantity."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Papaver somniferum",
+        "family": "Papaveraceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "Morphine is addictive and can cause fatal poisoning. The DEA documents deaths associated with historical morphine-containing syrups."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Taxus brevifolia",
+        "family": "Taxaceae",
+        "regions": [],
+        "hazard_trail": [
+          "Clinical paclitaxel use does not make yew material suitable for self-treatment; bark harvesting also kills the tree."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Vinca major",
+        "family": "Apocynaceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "Contains vinca alkaloids; not for self-medication."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Vinca minor",
+        "family": "Apocynaceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "Contains vinca alkaloids; not for self-medication."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      }
+    ],
+    "effort": [
+      {
+        "species": "Catharanthus roseus",
+        "year": 1900,
+        "count": 0
+      },
+      {
+        "species": "Catharanthus roseus",
+        "year": 1950,
+        "count": 0
+      },
+      {
+        "species": "Catharanthus roseus",
+        "year": 1980,
+        "count": 4
+      },
+      {
+        "species": "Catharanthus roseus",
+        "year": 2000,
+        "count": 25
+      },
+      {
+        "species": "Catharanthus roseus",
+        "year": 2010,
+        "count": 39
+      },
+      {
+        "species": "Colchicum autumnale",
+        "year": 1900,
+        "count": 0
+      },
+      {
+        "species": "Colchicum autumnale",
+        "year": 1950,
+        "count": 4
+      },
+      {
+        "species": "Colchicum autumnale",
+        "year": 1980,
+        "count": 0
+      },
+      {
+        "species": "Colchicum autumnale",
+        "year": 2000,
+        "count": 1
+      },
+      {
+        "species": "Colchicum autumnale",
+        "year": 2010,
+        "count": 2
+      },
+      {
+        "species": "Galanthus nivalis",
+        "year": 1900,
+        "count": 0
+      },
+      {
+        "species": "Galanthus nivalis",
+        "year": 1950,
+        "count": 0
+      },
+      {
+        "species": "Galanthus nivalis",
+        "year": 1980,
+        "count": 0
+      },
+      {
+        "species": "Galanthus nivalis",
+        "year": 2000,
+        "count": 9
+      },
+      {
+        "species": "Galanthus nivalis",
+        "year": 2010,
+        "count": 13
+      },
+      {
+        "species": "Galega officinalis",
+        "year": 1900,
+        "count": 0
+      },
+      {
+        "species": "Galega officinalis",
+        "year": 1950,
+        "count": 1
+      },
+      {
+        "species": "Galega officinalis",
+        "year": 1980,
+        "count": 0
+      },
+      {
+        "species": "Galega officinalis",
+        "year": 2000,
+        "count": 2
+      },
+      {
+        "species": "Galega officinalis",
+        "year": 2010,
+        "count": 1
+      },
+      {
+        "species": "Papaver somniferum",
+        "year": 1900,
+        "count": 0
+      },
+      {
+        "species": "Papaver somniferum",
+        "year": 1950,
+        "count": 1
+      },
+      {
+        "species": "Papaver somniferum",
+        "year": 1980,
+        "count": 3
+      },
+      {
+        "species": "Papaver somniferum",
+        "year": 2000,
+        "count": 9
+      },
+      {
+        "species": "Papaver somniferum",
+        "year": 2010,
+        "count": 12
+      },
+      {
+        "species": "Taxus brevifolia",
+        "year": 1900,
+        "count": 0
+      },
+      {
+        "species": "Taxus brevifolia",
+        "year": 1950,
+        "count": 0
+      },
+      {
+        "species": "Taxus brevifolia",
+        "year": 1980,
+        "count": 0
+      },
+      {
+        "species": "Taxus brevifolia",
+        "year": 2000,
+        "count": 7
+      },
+      {
+        "species": "Taxus brevifolia",
+        "year": 2010,
+        "count": 3
+      }
+    ],
     "coverage": {
       "observation_end": 2026,
       "search_complete": false,
-      "synonym_version": null,
-      "evidence_search_description": "Not yet run. No missing record may be interpreted as never tested.",
+      "synonym_version": "accepted-name-only-v1",
+      "evidence_search_description": "EuropePMC/PubMed title-abstract query plan category-query-plan-2026-11-07-v1 for six case-study species across joint, metabolic and neuro indications; retrieval capped per pair. Pairs without a retrieved record are unknown, not untested.",
       "effort_coverage_complete": false
     },
     "test_coverage": [],
-    "claim_provenance": [],
-    "evidence_provenance": []
+    "claim_provenance": [
+      {
+        "claim_id": "claim-02c5a6fed3e84cda45",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 550195,
+        "span_end": 550489,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-0a273ebc7a2ea8c31c",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 525016,
+        "span_end": 525060,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-17d5cf5d119462f26b",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 549038,
+        "span_end": 549456,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-1d7c9a4a530a5b3fd4",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 550195,
+        "span_end": 550489,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-2624566bfb7c671477",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 549038,
+        "span_end": 549456,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-2f62a31c9a133aa2ff",
+        "source_id": "dioscorides-berendes-1902",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "span_start": 1359512,
+        "span_end": 1359693,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-2fcad9506ad9fca23d",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 550195,
+        "span_end": 550489,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-39bdb40f0bac803583",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 525061,
+        "span_end": 525168,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-5b2d75af33a235e1bb",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 549038,
+        "span_end": 549456,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-5cfddfe80d50eb9feb",
+        "source_id": "dioscorides-berendes-1902",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "span_start": 1359137,
+        "span_end": 1359418,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-6b2ea139315769028c",
+        "source_id": "dioscorides-berendes-1902",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "span_start": 1358870,
+        "span_end": 1359132,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-7d60c487ee3d5a7cee",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 550020,
+        "span_end": 550194,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-87caf2f6f4b6596722",
+        "source_id": "dioscorides-berendes-1902",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "span_start": 1359137,
+        "span_end": 1359418,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-970b2b0f6da8be8974",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 550195,
+        "span_end": 550489,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-9926c4108b0a2c5547",
+        "source_id": "dioscorides-berendes-1902",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "span_start": 1358426,
+        "span_end": 1358756,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-af6e0afdf6287cf84a",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 550195,
+        "span_end": 550489,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-b58a7fbd61b4a06e42",
+        "source_id": "dioscorides-berendes-1902",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "span_start": 1358426,
+        "span_end": 1358756,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-b6c60bb406a315554a",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 550195,
+        "span_end": 550489,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-cc21b40a2d9f1fbed7",
+        "source_id": "dioscorides-berendes-1902",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "span_start": 1357914,
+        "span_end": 1358135,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-d6063d8390c058c6e1",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 550847,
+        "span_end": 551137,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "claim_id": "claim-ed00016f4ebc9ddccc",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "span_start": 550493,
+        "span_end": 550585,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      }
+    ],
+    "evidence_provenance": [
+      {
+        "pmid": "10706040",
+        "record_sha256": "215bb6781243ea333f152de53c47faa4af133fd428a418ba069db29805b1e7c1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "11356425",
+        "record_sha256": "9778e8c505f8bc2a34a5732e05a473453f9a66cbfd88badb69e8253119adc6cd",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "16721733",
+        "record_sha256": "61f9ab1c792cc94134fd1c2783d7ad00e3885af209748a5a779fe200a193d54a",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "22584580",
+        "record_sha256": "6b08f9451b404b82661492fa8cc33717fcaead383dad911e719d33a777a035d5",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "23678406",
+        "record_sha256": "1caa3a7a904b83f76e6e860b4713a5460bfba933d5dd253454543ebd36dfad09",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "23922203",
+        "record_sha256": "4ecbb5708e991a9b0d74ad7cba0782fe15c7f62a911b2b6b194fb679bca5e9b2",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "27341820",
+        "record_sha256": "60823fde75d430cd2b2e722a0a1f60d84f7e37d6b558d164cfae9f007437e977",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "29156532",
+        "record_sha256": "ab59982e188d02537ea4252cbfd1b22f39409496d5686ada47f6b3806ecd1f27",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "30769401",
+        "record_sha256": "3f4ccc5d1ffa4127d094f054da04a569ad72508139c7fc2bb61ccfac02aaa2f2",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "32648076",
+        "record_sha256": "1ee3c09cad9bfa5cf35f38d470514fa83b2df25f93dae2154487f4891751126b",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "32922491",
+        "record_sha256": "1a10d1a44ddddc9035048a4dd9d8e03666ee2cfb1e232320ff26771e0d051684",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "34572994",
+        "record_sha256": "ff6ee769e962b34a5c9a34984f7b3f4a041c138678bbac67c268e27db5fc6565",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "35448458",
+        "record_sha256": "9cb1bdd173fb6026a99a5433f73ee38f75fcfe053886f26ef973a1a94e76e689",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "35546212",
+        "record_sha256": "a0957db00be8a37c2597bf671e739aae73dfb4ee4c12f5237d2086fe71581e3f",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "36766693",
+        "record_sha256": "78b94efbd2abd464683dd0a717bfe428053b1ffaf981d04980c16e910f2db284",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "37065035",
+        "record_sha256": "a2393a4e301e1d732f056e414db6983b3fe97c6f2b3db68caeb776a1609d5b9d",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "38116745",
+        "record_sha256": "d046491180abd9d4d1a9b2a17102f3d54e59357aaa82166fad744554333e24fa",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "38883108",
+        "record_sha256": "860126439a38b824d532cac98cce805748f3882944636524017364856a701212",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "39139975",
+        "record_sha256": "5f3ff85e100aa4c9af2afdc706362e67a237e0115755ab69ee1692d9e83dafdf",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "39702899",
+        "record_sha256": "584e1c71c1af98ef7c7cb64ce3efa4498a059c8d5e72d36de7854a9b2949e460",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "39815991",
+        "record_sha256": "6c8120c5880ed2f2f45026f4b4c1599e15312f4aaf6eab55fad0bc6c232ac0fc",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "39949440",
+        "record_sha256": "2cffa183a5784a8539e4bb20bedfc509fe83789c2a725770d48531a8a78dbcd2",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "40177774",
+        "record_sha256": "cdfdb81fab50aa67e34568017e0bfbb007aa22203787a7db892cf610ac475851",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "40193308",
+        "record_sha256": "1e6dd56e9723c84a57254b8de809ccad09b89ca8760eeb802d40814286d40b75",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "40193308",
+        "record_sha256": "1e6dd56e9723c84a57254b8de809ccad09b89ca8760eeb802d40814286d40b75",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "40370019",
+        "record_sha256": "10453b38ab39fbdc4390edb74ca60b1119206a78d91abfca285b8e9df626cc15",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "40377038",
+        "record_sha256": "d4941db2c4f9ea81721c882492da54f31b95175276e72c7af9afd131226ef1a1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "40676081",
+        "record_sha256": "1105b8a732ac7733a4d4bfd65bcf53b7803673cd8d7d922aca144a882ea2ecfa",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "40802935",
+        "record_sha256": "b6496b59761048852fa19c0dd39e6ee1d0c12c8f16a1dedd02c6109f8b82a253",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "40802935",
+        "record_sha256": "b6496b59761048852fa19c0dd39e6ee1d0c12c8f16a1dedd02c6109f8b82a253",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "40865347",
+        "record_sha256": "b84dee163bfecff821071b28c22dbf5007efe9ed805cf08bfdd2ef088a273e7d",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "41089054",
+        "record_sha256": "7c2597db8bd0780f9ecabbfece593aec02640128ddfa7cf8526ad1deab7e2315",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "41099792",
+        "record_sha256": "80506a71e1c701ff7fa87d142d455c38391b2d1975dd62471551468b825b42b3",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "41607420",
+        "record_sha256": "1e072b3e2fe769f499459a74d324889e2897efcca19c8c1b24a1d559a68a40e0",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "41698963",
+        "record_sha256": "6a06ad336841202fe07a4ca413eca26621f2e34e506379c6ddeafd6501b04962",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "41936651",
+        "record_sha256": "43b199900dd1e01f9d59509a6c9dfd7e644496a3236318e5a535ec9ae96ddb3a",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "42105688",
+        "record_sha256": "9b4d0e9797504bc3e6574ac080f29369f754aa7f2b4a3e53a658bd1dd43369cf",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "42157719",
+        "record_sha256": "82bde5e4feed833c3bc3be8668735e2cff727dbe9ecf8a50f6236da7efc00e9b",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "42280747",
+        "record_sha256": "f8ee56243a6b17a9673d37ace889143d7b5753397afe57f8b040cffaa579a3e8",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "pmid": "42939579",
+        "record_sha256": "08c7455a8bfff15d5ec400aa690b11846c54249a68b7a9d0f8897b0d16670aee",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      }
+    ]
   },
   "reviewed": {
-    "claims": [],
-    "raw_claims": [],
-    "identities": [],
-    "ledger": [],
-    "taxa": [],
-    "grades": []
+    "claims": [
+      {
+        "id": "claim-02c5a6fed3e84cda45",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "women",
+        "span_start": 550195,
+        "span_end": 550489,
+        "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+        "category": "gynaecological",
+        "category_candidates": [
+          {
+            "category": "gynaecological",
+            "score": 0.2896
+          },
+          {
+            "category": "infection",
+            "score": 0.041927
+          },
+          {
+            "category": "skin",
+            "score": 0.036933
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "gynaecological",
+              "score": 0.2896
+            },
+            {
+              "category": "infection",
+              "score": 0.041927
+            },
+            {
+              "category": "skin",
+              "score": 0.036933
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-0a273ebc7a2ea8c31c",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "PERIWINKLE.",
+        "historical_name_context": "PERIWINKLE.",
+        "plant_context_start": 523631,
+        "plant_context_end": 523642,
+        "plant_context_span": "PERIWINKLE.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "women",
+        "span_start": 525016,
+        "span_end": 525060,
+        "source_span": "The French used it to stay women’s\r\ncourses.",
+        "category": "gynaecological",
+        "category_candidates": [
+          {
+            "category": "gynaecological",
+            "score": 0.2896
+          },
+          {
+            "category": "infection",
+            "score": 0.041927
+          },
+          {
+            "category": "skin",
+            "score": 0.036933
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "gynaecological",
+              "score": 0.2896
+            },
+            {
+              "category": "infection",
+              "score": 0.041927
+            },
+            {
+              "category": "skin",
+              "score": 0.036933
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-periwinkle",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-periwinkle",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Vinca major",
+            "probability": 0.5
+          },
+          {
+            "species": "Vinca minor",
+            "probability": 0.5
+          }
+        ]
+      },
+      {
+        "id": "claim-17d5cf5d119462f26b",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "consumption",
+        "span_start": 549038,
+        "span_end": 549456,
+        "source_span": "The garden Poppy heads with seeds made into a syrup,\r\nis frequently, and to good effect used to procure rest, and sleep, in\r\nthe sick and weak, and to stay catarrhs and defluxions of thin rheums\r\nfrom the head into the stomach and lungs, causing a continual cough,\r\nthe fore-runner of a consumption; it helps also hoarseness of the\r\nthroat, and when one have lost their voice, which the oil of the seed\r\ndoth likewise.",
+        "category": "respiratory",
+        "category_candidates": [
+          {
+            "category": "respiratory",
+            "score": 0.311843
+          },
+          {
+            "category": "neuro",
+            "score": 0.090078
+          },
+          {
+            "category": "cardiovascular",
+            "score": 0.048884
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "respiratory",
+              "score": 0.311843
+            },
+            {
+              "category": "neuro",
+              "score": 0.090078
+            },
+            {
+              "category": "cardiovascular",
+              "score": 0.048884
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-1d7c9a4a530a5b3fd4",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "gout",
+        "span_start": 550195,
+        "span_end": 550489,
+        "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+        "category": "joint",
+        "category_candidates": [
+          {
+            "category": "joint",
+            "score": 0.258976
+          },
+          {
+            "category": "cardiovascular",
+            "score": 0.0
+          },
+          {
+            "category": "eye",
+            "score": 0.0
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "joint",
+              "score": 0.258976
+            },
+            {
+              "category": "cardiovascular",
+              "score": 0.0
+            },
+            {
+              "category": "eye",
+              "score": 0.0
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-2624566bfb7c671477",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "sleep",
+        "span_start": 549038,
+        "span_end": 549456,
+        "source_span": "The garden Poppy heads with seeds made into a syrup,\r\nis frequently, and to good effect used to procure rest, and sleep, in\r\nthe sick and weak, and to stay catarrhs and defluxions of thin rheums\r\nfrom the head into the stomach and lungs, causing a continual cough,\r\nthe fore-runner of a consumption; it helps also hoarseness of the\r\nthroat, and when one have lost their voice, which the oil of the seed\r\ndoth likewise.",
+        "category": "neuro",
+        "category_candidates": [
+          {
+            "category": "neuro",
+            "score": 0.273551
+          },
+          {
+            "category": "infection",
+            "score": 0.030781
+          },
+          {
+            "category": "gi",
+            "score": 0.028843
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "neuro",
+              "score": 0.273551
+            },
+            {
+              "category": "infection",
+              "score": 0.030781
+            },
+            {
+              "category": "gi",
+              "score": 0.028843
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-2f62a31c9a133aa2ff",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "schmerzen",
+        "span_start": 1359512,
+        "span_end": 1359693,
+        "source_span": "Er  lindert] \naber  auch  Kopfschmerzen,  wenn  er  mit  Rosenöl  aufgesprengt  wird,  Ohren*] \nschmerzen  aber,  wenn  er  mit  Mandelöl,  Safran  und  Myrrhe  eingetröpfelt \nwird.",
+        "category": "neuro",
+        "category_candidates": [
+          {
+            "category": "neuro",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "neuro",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-dioscorides-mekon",
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-2fcad9506ad9fca23d",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "pains",
+        "span_start": 550195,
+        "span_end": 550489,
+        "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+        "category": "neuro",
+        "category_candidates": [
+          {
+            "category": "neuro",
+            "score": 0.280457
+          },
+          {
+            "category": "cardiovascular",
+            "score": 0.117134
+          },
+          {
+            "category": "skin",
+            "score": 0.022029
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "neuro",
+              "score": 0.280457
+            },
+            {
+              "category": "cardiovascular",
+              "score": 0.117134
+            },
+            {
+              "category": "skin",
+              "score": 0.022029
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-39bdb40f0bac803583",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "PERIWINKLE.",
+        "historical_name_context": "PERIWINKLE.",
+        "plant_context_start": 523631,
+        "plant_context_end": 523642,
+        "plant_context_span": "PERIWINKLE.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "belly",
+        "span_start": 525061,
+        "span_end": 525168,
+        "source_span": "Dioscorides, Galen, and Ægineta, commend it against the lasks\r\nand fluxes of the belly to be drank in wine.",
+        "category": "gi",
+        "category_candidates": [
+          {
+            "category": "gi",
+            "score": 0.219185
+          },
+          {
+            "category": "skin",
+            "score": 0.044846
+          },
+          {
+            "category": "cardiovascular",
+            "score": 0.0
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "gi",
+              "score": 0.219185
+            },
+            {
+              "category": "skin",
+              "score": 0.044846
+            },
+            {
+              "category": "cardiovascular",
+              "score": 0.0
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-periwinkle",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-periwinkle",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Vinca major",
+            "probability": 0.5
+          },
+          {
+            "species": "Vinca minor",
+            "probability": 0.5
+          }
+        ]
+      },
+      {
+        "id": "claim-5b2d75af33a235e1bb",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "stomach",
+        "span_start": 549038,
+        "span_end": 549456,
+        "source_span": "The garden Poppy heads with seeds made into a syrup,\r\nis frequently, and to good effect used to procure rest, and sleep, in\r\nthe sick and weak, and to stay catarrhs and defluxions of thin rheums\r\nfrom the head into the stomach and lungs, causing a continual cough,\r\nthe fore-runner of a consumption; it helps also hoarseness of the\r\nthroat, and when one have lost their voice, which the oil of the seed\r\ndoth likewise.",
+        "category": "gi",
+        "category_candidates": [
+          {
+            "category": "gi",
+            "score": 0.23841
+          },
+          {
+            "category": "urinary",
+            "score": 0.104654
+          },
+          {
+            "category": "neuro",
+            "score": 0.056848
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "gi",
+              "score": 0.23841
+            },
+            {
+              "category": "urinary",
+              "score": 0.104654
+            },
+            {
+              "category": "neuro",
+              "score": 0.056848
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-5cfddfe80d50eb9feb",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "Husten",
+        "span_start": 1359137,
+        "span_end": 1359418,
+        "source_span": "Der  Saft  selbst,    welcher  noch  mehr  kältend, \nverdichtend  und  austrocknend  ist,  wirkt,  wenig,  etwa  in  der  Grösse  ein« \nErbse  genommen,  schmerzstillend,  schlafmachend  und  die  Verdauung  be \nf<)rdernd,    hilft  auch    bei    Husten  und    Magen aifectionen.",
+        "category": "respiratory",
+        "category_candidates": [
+          {
+            "category": "respiratory",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "respiratory",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-dioscorides-mekon",
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-6b2ea139315769028c",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "Frauen",
+        "span_start": 1358870,
+        "span_end": 1359132,
+        "source_span": "Der  Same   des   schwariien  Mohns    wird,    fein    gestoben,] \nmit  Wein  gegen  ßauchfluss  und  FItiss  der  Frauen  getrunken;  bei  den  anl \nSchlaflosigkeit  Leidenden  wird  er  mit  Wasser  als  Umschlag  auf  die  Stirn \nund   die  Schläfen  gelegt.",
+        "category": "gynaecological",
+        "category_candidates": [
+          {
+            "category": "gynaecological",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "gynaecological",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-dioscorides-mekon",
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-7d60c487ee3d5a7cee",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "pains",
+        "span_start": 550020,
+        "span_end": 550194,
+        "source_span": "It is generally used in treacle and mithridate, and\r\nin all other medicines that are made to procure rest and sleep, and to\r\nease pains in the head as well as in other parts.",
+        "category": "neuro",
+        "category_candidates": [
+          {
+            "category": "neuro",
+            "score": 0.280457
+          },
+          {
+            "category": "cardiovascular",
+            "score": 0.117134
+          },
+          {
+            "category": "skin",
+            "score": 0.022029
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "neuro",
+              "score": 0.280457
+            },
+            {
+              "category": "cardiovascular",
+              "score": 0.117134
+            },
+            {
+              "category": "skin",
+              "score": 0.022029
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-87caf2f6f4b6596722",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "Magen",
+        "span_start": 1359137,
+        "span_end": 1359418,
+        "source_span": "Der  Saft  selbst,    welcher  noch  mehr  kältend, \nverdichtend  und  austrocknend  ist,  wirkt,  wenig,  etwa  in  der  Grösse  ein« \nErbse  genommen,  schmerzstillend,  schlafmachend  und  die  Verdauung  be \nf<)rdernd,    hilft  auch    bei    Husten  und    Magen aifectionen.",
+        "category": "gi",
+        "category_candidates": [
+          {
+            "category": "gi",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "gi",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-dioscorides-mekon",
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-970b2b0f6da8be8974",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "cough",
+        "span_start": 550195,
+        "span_end": 550489,
+        "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+        "category": "respiratory",
+        "category_candidates": [
+          {
+            "category": "respiratory",
+            "score": 0.350798
+          },
+          {
+            "category": "neuro",
+            "score": 0.033505
+          },
+          {
+            "category": "gi",
+            "score": 0.022303
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "respiratory",
+              "score": 0.350798
+            },
+            {
+              "category": "neuro",
+              "score": 0.033505
+            },
+            {
+              "category": "gi",
+              "score": 0.022303
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-9926c4108b0a2c5547",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "Husten",
+        "span_start": 1358426,
+        "span_end": 1358756,
+        "source_span": "] \nWerden  die  Köpfchen  fUr  sich  allein  mit  Wasser  bis  auf  die  Hälfte  ein- \ngekocht, dann  wieder  mit  Honig  gekocht,  bis  die  Flüssigkeit  dicklich  ge-, \nworden   ist,    so  geben  sie  ein  Lcckmifctel,   welches  schmensstillend  wirkt \nbei  Husten,  Fluss  (Erkältung)  der  Luftrühre  und  Magen allectionen.",
+        "category": "respiratory",
+        "category_candidates": [
+          {
+            "category": "respiratory",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "respiratory",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-dioscorides-mekon",
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-af6e0afdf6287cf84a",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "agues",
+        "span_start": 550195,
+        "span_end": 550489,
+        "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+        "category": "infection",
+        "category_candidates": [
+          {
+            "category": "infection",
+            "score": 0.353425
+          },
+          {
+            "category": "skin",
+            "score": 0.01445
+          },
+          {
+            "category": "eye",
+            "score": 0.013569
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "infection",
+              "score": 0.353425
+            },
+            {
+              "category": "skin",
+              "score": 0.01445
+            },
+            {
+              "category": "eye",
+              "score": 0.013569
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-b58a7fbd61b4a06e42",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "Magen",
+        "span_start": 1358426,
+        "span_end": 1358756,
+        "source_span": "] \nWerden  die  Köpfchen  fUr  sich  allein  mit  Wasser  bis  auf  die  Hälfte  ein- \ngekocht, dann  wieder  mit  Honig  gekocht,  bis  die  Flüssigkeit  dicklich  ge-, \nworden   ist,    so  geben  sie  ein  Lcckmifctel,   welches  schmensstillend  wirkt \nbei  Husten,  Fluss  (Erkältung)  der  Luftrühre  und  Magen allectionen.",
+        "category": "gi",
+        "category_candidates": [
+          {
+            "category": "gi",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "gi",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-dioscorides-mekon",
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-b6c60bb406a315554a",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "belly",
+        "span_start": 550195,
+        "span_end": 550489,
+        "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+        "category": "gi",
+        "category_candidates": [
+          {
+            "category": "gi",
+            "score": 0.219185
+          },
+          {
+            "category": "skin",
+            "score": 0.044846
+          },
+          {
+            "category": "cardiovascular",
+            "score": 0.0
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "gi",
+              "score": 0.219185
+            },
+            {
+              "category": "skin",
+              "score": 0.044846
+            },
+            {
+              "category": "cardiovascular",
+              "score": 0.0
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-garden-poppy",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ]
+      },
+      {
+        "id": "claim-cc21b40a2d9f1fbed7",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "Schlaf",
+        "span_start": 1357914,
+        "span_end": 1358135,
+        "source_span": "Ge- \nmeinsam  ist  ihnen  die  kältende  Kraft,   deshalb   bewirkeu  die  in  Wa»sei \ngekochten  Blätter  und  Kftpfe  als  Bähmittcl  Schlaf;  die  Abkochung  davoi \ntvird    auch    gegen   Schlaflosigkeit   getrunken.",
+        "category": "neuro",
+        "category_candidates": [
+          {
+            "category": "neuro",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "neuro",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-dioscorides-mekon",
+        "identity_available_year": 1902,
+        "layer": "dioscorides",
+        "candidates": [
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ]
+      },
+      {
+        "id": "claim-d6063d8390c058c6e1",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "agues",
+        "span_start": 550847,
+        "span_end": 551137,
+        "source_span": "The distilled water of the flowers is held to be of much good\r\nuse against surfeits, being drank evening and morning; It is also more\r\ncooling than any of the other Poppies, and therefore cannot but be as\r\neffectual in hot agues, frenzies, and other inflammations either inward\r\nor outward.",
+        "category": "infection",
+        "category_candidates": [
+          {
+            "category": "infection",
+            "score": 0.353425
+          },
+          {
+            "category": "skin",
+            "score": 0.01445
+          },
+          {
+            "category": "eye",
+            "score": 0.013569
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "infection",
+              "score": 0.353425
+            },
+            {
+              "category": "skin",
+              "score": 0.01445
+            },
+            {
+              "category": "eye",
+              "score": 0.013569
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-wild-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-wild-poppy",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.9
+          },
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.1
+          }
+        ]
+      },
+      {
+        "id": "claim-ed00016f4ebc9ddccc",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "sickness",
+        "span_start": 550493,
+        "span_end": 550585,
+        "source_span": "The Wild Poppy, or Corn Rose (as Matthiolus saith) is good to prevent\r\nthe falling-sickness.",
+        "category": "neuro",
+        "category_candidates": [
+          {
+            "category": "neuro",
+            "score": 0.214247
+          },
+          {
+            "category": "eye",
+            "score": 0.101777
+          },
+          {
+            "category": "respiratory",
+            "score": 0.046442
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "neuro",
+              "score": 0.214247
+            },
+            {
+              "category": "eye",
+              "score": 0.101777
+            },
+            {
+              "category": "respiratory",
+              "score": 0.046442
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-wild-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed",
+        "identity_group": "identity-culpeper-wild-poppy",
+        "identity_available_year": 1753,
+        "layer": "renaissance",
+        "candidates": [
+          {
+            "species": "Papaver rhoeas",
+            "probability": 0.9
+          },
+          {
+            "species": "Papaver somniferum",
+            "probability": 0.1
+          }
+        ]
+      }
+    ],
+    "raw_claims": [
+      {
+        "id": "claim-02c5a6fed3e84cda45",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "women",
+        "span_start": 550195,
+        "span_end": 550489,
+        "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+        "category": "gynaecological",
+        "category_candidates": [
+          {
+            "category": "gynaecological",
+            "score": 0.2896
+          },
+          {
+            "category": "infection",
+            "score": 0.041927
+          },
+          {
+            "category": "skin",
+            "score": 0.036933
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "gynaecological",
+              "score": 0.2896
+            },
+            {
+              "category": "infection",
+              "score": 0.041927
+            },
+            {
+              "category": "skin",
+              "score": 0.036933
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-0a273ebc7a2ea8c31c",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "PERIWINKLE.",
+        "historical_name_context": "PERIWINKLE.",
+        "plant_context_start": 523631,
+        "plant_context_end": 523642,
+        "plant_context_span": "PERIWINKLE.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "women",
+        "span_start": 525016,
+        "span_end": 525060,
+        "source_span": "The French used it to stay women’s\r\ncourses.",
+        "category": "gynaecological",
+        "category_candidates": [
+          {
+            "category": "gynaecological",
+            "score": 0.2896
+          },
+          {
+            "category": "infection",
+            "score": 0.041927
+          },
+          {
+            "category": "skin",
+            "score": 0.036933
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "gynaecological",
+              "score": 0.2896
+            },
+            {
+              "category": "infection",
+              "score": 0.041927
+            },
+            {
+              "category": "skin",
+              "score": 0.036933
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-periwinkle",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-17d5cf5d119462f26b",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "consumption",
+        "span_start": 549038,
+        "span_end": 549456,
+        "source_span": "The garden Poppy heads with seeds made into a syrup,\r\nis frequently, and to good effect used to procure rest, and sleep, in\r\nthe sick and weak, and to stay catarrhs and defluxions of thin rheums\r\nfrom the head into the stomach and lungs, causing a continual cough,\r\nthe fore-runner of a consumption; it helps also hoarseness of the\r\nthroat, and when one have lost their voice, which the oil of the seed\r\ndoth likewise.",
+        "category": "respiratory",
+        "category_candidates": [
+          {
+            "category": "respiratory",
+            "score": 0.311843
+          },
+          {
+            "category": "neuro",
+            "score": 0.090078
+          },
+          {
+            "category": "cardiovascular",
+            "score": 0.048884
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "respiratory",
+              "score": 0.311843
+            },
+            {
+              "category": "neuro",
+              "score": 0.090078
+            },
+            {
+              "category": "cardiovascular",
+              "score": 0.048884
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-1d7c9a4a530a5b3fd4",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "gout",
+        "span_start": 550195,
+        "span_end": 550489,
+        "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+        "category": "joint",
+        "category_candidates": [
+          {
+            "category": "joint",
+            "score": 0.258976
+          },
+          {
+            "category": "cardiovascular",
+            "score": 0.0
+          },
+          {
+            "category": "eye",
+            "score": 0.0
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "joint",
+              "score": 0.258976
+            },
+            {
+              "category": "cardiovascular",
+              "score": 0.0
+            },
+            {
+              "category": "eye",
+              "score": 0.0
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-2624566bfb7c671477",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "sleep",
+        "span_start": 549038,
+        "span_end": 549456,
+        "source_span": "The garden Poppy heads with seeds made into a syrup,\r\nis frequently, and to good effect used to procure rest, and sleep, in\r\nthe sick and weak, and to stay catarrhs and defluxions of thin rheums\r\nfrom the head into the stomach and lungs, causing a continual cough,\r\nthe fore-runner of a consumption; it helps also hoarseness of the\r\nthroat, and when one have lost their voice, which the oil of the seed\r\ndoth likewise.",
+        "category": "neuro",
+        "category_candidates": [
+          {
+            "category": "neuro",
+            "score": 0.273551
+          },
+          {
+            "category": "infection",
+            "score": 0.030781
+          },
+          {
+            "category": "gi",
+            "score": 0.028843
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "neuro",
+              "score": 0.273551
+            },
+            {
+              "category": "infection",
+              "score": 0.030781
+            },
+            {
+              "category": "gi",
+              "score": 0.028843
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-2f62a31c9a133aa2ff",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "schmerzen",
+        "span_start": 1359512,
+        "span_end": 1359693,
+        "source_span": "Er  lindert] \naber  auch  Kopfschmerzen,  wenn  er  mit  Rosenöl  aufgesprengt  wird,  Ohren*] \nschmerzen  aber,  wenn  er  mit  Mandelöl,  Safran  und  Myrrhe  eingetröpfelt \nwird.",
+        "category": "neuro",
+        "category_candidates": [
+          {
+            "category": "neuro",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "neuro",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-2fcad9506ad9fca23d",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "pains",
+        "span_start": 550195,
+        "span_end": 550489,
+        "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+        "category": "neuro",
+        "category_candidates": [
+          {
+            "category": "neuro",
+            "score": 0.280457
+          },
+          {
+            "category": "cardiovascular",
+            "score": 0.117134
+          },
+          {
+            "category": "skin",
+            "score": 0.022029
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "neuro",
+              "score": 0.280457
+            },
+            {
+              "category": "cardiovascular",
+              "score": 0.117134
+            },
+            {
+              "category": "skin",
+              "score": 0.022029
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-39bdb40f0bac803583",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "PERIWINKLE.",
+        "historical_name_context": "PERIWINKLE.",
+        "plant_context_start": 523631,
+        "plant_context_end": 523642,
+        "plant_context_span": "PERIWINKLE.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "belly",
+        "span_start": 525061,
+        "span_end": 525168,
+        "source_span": "Dioscorides, Galen, and Ægineta, commend it against the lasks\r\nand fluxes of the belly to be drank in wine.",
+        "category": "gi",
+        "category_candidates": [
+          {
+            "category": "gi",
+            "score": 0.219185
+          },
+          {
+            "category": "skin",
+            "score": 0.044846
+          },
+          {
+            "category": "cardiovascular",
+            "score": 0.0
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "gi",
+              "score": 0.219185
+            },
+            {
+              "category": "skin",
+              "score": 0.044846
+            },
+            {
+              "category": "cardiovascular",
+              "score": 0.0
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-periwinkle",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-5b2d75af33a235e1bb",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "stomach",
+        "span_start": 549038,
+        "span_end": 549456,
+        "source_span": "The garden Poppy heads with seeds made into a syrup,\r\nis frequently, and to good effect used to procure rest, and sleep, in\r\nthe sick and weak, and to stay catarrhs and defluxions of thin rheums\r\nfrom the head into the stomach and lungs, causing a continual cough,\r\nthe fore-runner of a consumption; it helps also hoarseness of the\r\nthroat, and when one have lost their voice, which the oil of the seed\r\ndoth likewise.",
+        "category": "gi",
+        "category_candidates": [
+          {
+            "category": "gi",
+            "score": 0.23841
+          },
+          {
+            "category": "urinary",
+            "score": 0.104654
+          },
+          {
+            "category": "neuro",
+            "score": 0.056848
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "gi",
+              "score": 0.23841
+            },
+            {
+              "category": "urinary",
+              "score": 0.104654
+            },
+            {
+              "category": "neuro",
+              "score": 0.056848
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-5cfddfe80d50eb9feb",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "Husten",
+        "span_start": 1359137,
+        "span_end": 1359418,
+        "source_span": "Der  Saft  selbst,    welcher  noch  mehr  kältend, \nverdichtend  und  austrocknend  ist,  wirkt,  wenig,  etwa  in  der  Grösse  ein« \nErbse  genommen,  schmerzstillend,  schlafmachend  und  die  Verdauung  be \nf<)rdernd,    hilft  auch    bei    Husten  und    Magen aifectionen.",
+        "category": "respiratory",
+        "category_candidates": [
+          {
+            "category": "respiratory",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "respiratory",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-6b2ea139315769028c",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "Frauen",
+        "span_start": 1358870,
+        "span_end": 1359132,
+        "source_span": "Der  Same   des   schwariien  Mohns    wird,    fein    gestoben,] \nmit  Wein  gegen  ßauchfluss  und  FItiss  der  Frauen  getrunken;  bei  den  anl \nSchlaflosigkeit  Leidenden  wird  er  mit  Wasser  als  Umschlag  auf  die  Stirn \nund   die  Schläfen  gelegt.",
+        "category": "gynaecological",
+        "category_candidates": [
+          {
+            "category": "gynaecological",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "gynaecological",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-7d60c487ee3d5a7cee",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "pains",
+        "span_start": 550020,
+        "span_end": 550194,
+        "source_span": "It is generally used in treacle and mithridate, and\r\nin all other medicines that are made to procure rest and sleep, and to\r\nease pains in the head as well as in other parts.",
+        "category": "neuro",
+        "category_candidates": [
+          {
+            "category": "neuro",
+            "score": 0.280457
+          },
+          {
+            "category": "cardiovascular",
+            "score": 0.117134
+          },
+          {
+            "category": "skin",
+            "score": 0.022029
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "neuro",
+              "score": 0.280457
+            },
+            {
+              "category": "cardiovascular",
+              "score": 0.117134
+            },
+            {
+              "category": "skin",
+              "score": 0.022029
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-87caf2f6f4b6596722",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "Magen",
+        "span_start": 1359137,
+        "span_end": 1359418,
+        "source_span": "Der  Saft  selbst,    welcher  noch  mehr  kältend, \nverdichtend  und  austrocknend  ist,  wirkt,  wenig,  etwa  in  der  Grösse  ein« \nErbse  genommen,  schmerzstillend,  schlafmachend  und  die  Verdauung  be \nf<)rdernd,    hilft  auch    bei    Husten  und    Magen aifectionen.",
+        "category": "gi",
+        "category_candidates": [
+          {
+            "category": "gi",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "gi",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-970b2b0f6da8be8974",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "cough",
+        "span_start": 550195,
+        "span_end": 550489,
+        "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+        "category": "respiratory",
+        "category_candidates": [
+          {
+            "category": "respiratory",
+            "score": 0.350798
+          },
+          {
+            "category": "neuro",
+            "score": 0.033505
+          },
+          {
+            "category": "gi",
+            "score": 0.022303
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "respiratory",
+              "score": 0.350798
+            },
+            {
+              "category": "neuro",
+              "score": 0.033505
+            },
+            {
+              "category": "gi",
+              "score": 0.022303
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-9926c4108b0a2c5547",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "Husten",
+        "span_start": 1358426,
+        "span_end": 1358756,
+        "source_span": "] \nWerden  die  Köpfchen  fUr  sich  allein  mit  Wasser  bis  auf  die  Hälfte  ein- \ngekocht, dann  wieder  mit  Honig  gekocht,  bis  die  Flüssigkeit  dicklich  ge-, \nworden   ist,    so  geben  sie  ein  Lcckmifctel,   welches  schmensstillend  wirkt \nbei  Husten,  Fluss  (Erkältung)  der  Luftrühre  und  Magen allectionen.",
+        "category": "respiratory",
+        "category_candidates": [
+          {
+            "category": "respiratory",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "respiratory",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-af6e0afdf6287cf84a",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "agues",
+        "span_start": 550195,
+        "span_end": 550489,
+        "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+        "category": "infection",
+        "category_candidates": [
+          {
+            "category": "infection",
+            "score": 0.353425
+          },
+          {
+            "category": "skin",
+            "score": 0.01445
+          },
+          {
+            "category": "eye",
+            "score": 0.013569
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "infection",
+              "score": 0.353425
+            },
+            {
+              "category": "skin",
+              "score": 0.01445
+            },
+            {
+              "category": "eye",
+              "score": 0.013569
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-b58a7fbd61b4a06e42",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "Magen",
+        "span_start": 1358426,
+        "span_end": 1358756,
+        "source_span": "] \nWerden  die  Köpfchen  fUr  sich  allein  mit  Wasser  bis  auf  die  Hälfte  ein- \ngekocht, dann  wieder  mit  Honig  gekocht,  bis  die  Flüssigkeit  dicklich  ge-, \nworden   ist,    so  geben  sie  ein  Lcckmifctel,   welches  schmensstillend  wirkt \nbei  Husten,  Fluss  (Erkältung)  der  Luftrühre  und  Magen allectionen.",
+        "category": "gi",
+        "category_candidates": [
+          {
+            "category": "gi",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "gi",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-b6c60bb406a315554a",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "belly",
+        "span_start": 550195,
+        "span_end": 550489,
+        "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+        "category": "gi",
+        "category_candidates": [
+          {
+            "category": "gi",
+            "score": 0.219185
+          },
+          {
+            "category": "skin",
+            "score": 0.044846
+          },
+          {
+            "category": "cardiovascular",
+            "score": 0.0
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "gi",
+              "score": 0.219185
+            },
+            {
+              "category": "skin",
+              "score": 0.044846
+            },
+            {
+              "category": "cardiovascular",
+              "score": 0.0
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-garden-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-cc21b40a2d9f1fbed7",
+        "source_id": "dioscorides-berendes-1902",
+        "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+        "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+        "plant_context_start": 1357055,
+        "plant_context_end": 1357118,
+        "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "Schlaf",
+        "span_start": 1357914,
+        "span_end": 1358135,
+        "source_span": "Ge- \nmeinsam  ist  ihnen  die  kältende  Kraft,   deshalb   bewirkeu  die  in  Wa»sei \ngekochten  Blätter  und  Kftpfe  als  Bähmittcl  Schlaf;  die  Abkochung  davoi \ntvird    auch    gegen   Schlaflosigkeit   getrunken.",
+        "category": "neuro",
+        "category_candidates": [
+          {
+            "category": "neuro",
+            "score": 1.0
+          }
+        ],
+        "harmonisation": {
+          "method": "german_ailment_lexicon_baseline_v1",
+          "candidates": [
+            {
+              "category": "neuro",
+              "score": 1.0
+            }
+          ],
+          "calibrated": false,
+          "requires_adjudication": true
+        },
+        "year": 60,
+        "edition_year": 1902,
+        "era": "dioscorides",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-dioscorides-mekon",
+        "method": "manuscript_lexicon_baseline_v1",
+        "text_layer": "translated_original_prefix_heuristic",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-d6063d8390c058c6e1",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "agues",
+        "span_start": 550847,
+        "span_end": 551137,
+        "source_span": "The distilled water of the flowers is held to be of much good\r\nuse against surfeits, being drank evening and morning; It is also more\r\ncooling than any of the other Poppies, and therefore cannot but be as\r\neffectual in hot agues, frenzies, and other inflammations either inward\r\nor outward.",
+        "category": "infection",
+        "category_candidates": [
+          {
+            "category": "infection",
+            "score": 0.353425
+          },
+          {
+            "category": "skin",
+            "score": 0.01445
+          },
+          {
+            "category": "eye",
+            "score": 0.013569
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "infection",
+              "score": 0.353425
+            },
+            {
+              "category": "skin",
+              "score": 0.01445
+            },
+            {
+              "category": "eye",
+              "score": 0.013569
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-wild-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      },
+      {
+        "id": "claim-ed00016f4ebc9ddccc",
+        "source_id": "culpeper-gutenberg-49513",
+        "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+        "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "plant_name_as_written": "POPPY.",
+        "historical_name_context": "POPPY.",
+        "plant_context_start": 545222,
+        "plant_context_end": 545228,
+        "plant_context_span": "POPPY.",
+        "part": null,
+        "preparation": null,
+        "ailment_as_written": "sickness",
+        "span_start": 550493,
+        "span_end": 550585,
+        "source_span": "The Wild Poppy, or Corn Rose (as Matthiolus saith) is good to prevent\r\nthe falling-sickness.",
+        "category": "neuro",
+        "category_candidates": [
+          {
+            "category": "neuro",
+            "score": 0.214247
+          },
+          {
+            "category": "eye",
+            "score": 0.101777
+          },
+          {
+            "category": "respiratory",
+            "score": 0.046442
+          }
+        ],
+        "harmonisation": {
+          "method": "word_character_tfidf_cosine_baseline",
+          "version": "organ-system-lexicon-2026-11-07-v1",
+          "candidates": [
+            {
+              "category": "neuro",
+              "score": 0.214247
+            },
+            {
+              "category": "eye",
+              "score": 0.101777
+            },
+            {
+              "category": "respiratory",
+              "score": 0.046442
+            }
+          ],
+          "requires_adjudication": true,
+          "calibrated": false
+        },
+        "year": 1653,
+        "edition_year": 1850,
+        "era": "renaissance",
+        "reviewed": true,
+        "historical_date_reviewed": true,
+        "licence_reviewed": true,
+        "identity_id": "identity-culpeper-wild-poppy",
+        "method": "therapeutic_cue_and_ailment_lexicon_v1",
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+        "status": "reviewed"
+      }
+    ],
+    "identities": [
+      {
+        "id": "identity-culpeper-garden-poppy",
+        "candidates": [
+          {
+            "species_id": "Papaver somniferum",
+            "probability": 0.95
+          },
+          {
+            "species_id": "Papaver rhoeas",
+            "probability": 0.05
+          }
+        ],
+        "available_year": 1753,
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "note": "Culpeper’s “garden poppy” (white/black, opium-yielding) matches P. somniferum; Linnaean name available 1753.",
+        "reviewed": true,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "id": "identity-culpeper-periwinkle",
+        "candidates": [
+          {
+            "species_id": "Vinca major",
+            "probability": 0.5
+          },
+          {
+            "species_id": "Vinca minor",
+            "probability": 0.5
+          }
+        ],
+        "available_year": 1753,
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "note": "English periwinkle is Vinca, not Catharanthus; the two Vinca species are not separable from the text.",
+        "reviewed": true,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "id": "identity-culpeper-wild-poppy",
+        "candidates": [
+          {
+            "species_id": "Papaver rhoeas",
+            "probability": 0.9
+          },
+          {
+            "species_id": "Papaver somniferum",
+            "probability": 0.1
+          }
+        ],
+        "available_year": 1753,
+        "source_url": "https://www.gutenberg.org/ebooks/49513",
+        "note": "“Wild Poppy, or Corn Rose” and red-flower distilled water: P. rhoeas.",
+        "reviewed": true,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      },
+      {
+        "id": "identity-dioscorides-mekon",
+        "candidates": [
+          {
+            "species_id": "Papaver somniferum",
+            "probability": 0.8
+          },
+          {
+            "species_id": "Papaver rhoeas",
+            "probability": 0.2
+          }
+        ],
+        "available_year": 1902,
+        "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+        "note": "Dioscorides II.65 mekon covers cultivated and wild poppies; Berendes 1902 identification.",
+        "reviewed": true,
+        "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+      }
+    ],
+    "ledger": [
+      {
+        "species": "Catharanthus roseus",
+        "category": "joint",
+        "tested_year": 2025,
+        "confirmed_year": null,
+        "refuted_year": null,
+        "in_vitro_confirmed_year": 2025,
+        "pmids": [
+          "40802935"
+        ]
+      },
+      {
+        "species": "Catharanthus roseus",
+        "category": "metabolic",
+        "tested_year": 2025,
+        "confirmed_year": 2025,
+        "refuted_year": null,
+        "in_vitro_confirmed_year": 2025,
+        "pmids": [
+          "39949440",
+          "40676081",
+          "40802935"
+        ]
+      },
+      {
+        "species": "Galega officinalis",
+        "category": "metabolic",
+        "tested_year": 2021,
+        "confirmed_year": 2021,
+        "refuted_year": null,
+        "in_vitro_confirmed_year": 2021,
+        "pmids": [
+          "34572994",
+          "39139975",
+          "42105688"
+        ]
+      },
+      {
+        "species": "Papaver somniferum",
+        "category": "metabolic",
+        "tested_year": 2025,
+        "confirmed_year": 2025,
+        "refuted_year": null,
+        "in_vitro_confirmed_year": 2025,
+        "pmids": [
+          "40193308"
+        ]
+      }
+    ],
+    "taxa": [
+      {
+        "species": "Catharanthus roseus",
+        "family": "Apocynaceae",
+        "regions": [],
+        "hazard_trail": [
+          "The discovery of cytotoxic alkaloids supplies no evidence for safe diabetes self-treatment with the plant."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Colchicum autumnale",
+        "family": "Colchicaceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "All parts are poisonous. ANSES reported 28 confusions with wild or many-flowered garlic in 2020–22, including two deaths."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Galanthus nivalis",
+        "family": "Amaryllidaceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "A prescription-drug discovery does not establish the safety or efficacy of a raw snowdrop preparation."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Galega officinalis",
+        "family": "Fabaceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "The historical overview reports toxicity in early guanidine derivatives. It supplies no safe botanical dosing basis."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Papaver rhoeas",
+        "family": "Papaveraceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "Contains rhoeadine alkaloids; mildly toxic to livestock and humans in quantity."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Papaver somniferum",
+        "family": "Papaveraceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "Morphine is addictive and can cause fatal poisoning. The DEA documents deaths associated with historical morphine-containing syrups."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Taxus brevifolia",
+        "family": "Taxaceae",
+        "regions": [],
+        "hazard_trail": [
+          "Clinical paclitaxel use does not make yew material suitable for self-treatment; bark harvesting also kills the tree."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Vinca major",
+        "family": "Apocynaceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "Contains vinca alkaloids; not for self-medication."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      },
+      {
+        "species": "Vinca minor",
+        "family": "Apocynaceae",
+        "regions": [
+          "Mediterranean"
+        ],
+        "hazard_trail": [
+          "Contains vinca alkaloids; not for self-medication."
+        ],
+        "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+        "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c"
+      }
+    ],
+    "grades": [
+      {
+        "pmid": "10706040",
+        "species_id": "Galanthus nivalis",
+        "category": "joint",
+        "year": 2000,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Snowdrop lectin used only as a laboratory stain.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/10706040",
+        "title": "Donor treatment with mycophenolate mofetil: protection against ischemia-reperfusion injury in the rat."
+      },
+      {
+        "pmid": "11356425",
+        "species_id": "Galanthus nivalis",
+        "category": "metabolic",
+        "year": 2001,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "GNA insecticidal lectin binding in moth larvae.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/11356425",
+        "title": "In vitro and in vivo binding of snowdrop (Galanthus nivalis agglutinin; GNA) and jackbean (Canavalia ensiformis; Con A) lectins within tomato moth (Lacanobia oleracea) larvae; mechanisms of insecticidal action."
+      },
+      {
+        "pmid": "16721733",
+        "species_id": "Galanthus nivalis",
+        "category": "metabolic",
+        "year": 2006,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "GNA histochemistry in Xenopus embryos.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/16721733",
+        "title": "Identification of mannose moieties in N- and O-linked oligosaccharides of the primordial germ cells of Xenopus embryos."
+      },
+      {
+        "pmid": "22584580",
+        "species_id": "Galanthus nivalis",
+        "category": "metabolic",
+        "year": 2012,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Lectin used as a glycan tool in amylase binding study.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/22584580",
+        "title": "Functional regulation of sugar assimilation by N-glycan-specific interaction of pancreatic α-amylase with glycoproteins of duodenal brush border membrane."
+      },
+      {
+        "pmid": "23678406",
+        "species_id": "Taxus brevifolia",
+        "category": "metabolic",
+        "year": 2011,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "unclear",
+        "study_type": "original",
+        "rationale": "Callus culture production study.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/23678406",
+        "title": "Effect of Antioxidants and Carbohydrates in Callus Cultures of Taxus brevifolia: Evaluation of Browning, Callus Growth, Total Phenolics and Paclitaxel Production."
+      },
+      {
+        "pmid": "23922203",
+        "species_id": "Galanthus nivalis",
+        "category": "metabolic",
+        "year": 2013,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Lectin pretreatment of amoebae; no metabolic indication.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/23922203",
+        "title": "Naegleria fowleri glycoconjugates with residues of α-D-mannose are involved in adherence of trophozoites to mouse nasal mucosa."
+      },
+      {
+        "pmid": "27341820",
+        "species_id": "Galanthus nivalis",
+        "category": "metabolic",
+        "year": 2016,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "GNA lectin used as a glycan probe in silkworm tissue.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/27341820",
+        "title": "Monosaccharide profiling of silkworm (Bombyx mori L.) nervous system during development and aging."
+      },
+      {
+        "pmid": "29156532",
+        "species_id": "Taxus brevifolia",
+        "category": "joint",
+        "year": 2017,
+        "verdict": "supports",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Paclitaxel reduced inflammatory liver injury in septic mice; compound only.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/29156532",
+        "title": "Paclitaxel alleviated liver injury of septic mice by alleviating inflammatory response via microRNA-27a/TAB3/NF-κB signaling pathway."
+      },
+      {
+        "pmid": "30769401",
+        "species_id": "Papaver somniferum",
+        "category": "metabolic",
+        "year": 2008,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "unclear",
+        "study_type": "original",
+        "rationale": "Crop plant-pathology report.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/30769401",
+        "title": "First Report of Pectobacterium carotovorum Causing Soft Rot of Opium Poppy in Spain."
+      },
+      {
+        "pmid": "32648076",
+        "species_id": "Papaver somniferum",
+        "category": "metabolic",
+        "year": 2020,
+        "verdict": "irrelevant",
+        "evidence_tier": "in_vitro",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Noscapine in cardiomyocyte hypoxia model; not a metabolic indication.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/32648076",
+        "title": "Noscapine protects the H9c2 cardiomyocytes of rats against oxygen-glucose deprivation/reperfusion injury."
+      },
+      {
+        "pmid": "32922491",
+        "species_id": "Papaver somniferum",
+        "category": "metabolic",
+        "year": 2020,
+        "verdict": "irrelevant",
+        "evidence_tier": "in_vitro",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Noscapine neuroprotection in cultured neurons; not metabolic.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/32922491",
+        "title": "Noscapine Modulates Neuronal Response to Oxygen-glucose Deprivation/Reperfusion Injury Via Activation of Sigma-1 Receptor in Primary Cortical Cultures."
+      },
+      {
+        "pmid": "34572994",
+        "species_id": "Galega officinalis",
+        "category": "metabolic",
+        "year": 2021,
+        "verdict": "supports",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "botanical",
+        "study_type": "original",
+        "rationale": "Alkaloid-free G. officinalis extract lowered glucose and HbA1c and protected beta-cells in diabetic rats.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/34572994",
+        "title": "Medicinal Plants Galega officinalis L. and Yacon Leaves as Potential Sources of Antidiabetic Drugs."
+      },
+      {
+        "pmid": "35448458",
+        "species_id": "Galega officinalis",
+        "category": "joint",
+        "year": 2022,
+        "verdict": "irrelevant",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Metformin against pesticide neurotoxicity; compound and off-indication.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/35448458",
+        "title": "Molecular Evidence on the Inhibitory Potential of Metformin against Chlorpyrifos-Induced Neurotoxicity."
+      },
+      {
+        "pmid": "35546212",
+        "species_id": "Papaver somniferum",
+        "category": "joint",
+        "year": 2022,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "unclear",
+        "study_type": "original",
+        "rationale": "Biosynthesis in Macleaya cordata; poppy not studied pharmacologically.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/35546212",
+        "title": "Plant-microbe hybrid synthesis provides new insights for the efficient use of Macleaya cordata."
+      },
+      {
+        "pmid": "36766693",
+        "species_id": "Galanthus nivalis",
+        "category": "metabolic",
+        "year": 2023,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "GNA lectin used as a glycan probe in a dialysis cohort.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/36766693",
+        "title": "Prediction of Mortality in Patients on Peritoneal Dialysis Based on the Fibrinogen Mannosylation."
+      },
+      {
+        "pmid": "37065035",
+        "species_id": "Catharanthus roseus",
+        "category": "neuro",
+        "year": 2023,
+        "verdict": "supports",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Hirsutidin (anthocyanidin) protected against rotenone parkinsonism in rats; compound only.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/37065035",
+        "title": "Protective Effect of Hirsutidin against Rotenone-Induced Parkinsonism via Inhibition of Caspase-3/Interleukins-6 and 1β."
+      },
+      {
+        "pmid": "38116745",
+        "species_id": "Colchicum autumnale",
+        "category": "joint",
+        "year": 2023,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "In-silico docking of isolated constituents; no experimental outcome.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/38116745",
+        "title": "Comprehending interaction mechanism of natural actives of Colchicum autumnale L. for rheumatoid arthritis using integrative chemoinformatic approaches."
+      },
+      {
+        "pmid": "38883108",
+        "species_id": "Catharanthus roseus",
+        "category": "joint",
+        "year": 2024,
+        "verdict": "irrelevant",
+        "evidence_tier": "in_vitro",
+        "preparation_scope": "unclear",
+        "study_type": "original",
+        "rationale": "ZnO nanoparticle green synthesis; activity attributable to the nanoparticle.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/38883108",
+        "title": "Green Synthesis and Characterization of Zinc Oxide Nanoparticles Using Catharanthus roseus Extract: A Novel Approach."
+      },
+      {
+        "pmid": "39139975",
+        "species_id": "Galega officinalis",
+        "category": "metabolic",
+        "year": 2024,
+        "verdict": "supports",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "botanical",
+        "study_type": "original",
+        "rationale": "G. officinalis extract lowered blood glucose in diabetic mice, compared with metformin.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/39139975",
+        "title": "Optimizing antidiabetic properties of Galega officinalis extract: Investigating the effects of foliar application of chitosan and salicylic acid."
+      },
+      {
+        "pmid": "39702899",
+        "species_id": "Catharanthus roseus",
+        "category": "joint",
+        "year": 2024,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "unclear",
+        "study_type": "original",
+        "rationale": "NMR chemical profiling only.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/39702899",
+        "title": "Unlocking the Chemical Diversity of Plant Catharanthus roseus: Nuclear Magnetic Resonance Spectroscopy Approach."
+      },
+      {
+        "pmid": "39815991",
+        "species_id": "Taxus brevifolia",
+        "category": "joint",
+        "year": 2025,
+        "verdict": "irrelevant",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Nerolidol against paclitaxel reproductive toxicity.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/39815991",
+        "title": "Protective Effect of Nerolidol on Paclitaxel-Induced Reproductive Toxicity in Rats: Oxidative Stress and Inflammation."
+      },
+      {
+        "pmid": "39949440",
+        "species_id": "Catharanthus roseus",
+        "category": "metabolic",
+        "year": 2025,
+        "verdict": "supports",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "botanical",
+        "study_type": "original",
+        "rationale": "Methanol leaf extract improved lipid profile of STZ-diabetic rats.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/39949440",
+        "title": "Protective Role of Methanol Leaf Extract of Catharanthus Roseus in Lipid Profile Modulation in Diabetic Wistar Rats."
+      },
+      {
+        "pmid": "40177774",
+        "species_id": "Colchicum autumnale",
+        "category": "joint",
+        "year": 2025,
+        "verdict": "irrelevant",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Purified colchicine in a mouse aortic dissection model; not a joint indication.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/40177774",
+        "title": "Colchicine Inhibits Smooth Muscle Cell Phenotypic Switch and Aortic Dissection in Mice-Brief Report."
+      },
+      {
+        "pmid": "40193308",
+        "species_id": "Papaver somniferum",
+        "category": "joint",
+        "year": 2025,
+        "verdict": "irrelevant",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "botanical",
+        "study_type": "original",
+        "rationale": "Poppy seed obesity study; no joint or inflammation endpoint.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/40193308",
+        "title": "Investigating Anti-Obesity Potential of Papaver Somniferum Seeds in Obese Rat Model."
+      },
+      {
+        "pmid": "40193308",
+        "species_id": "Papaver somniferum",
+        "category": "metabolic",
+        "year": 2025,
+        "verdict": "supports",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "botanical",
+        "study_type": "original",
+        "rationale": "Washed poppy seeds reduced weight gain, triglycerides, LDL and glucose in high-fat-diet rats.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/40193308",
+        "title": "Investigating Anti-Obesity Potential of Papaver Somniferum Seeds in Obese Rat Model."
+      },
+      {
+        "pmid": "40370019",
+        "species_id": "Papaver somniferum",
+        "category": "neuro",
+        "year": 2025,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "unclear",
+        "study_type": "original",
+        "rationale": "Genomic domestication history; no pharmacological outcome.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/40370019",
+        "title": "The origins and spread of the opium poppy (Papaver somniferum L.) revealed by genomics and seed morphometrics."
+      },
+      {
+        "pmid": "40377038",
+        "species_id": "Catharanthus roseus",
+        "category": "metabolic",
+        "year": 2025,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "unclear",
+        "study_type": "original",
+        "rationale": "Morphology and ITS markers; no pharmacology.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/40377038",
+        "title": "Morphological Characteristics and ITS Molecular Markers of Catharanthus roseus (L.) G. Don: A Medicinal Plant in Southern Vietnam."
+      },
+      {
+        "pmid": "40676081",
+        "species_id": "Catharanthus roseus",
+        "category": "metabolic",
+        "year": 2025,
+        "verdict": "supports",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "botanical",
+        "study_type": "original",
+        "rationale": "C. roseus leaf extracts lowered fasting glucose in STZ-diabetic mice, dose-dependently.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/40676081",
+        "title": "Unlocking the therapeutic potential of Catharanthus roseus leaves via in-vitro, in-vivo, and in-silico study."
+      },
+      {
+        "pmid": "40802935",
+        "species_id": "Catharanthus roseus",
+        "category": "joint",
+        "year": 2025,
+        "verdict": "supports",
+        "evidence_tier": "in_vitro",
+        "preparation_scope": "botanical",
+        "study_type": "original",
+        "rationale": "C. roseus leaf extracts in alginate nanocarriers inhibited inflammatory enzymes in vitro.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/40802935",
+        "title": "Alginate Nanocarrier Loading Catharanthus roseus L. Extracts: An Emergent Formulating Approach to Enhance Antidiabetic and Anti-Inflammatory Activities."
+      },
+      {
+        "pmid": "40802935",
+        "species_id": "Catharanthus roseus",
+        "category": "metabolic",
+        "year": 2025,
+        "verdict": "supports",
+        "evidence_tier": "in_vitro",
+        "preparation_scope": "botanical",
+        "study_type": "original",
+        "rationale": "Leaf-extract nanocarriers inhibited alpha-amylase, alpha-glucosidase and DPP-IV in vitro.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/40802935",
+        "title": "Alginate Nanocarrier Loading Catharanthus roseus L. Extracts: An Emergent Formulating Approach to Enhance Antidiabetic and Anti-Inflammatory Activities."
+      },
+      {
+        "pmid": "40865347",
+        "species_id": "Colchicum autumnale",
+        "category": "metabolic",
+        "year": 2025,
+        "verdict": "supports",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Purified colchicine improved diabetic atherosclerosis in mice; compound, not botanical preparation.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/40865347",
+        "title": "Colchicine alleviates atherosclerosis combined with diabetes mellitus by targeting PIM2 and regulating the NF-κB signaling pathway."
+      },
+      {
+        "pmid": "41089054",
+        "species_id": "Papaver somniferum",
+        "category": "joint",
+        "year": 2025,
+        "verdict": "supports",
+        "evidence_tier": "in_vitro",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Newly isolated poppy alkaloids showed anti-inflammatory activity in cell assays.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/41089054",
+        "title": "Anti-inflammatory Alkaloids, Papaversomni A, a Hexacyclic-Membered Morphinan, and Two Pairs of E/Z Nonseparable Stereoisomers, Papaversomni C and Sinoracutinal, from Papaver somniferum."
+      },
+      {
+        "pmid": "41099792",
+        "species_id": "Catharanthus roseus",
+        "category": "metabolic",
+        "year": 2025,
+        "verdict": "irrelevant",
+        "evidence_tier": "in_vitro",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Compounds from an endophytic fungus, not the plant.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/41099792",
+        "title": "Selective α-glucosidase inhibitory activity of (+)-eupenoxide and 3-ketone derivatives produced by the endophytic fungus of Aspergillus sp."
+      },
+      {
+        "pmid": "41607420",
+        "species_id": "Colchicum autumnale",
+        "category": "neuro",
+        "year": 2025,
+        "verdict": "supports",
+        "evidence_tier": "clinical",
+        "preparation_scope": "unclear",
+        "study_type": "original",
+        "rationale": "Multi-herb RCT (Colchicum root with Withania and Pistacia); pain improved vs placebo but effect cannot be attributed to Colchicum.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/41607420",
+        "title": "The effect of a multi-herbal product, C. autumnale, W. somnifera, and P. lentiscus, on knee osteoarthritis: a triple-blind randomized clinical trial."
+      },
+      {
+        "pmid": "41698963",
+        "species_id": "Catharanthus roseus",
+        "category": "joint",
+        "year": 2026,
+        "verdict": "supports",
+        "evidence_tier": "in_vitro",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Ursolic-acid silver nanoparticles anti-inflammatory in vitro; compound formulation.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/41698963",
+        "title": "A novel approach to silver nanoparticle biosynthesis using ursolic acid from Catharanthus roseus for therapeutic effects."
+      },
+      {
+        "pmid": "41936651",
+        "species_id": "Papaver somniferum",
+        "category": "joint",
+        "year": 2026,
+        "verdict": "irrelevant",
+        "evidence_tier": "in_vitro",
+        "preparation_scope": "botanical",
+        "study_type": "original",
+        "rationale": "Antibacterial screen against K. pneumoniae; not a joint indication.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/41936651",
+        "title": "Pharmacological evaluation of selected medicinal plant extracts against multidrug-resistant Klebsiella pneumoniae: implications for inflammation-associated respiratory infections."
+      },
+      {
+        "pmid": "42105688",
+        "species_id": "Galega officinalis",
+        "category": "metabolic",
+        "year": 2026,
+        "verdict": "supports",
+        "evidence_tier": "in_vivo",
+        "preparation_scope": "botanical",
+        "study_type": "original",
+        "rationale": "Alkaloid-free G. officinalis extract corrected mitochondrial function and oxidative stress in STZ-diabetic rats.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/42105688",
+        "title": "Amelioration of oxidative stress and hepatocellular mitochondrial dysfunction by bioactive compounds isolated from Galega officinalis in streptozotocin-induced diabetic rats."
+      },
+      {
+        "pmid": "42157719",
+        "species_id": "Papaver somniferum",
+        "category": "neuro",
+        "year": 2026,
+        "verdict": "irrelevant",
+        "evidence_tier": "in_vitro",
+        "preparation_scope": "compound_only",
+        "study_type": "original",
+        "rationale": "Buprenorphine receptor pharmacology; semi-synthetic compound.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/42157719",
+        "title": "Emerging Insights into the Distinct Pharmacological Mechanisms of Buprenorphine."
+      },
+      {
+        "pmid": "42280747",
+        "species_id": "Colchicum autumnale",
+        "category": "metabolic",
+        "year": 2026,
+        "verdict": "irrelevant",
+        "evidence_tier": "not_applicable",
+        "preparation_scope": "unclear",
+        "study_type": "original",
+        "rationale": "Plant tissue-culture yield study; no pharmacological outcome.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/42280747",
+        "title": "Immersion Frequency Optimisation and Species-Specific Metabolic Profiles of Colchicum autumnale and Colchicum bivonae in Temporary Immersion Systems."
+      },
+      {
+        "pmid": "42939579",
+        "species_id": "Galega officinalis",
+        "category": "joint",
+        "year": 2026,
+        "verdict": "irrelevant",
+        "evidence_tier": "in_vitro",
+        "preparation_scope": "unclear",
+        "study_type": "original",
+        "rationale": "Multi-ingredient combination on dermal fibroblast senescence; no joint outcome.",
+        "reviewed": true,
+        "source_url": "https://europepmc.org/article/MED/42939579",
+        "title": "A Novel Combination of Galega officinalis Extract, Hippophae rhamnoides Fruit Oil and Resveratrol Attenuates Bleomycin-Induced Senescence Markers in Human Dermal Fibroblasts and Ex Vivo Hair Follicles."
+      }
+    ]
   },
   "ranker": {
     "schema_version": 1,
@@ -231685,10 +236245,78 @@
           "Fixed matching uncertainty is not resampled; matching uses only category, taxonomy, and pre-freeze effort.",
           "No calibrated forward probabilities: a validated temporal model has not been fitted."
         ],
-        "status": "pending",
-        "reason": "No species/category pairs first tested inside this window.",
-        "methods": [],
-        "ranking": null
+        "status": "computed",
+        "eligible_tested_pairs": 4,
+        "mean_inherited_claim_records": 5.9,
+        "methods": [
+          {
+            "method": "within_species",
+            "risk_ratio": null,
+            "ci95": null,
+            "claimed_confirmation_risk": null,
+            "control_confirmation_risk": null,
+            "identity_draws_with_matches": 0,
+            "mean_matched_pairs": 0,
+            "mean_eligible_claimed_pairs": 0,
+            "family_clusters": 0,
+            "bootstrap_replicates": 300,
+            "undefined_bootstrap_replicates": 0,
+            "publication_bias_bound": null,
+            "warnings": [
+              "No matched tested pairs; no effect estimate is available.",
+              "Fewer than five plant families; confidence interval suppressed.",
+              "Fewer than 20 matched pairs in at least one identity draw; treat estimates as exploratory."
+            ]
+          },
+          {
+            "method": "within_family",
+            "risk_ratio": null,
+            "ci95": null,
+            "claimed_confirmation_risk": null,
+            "control_confirmation_risk": null,
+            "identity_draws_with_matches": 0,
+            "mean_matched_pairs": 0,
+            "mean_eligible_claimed_pairs": 0,
+            "family_clusters": 0,
+            "bootstrap_replicates": 300,
+            "undefined_bootstrap_replicates": 0,
+            "publication_bias_bound": null,
+            "warnings": [
+              "No matched tested pairs; no effect estimate is available.",
+              "Fewer than five plant families; confidence interval suppressed.",
+              "Fewer than 20 matched pairs in at least one identity draw; treat estimates as exploratory."
+            ]
+          },
+          {
+            "method": "research_effort",
+            "risk_ratio": null,
+            "ci95": null,
+            "claimed_confirmation_risk": null,
+            "control_confirmation_risk": null,
+            "identity_draws_with_matches": 0,
+            "mean_matched_pairs": 0,
+            "mean_eligible_claimed_pairs": 0,
+            "family_clusters": 0,
+            "bootstrap_replicates": 300,
+            "undefined_bootstrap_replicates": 0,
+            "publication_bias_bound": null,
+            "warnings": [
+              "No matched tested pairs; no effect estimate is available.",
+              "Fewer than five plant families; confidence interval suppressed.",
+              "Fewer than 20 matched pairs in at least one identity draw; treat estimates as exploratory."
+            ]
+          }
+        ],
+        "ranking": {
+          "model": "claim_indicator_only",
+          "tie_break": "lexical species/category; exploratory baseline",
+          "k": 4,
+          "claim_indicator_precision_at_k": 0.75,
+          "famous_plant_precision_at_k": 0.75,
+          "famous_plant_n": 4,
+          "ci95": null,
+          "status": "baseline_only; calibrated temporal ranker and ranking bootstrap pending"
+        }
       }
     }
   },
@@ -231745,9 +236373,9 @@
     }
   },
   "readiness": {
-    "reviewed_claims": 0,
-    "reviewed_tested_pairs": 0,
-    "reviewed_identity_groups": 0,
+    "reviewed_claims": 21,
+    "reviewed_tested_pairs": 4,
+    "reviewed_identity_groups": 4,
     "search_complete": false,
     "effort_coverage_complete": false,
     "human_audit_rows": {
@@ -231771,8 +236399,8 @@
   "stats": {
     "proposed_claims": 2972,
     "acquired_evidence": 75,
-    "reviewed_claims": 0,
-    "reviewed_tested_pairs": 0
+    "reviewed_claims": 21,
+    "reviewed_tested_pairs": 4
   },
   "limitations": [
     "Independent human audits, historical-date/identity review and complete evidence coverage remain release gates.",
@@ -231788,14 +236416,14 @@
     "taxon": {
       "pending": 6
     },
+    "claim": {
+      "pending": 2972
+    },
     "evidence": {
       "pending": 75
     },
     "effort": {
       "pending": 30
-    },
-    "claim": {
-      "pending": 2972
     }
   }
 }

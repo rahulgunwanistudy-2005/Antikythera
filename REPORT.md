@@ -27,9 +27,9 @@ The source-to-review pipeline, DuckDB storage, human review API, temporal matchi
 
 | Gate | Current state |
 | --- | --- |
-| reviewed claims | 0 |
-| reviewed tested pairs | 0 |
-| reviewed identity groups | 0 |
+| reviewed claims | 21 |
+| reviewed tested pairs | 4 |
+| reviewed identity groups | 4 |
 | search complete | False |
 | effort coverage complete | False |
 | audit targets met | False |
@@ -46,7 +46,7 @@ Audit counts include only explicitly attested, independent gold labels with an a
 
 ## Primary result
 
-Current status: **pending_scientific_validation**.
+Current status: **exploratory_analysis**.
 No audited headline effect size is released. Computed exploratory outputs, if eligible data exists, remain separated from audited results. The curated legends never become empirical outcomes.
 
 Among species/indication pairs first tested inside the fully observed 20 years after each freeze, the analysis compares earlier claims against tested unclaimed controls. Confirmation needs an original, reviewed botanical in-vivo or clinical supporting study. Missing records remain unknown. Evidence for a purified compound does not automatically confirm a botanical preparation.
@@ -95,4 +95,4 @@ The downloaded Culpeper text identifies its edition as 1850 and includes later a
 
 `make all` runs offline cached collection, proposal synchronization, audited-input promotion, analysis/model evaluation, typed Parquet export, static JSON export, tests and the React production build. `make collect` explicitly runs network acquisition. Paid model calls require a separately enabled model command. Missing inputs return a precise pending reason.
 
-Dataset SHA-256: `8985c60d055abd07cdc5feee12ad82605958c8dee3d53d3bcb73ea23adbe5b72`. Full figures, sensitivity grids and audit metrics: [data/derived/report.json](data/derived/report.json).
+Dataset SHA-256: `5ca7e8d5c871bdeba51554288a96fbe41621265c12415ea6f959b82346a2596d`. Full figures, sensitivity grids and audit metrics: [data/derived/report.json](data/derived/report.json).

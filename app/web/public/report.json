@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "status": "pending_scientific_validation",
-  "dataset_sha256": "8985c60d055abd07cdc5feee12ad82605958c8dee3d53d3bcb73ea23adbe5b72",
+  "status": "exploratory_analysis",
+  "dataset_sha256": "5ca7e8d5c871bdeba51554288a96fbe41621265c12415ea6f959b82346a2596d",
   "observation_end": 2026,
   "case_study_count": 6,
   "category_count": 12,
@@ -436,9 +436,9 @@
     "reason": "A verified reference list with provenance is required; the published total of 105 is not a gold list."
   },
   "readiness": {
-    "reviewed_claims": 0,
-    "reviewed_tested_pairs": 0,
-    "reviewed_identity_groups": 0,
+    "reviewed_claims": 21,
+    "reviewed_tested_pairs": 4,
+    "reviewed_identity_groups": 4,
     "search_complete": false,
     "effort_coverage_complete": false,
     "human_audit_rows": {
@@ -4303,10 +4303,78 @@
           "Fixed matching uncertainty is not resampled; matching uses only category, taxonomy, and pre-freeze effort.",
           "No calibrated forward probabilities: a validated temporal model has not been fitted."
         ],
-        "status": "pending",
-        "reason": "No species/category pairs first tested inside this window.",
-        "methods": [],
-        "ranking": null
+        "status": "computed",
+        "eligible_tested_pairs": 4,
+        "mean_inherited_claim_records": 5.9,
+        "methods": [
+          {
+            "method": "within_species",
+            "risk_ratio": null,
+            "ci95": null,
+            "claimed_confirmation_risk": null,
+            "control_confirmation_risk": null,
+            "identity_draws_with_matches": 0,
+            "mean_matched_pairs": 0,
+            "mean_eligible_claimed_pairs": 0,
+            "family_clusters": 0,
+            "bootstrap_replicates": 300,
+            "undefined_bootstrap_replicates": 0,
+            "publication_bias_bound": null,
+            "warnings": [
+              "No matched tested pairs; no effect estimate is available.",
+              "Fewer than five plant families; confidence interval suppressed.",
+              "Fewer than 20 matched pairs in at least one identity draw; treat estimates as exploratory."
+            ]
+          },
+          {
+            "method": "within_family",
+            "risk_ratio": null,
+            "ci95": null,
+            "claimed_confirmation_risk": null,
+            "control_confirmation_risk": null,
+            "identity_draws_with_matches": 0,
+            "mean_matched_pairs": 0,
+            "mean_eligible_claimed_pairs": 0,
+            "family_clusters": 0,
+            "bootstrap_replicates": 300,
+            "undefined_bootstrap_replicates": 0,
+            "publication_bias_bound": null,
+            "warnings": [
+              "No matched tested pairs; no effect estimate is available.",
+              "Fewer than five plant families; confidence interval suppressed.",
+              "Fewer than 20 matched pairs in at least one identity draw; treat estimates as exploratory."
+            ]
+          },
+          {
+            "method": "research_effort",
+            "risk_ratio": null,
+            "ci95": null,
+            "claimed_confirmation_risk": null,
+            "control_confirmation_risk": null,
+            "identity_draws_with_matches": 0,
+            "mean_matched_pairs": 0,
+            "mean_eligible_claimed_pairs": 0,
+            "family_clusters": 0,
+            "bootstrap_replicates": 300,
+            "undefined_bootstrap_replicates": 0,
+            "publication_bias_bound": null,
+            "warnings": [
+              "No matched tested pairs; no effect estimate is available.",
+              "Fewer than five plant families; confidence interval suppressed.",
+              "Fewer than 20 matched pairs in at least one identity draw; treat estimates as exploratory."
+            ]
+          }
+        ],
+        "ranking": {
+          "model": "claim_indicator_only",
+          "tie_break": "lexical species/category; exploratory baseline",
+          "k": 4,
+          "claim_indicator_precision_at_k": 0.75,
+          "famous_plant_precision_at_k": 0.75,
+          "famous_plant_n": 4,
+          "ci95": null,
+          "status": "baseline_only; calibrated temporal ranker and ranking bootstrap pending"
+        }
       }
     }
   },
