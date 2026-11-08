@@ -45,3 +45,7 @@ New application code is original to this build. Dependencies retain their own li
 ## Medical framing
 
 Research prioritisation for laboratory testing, not medical advice. No prediction here is an established effect. Do not use this project to identify, harvest, prepare, dose or consume plants. The hazard trail is not an exhaustive toxicology assessment. Botanical drawings are schematic illustrations, not identification aids.
+
+## Review records (2026-11-08)
+
+The records in `data/reviewed/` (21 claims, 4 identity distributions, 9 taxa, 40 evidence grades, 30 effort observations) were reviewed with AI assistance; each record names its reviewer. Notable calls: Dioscorides II.193 is *Cyclamen*, not *Colchicum*; the Cap. 84 gout line is Berendes' 1902 commentary and was excluded; English "periwinkle" is *Vinca*, not *Catharanthus*. The 200/150/300-item independent audits remain open, so the report status is `exploratory_analysis`.
