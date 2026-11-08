@@ -1,0 +1,14 @@
+services:
+  - type: web
+    runtime: static
+    name: antikythera
+    branch: main
+    buildCommand: cd app/web && npm ci --no-audit --no-fund && npm run build
+    staticPublishPath: app/web/dist
+    envVars:
+      - key: NODE_VERSION
+        value: 22.12.0
+    headers:
+      - path: /*.json
+        name: Cache-Control
+        value: no-cache

@@ -1,6 +1,6 @@
 # Antikythera
 
-A local research workbench and private hosted observatory for a 2,000-year backtest of Mediterranean medicine.
+A local research workbench and public hosted observatory for a 2,000-year backtest of Mediterranean medicine.
 
 The complete software workflow now covers source acquisition, span-grounded extraction, indication mapping, taxonomy candidates, dated literature retrieval, offline evidence cues, human review, identity calibration, temporal matched analyses, LightGBM training/evaluation, research prioritisation and reproducible exports. **The software build is complete; the empirical study still needs independent human audits.**
 
@@ -18,7 +18,7 @@ make serve
 
 Open http://127.0.0.1:8000. The FastAPI service and React interface run together, including persistent review decisions. API documentation is at `/docs`. `make all` is offline: it uses cached sources where present, otherwise preserves the checksummed bundled proposal snapshot. Raw text and abstracts are not committed. Fetch them before reviewing source files locally.
 
-The [private hosted snapshot](https://antikythera-medicine-observatory.rahulgunwani-study.chatgpt.site) requires ChatGPT sign-in. It supports exploration and review-batch export. Saved reviews and original abstracts remain in the local workspace.
+The [hosted observatory](https://antikythera-unsg.onrender.com) is a public static snapshot on Render, rebuilt from `main` on every push. It supports exploration and review-batch export. Saved reviews and original abstracts remain in the local workspace.
 
 ## Workflow
 
@@ -72,7 +72,7 @@ Revisions prevent stale overwrites. Changed proposals invalidate their old revie
 - `data/derived/claims.parquet`, `ledger.parquet`: typed eligible-cohort tables, with valid empty schemas when no records qualify.
 - `data/derived/parquet/`: proposal/review exports with provenance.
 - `data/derived/ranker.json`, `identity_calibration.json`, `shortlist.json`: fitted artifacts or explicit pending reasons.
-- `app/web/public/workspace.json`: private hosted snapshot, excluding abstract text.
+- `app/web/public/workspace.json`: hosted snapshot, excluding abstract text.
 - [Ten-slide deck](docs/deck/Antikythera.pptx), [narrated demo](docs/video/Antikythera-demo.mp4), [transcript](docs/video/TRANSCRIPT.md) and [Devpost draft](docs/DEVPOST.md).
 
 See [analysis methods](timemachine/README.md), [reviewed-input schemas](data/reviewed/README.md), [source and licence registry](data/raw/sources.json), [expert-reference caveat](data/external/identity_expert/README.md), and [disclosures](DISCLOSURE.md).
