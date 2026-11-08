@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "config": {
+    "train_freeze": 1950,
+    "calibration_freeze": 1980,
+    "evaluation_freeze": 2000,
+    "follow_up": 20,
+    "ensembles": 10,
+    "seed": 1729,
+    "features": [
+      "claim_count",
+      "layer_count",
+      "inherited",
+      "family_confirmation_rate",
+      "log_research_effort"
+    ]
+  },
+  "estimand": "P(indexed in-vivo/clinical confirmation by T+20 | first relevant testing in (T,T+20])",
+  "limitations": [
+    "Probability is conditional on first testing and indexed publication, not unconditional efficacy or probability of testing.",
+    "Ensemble spread is not a frequentist confidence interval; held-out population shift remains possible.",
+    "No random train/test split; fixed hyperparameters; calibration uses only the middle calendar window."
+  ],
+  "status": "pending",
+  "reason": "train needs >= 30 rows, both outcomes and >=5 families.",
+  "counts": {
+    "train": 0
+  }
+}

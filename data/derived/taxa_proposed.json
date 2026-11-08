@@ -1,0 +1,224 @@
+[
+  {
+    "id": "taxon-2739622-colchicum-autumnale",
+    "query_name": "Colchicum autumnale",
+    "species_id": "Colchicum autumnale",
+    "family": "Colchicaceae",
+    "backbone_version": "GBIF 2023-11-17T17:05:37.477+00:00",
+    "backbone_dataset_key": "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "backbone_doi": "10.15468/39omei",
+    "licence": "http://creativecommons.org/licenses/by/4.0/legalcode",
+    "source_url": "https://api.gbif.org/v1/species/match?name=Colchicum+autumnale&verbose=true&kingdom=Plantae",
+    "record_path": "data/raw/cache/taxonomy/d551b78b7c754f2e755ab7e52c9daf29cc668da7d011becabd72798483333c9c.json",
+    "metadata_path": "data/raw/cache/taxonomy/e3bd497349e008d417cf4373fed640bb5bc6564a088cb67934ad80cd7b8fa93d.json",
+    "candidates": [
+      {
+        "species_id": "Colchicum autumnale",
+        "family": "Colchicaceae",
+        "probability": null,
+        "taxonomy_usage_key": 2739622,
+        "name_match_score": 99,
+        "name_match_type": "EXACT",
+        "note": "Name-match score does not quantify historical identity certainty."
+      },
+      {
+        "species_id": "Colchicum longifolium",
+        "family": "Colchicaceae",
+        "probability": null,
+        "taxonomy_usage_key": 2739801,
+        "name_match_score": 99,
+        "name_match_type": "EXACT",
+        "note": "Name-match score does not quantify historical identity certainty."
+      }
+    ],
+    "reviewed": false,
+    "status": "candidate",
+    "historical_identity_probability": null,
+    "available_year": null,
+    "review_blockers": [
+      "historical_name_link",
+      "regional_presence",
+      "expert_identity",
+      "temporal_prior"
+    ]
+  },
+  {
+    "id": "taxon-2855356-galanthus-nivalis",
+    "query_name": "Galanthus nivalis",
+    "species_id": "Galanthus nivalis",
+    "family": "Amaryllidaceae",
+    "backbone_version": "GBIF 2023-11-17T17:05:37.477+00:00",
+    "backbone_dataset_key": "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "backbone_doi": "10.15468/39omei",
+    "licence": "http://creativecommons.org/licenses/by/4.0/legalcode",
+    "source_url": "https://api.gbif.org/v1/species/match?name=Galanthus+nivalis&verbose=true&kingdom=Plantae",
+    "record_path": "data/raw/cache/taxonomy/8339f6b11436c1dc1925ea06e886ced1ea650e743ac989a80c7b1c159f555093.json",
+    "metadata_path": "data/raw/cache/taxonomy/e3bd497349e008d417cf4373fed640bb5bc6564a088cb67934ad80cd7b8fa93d.json",
+    "candidates": [
+      {
+        "species_id": "Galanthus nivalis",
+        "family": "Amaryllidaceae",
+        "probability": null,
+        "taxonomy_usage_key": 2855356,
+        "name_match_score": 99,
+        "name_match_type": "EXACT",
+        "note": "Name-match score does not quantify historical identity certainty."
+      }
+    ],
+    "reviewed": false,
+    "status": "candidate",
+    "historical_identity_probability": null,
+    "available_year": null,
+    "review_blockers": [
+      "historical_name_link",
+      "regional_presence",
+      "expert_identity",
+      "temporal_prior"
+    ]
+  },
+  {
+    "id": "taxon-2975667-galega-officinalis",
+    "query_name": "Galega officinalis",
+    "species_id": "Galega officinalis",
+    "family": "Fabaceae",
+    "backbone_version": "GBIF 2023-11-17T17:05:37.477+00:00",
+    "backbone_dataset_key": "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "backbone_doi": "10.15468/39omei",
+    "licence": "http://creativecommons.org/licenses/by/4.0/legalcode",
+    "source_url": "https://api.gbif.org/v1/species/match?name=Galega+officinalis&verbose=true&kingdom=Plantae",
+    "record_path": "data/raw/cache/taxonomy/6648bbb94c53f4ae6a28d2145b2a846b54d9f2e8fd04f70224abf5f87e9f610c.json",
+    "metadata_path": "data/raw/cache/taxonomy/e3bd497349e008d417cf4373fed640bb5bc6564a088cb67934ad80cd7b8fa93d.json",
+    "candidates": [
+      {
+        "species_id": "Galega officinalis",
+        "family": "Fabaceae",
+        "probability": null,
+        "taxonomy_usage_key": 2975667,
+        "name_match_score": 100,
+        "name_match_type": "EXACT",
+        "note": "Name-match score does not quantify historical identity certainty."
+      },
+      {
+        "species_id": "Alpinia galanga",
+        "family": "Zingiberaceae",
+        "probability": null,
+        "taxonomy_usage_key": 5302225,
+        "name_match_score": 75,
+        "name_match_type": "FUZZY",
+        "note": "Name-match score does not quantify historical identity certainty."
+      }
+    ],
+    "reviewed": false,
+    "status": "candidate",
+    "historical_identity_probability": null,
+    "available_year": null,
+    "review_blockers": [
+      "historical_name_link",
+      "regional_presence",
+      "expert_identity",
+      "temporal_prior"
+    ]
+  },
+  {
+    "id": "taxon-2888439-papaver-somniferum",
+    "query_name": "Papaver somniferum",
+    "species_id": "Papaver somniferum",
+    "family": "Papaveraceae",
+    "backbone_version": "GBIF 2023-11-17T17:05:37.477+00:00",
+    "backbone_dataset_key": "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "backbone_doi": "10.15468/39omei",
+    "licence": "http://creativecommons.org/licenses/by/4.0/legalcode",
+    "source_url": "https://api.gbif.org/v1/species/match?name=Papaver+somniferum&verbose=true&kingdom=Plantae",
+    "record_path": "data/raw/cache/taxonomy/a8f7ba228f4b08362b9f26a0426010abf64669a3a2da0a6e398611d688a3c7b0.json",
+    "metadata_path": "data/raw/cache/taxonomy/e3bd497349e008d417cf4373fed640bb5bc6564a088cb67934ad80cd7b8fa93d.json",
+    "candidates": [
+      {
+        "species_id": "Papaver somniferum",
+        "family": "Papaveraceae",
+        "probability": null,
+        "taxonomy_usage_key": 2888439,
+        "name_match_score": 100,
+        "name_match_type": "EXACT",
+        "note": "Name-match score does not quantify historical identity certainty."
+      }
+    ],
+    "reviewed": false,
+    "status": "candidate",
+    "historical_identity_probability": null,
+    "available_year": null,
+    "review_blockers": [
+      "historical_name_link",
+      "regional_presence",
+      "expert_identity",
+      "temporal_prior"
+    ]
+  },
+  {
+    "id": "taxon-5284555-taxus-brevifolia",
+    "query_name": "Taxus brevifolia",
+    "species_id": "Taxus brevifolia",
+    "family": "Taxaceae",
+    "backbone_version": "GBIF 2023-11-17T17:05:37.477+00:00",
+    "backbone_dataset_key": "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "backbone_doi": "10.15468/39omei",
+    "licence": "http://creativecommons.org/licenses/by/4.0/legalcode",
+    "source_url": "https://api.gbif.org/v1/species/match?name=Taxus+brevifolia&verbose=true&kingdom=Plantae",
+    "record_path": "data/raw/cache/taxonomy/47936b0cc10804586337234249b1f15be2820864c3411cc12d9ae0c6dd1f24bd.json",
+    "metadata_path": "data/raw/cache/taxonomy/e3bd497349e008d417cf4373fed640bb5bc6564a088cb67934ad80cd7b8fa93d.json",
+    "candidates": [
+      {
+        "species_id": "Taxus brevifolia",
+        "family": "Taxaceae",
+        "probability": null,
+        "taxonomy_usage_key": 5284555,
+        "name_match_score": 99,
+        "name_match_type": "EXACT",
+        "note": "Name-match score does not quantify historical identity certainty."
+      }
+    ],
+    "reviewed": false,
+    "status": "candidate",
+    "historical_identity_probability": null,
+    "available_year": null,
+    "review_blockers": [
+      "historical_name_link",
+      "regional_presence",
+      "expert_identity",
+      "temporal_prior"
+    ]
+  },
+  {
+    "id": "taxon-3169830-catharanthus-roseus",
+    "query_name": "Catharanthus roseus",
+    "species_id": "Catharanthus roseus",
+    "family": "Apocynaceae",
+    "backbone_version": "GBIF 2023-11-17T17:05:37.477+00:00",
+    "backbone_dataset_key": "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "backbone_doi": "10.15468/39omei",
+    "licence": "http://creativecommons.org/licenses/by/4.0/legalcode",
+    "source_url": "https://api.gbif.org/v1/species/match?name=Catharanthus+roseus&verbose=true&kingdom=Plantae",
+    "record_path": "data/raw/cache/taxonomy/97914239756b27a35097e087e6942a9cf2fecc1287ae70bce142c9c81d2e2813.json",
+    "metadata_path": "data/raw/cache/taxonomy/e3bd497349e008d417cf4373fed640bb5bc6564a088cb67934ad80cd7b8fa93d.json",
+    "candidates": [
+      {
+        "species_id": "Catharanthus roseus",
+        "family": "Apocynaceae",
+        "probability": null,
+        "taxonomy_usage_key": 3169830,
+        "name_match_score": 100,
+        "name_match_type": "EXACT",
+        "note": "Name-match score does not quantify historical identity certainty."
+      }
+    ],
+    "reviewed": false,
+    "status": "candidate",
+    "historical_identity_probability": null,
+    "available_year": null,
+    "review_blockers": [
+      "historical_name_link",
+      "regional_presence",
+      "expert_identity",
+      "temporal_prior"
+    ]
+  }
+]

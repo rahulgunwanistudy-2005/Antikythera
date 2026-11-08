@@ -1,0 +1,10 @@
+{
+  "eligible": {
+    "claims": 0,
+    "identities": 0,
+    "taxa": 0,
+    "grades": 0,
+    "effort": 0
+  },
+  "blocked_reviews": []
+}

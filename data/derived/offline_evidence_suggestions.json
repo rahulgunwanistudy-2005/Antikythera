@@ -1,0 +1,6087 @@
+[
+  {
+    "id": "evidence-15a6194469b42c646e",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "clinical",
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "212e798b2c23a6471e9e83dc486c81b20c3d6c188e6f6c4454e7795fee240dcc",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 295,
+          "end": 314
+        },
+        {
+          "label": "human_participants",
+          "start": 463,
+          "end": 471
+        },
+        {
+          "label": "clinical_design",
+          "start": 500,
+          "end": 510
+        },
+        {
+          "label": "experimental_design",
+          "start": 500,
+          "end": 510
+        },
+        {
+          "label": "category_topic",
+          "start": 567,
+          "end": 571
+        },
+        {
+          "label": "category_topic",
+          "start": 962,
+          "end": 966
+        },
+        {
+          "label": "experimental_design",
+          "start": 1029,
+          "end": 1040
+        },
+        {
+          "label": "category_topic",
+          "start": 1119,
+          "end": 1123
+        },
+        {
+          "label": "statistical_result",
+          "start": 1196,
+          "end": 1209
+        },
+        {
+          "label": "human_participants",
+          "start": 1421,
+          "end": 1429
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1435,
+          "end": 1437
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1499,
+          "end": 1508
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "1e072b3e2fe769f499459a74d324889e2897efcca19c8c1b24a1d559a68a40e0",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-5f55aa74e86bb3e24b",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "case_report",
+      "rationale": "Case-report cues require individual human interpretation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "306ad717f999d650440b0d171ee26a64f9a93bf5cfc82365005232c49b46d5b3",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 34,
+          "end": 53
+        },
+        {
+          "label": "named_compound",
+          "start": 71,
+          "end": 81
+        },
+        {
+          "label": "named_compound",
+          "start": 261,
+          "end": 271
+        },
+        {
+          "label": "named_compound",
+          "start": 325,
+          "end": 335
+        },
+        {
+          "label": "intervention",
+          "start": 433,
+          "end": 438
+        },
+        {
+          "label": "category_topic",
+          "start": 586,
+          "end": 590
+        },
+        {
+          "label": "intervention",
+          "start": 658,
+          "end": 666
+        },
+        {
+          "label": "named_compound",
+          "start": 909,
+          "end": 919
+        },
+        {
+          "label": "named_compound",
+          "start": 1031,
+          "end": 1041
+        },
+        {
+          "label": "named_compound",
+          "start": 1528,
+          "end": 1538
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "bfa712202730e9b1d33ef74803f3a54894e12c695346217558f236aa188874f4",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-afa4e0c765bb74340a",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "2a737eac1d76ce068c8a67ee20968b414137447e5f9dd8f4ba82fc30fc93f88b",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 0,
+          "end": 10
+        },
+        {
+          "label": "target_species",
+          "start": 229,
+          "end": 248
+        },
+        {
+          "label": "named_compound",
+          "start": 254,
+          "end": 264
+        },
+        {
+          "label": "named_compound",
+          "start": 425,
+          "end": 435
+        },
+        {
+          "label": "named_compound",
+          "start": 684,
+          "end": 694
+        },
+        {
+          "label": "statistical_result",
+          "start": 771,
+          "end": 784
+        },
+        {
+          "label": "category_topic",
+          "start": 795,
+          "end": 799
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 891,
+          "end": 898
+        },
+        {
+          "label": "named_compound",
+          "start": 971,
+          "end": 981
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1066,
+          "end": 1069
+        },
+        {
+          "label": "human_participants",
+          "start": 1198,
+          "end": 1205
+        },
+        {
+          "label": "human_participants",
+          "start": 1235,
+          "end": 1242
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "57af0a206402ae13964823b498c2788b4d0ebdc403a926f20046c3aa0aee0ed6",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-2a38528f55cf4e1ecf",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "30dfc84afe72fadd4994c6293a6d4fe4debe4bcb0f8393b1d7075be0d9d972b0",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 33,
+          "end": 43
+        },
+        {
+          "label": "category_topic",
+          "start": 289,
+          "end": 293
+        },
+        {
+          "label": "target_species",
+          "start": 354,
+          "end": 373
+        },
+        {
+          "label": "named_compound",
+          "start": 393,
+          "end": 403
+        },
+        {
+          "label": "named_compound",
+          "start": 1251,
+          "end": 1261
+        },
+        {
+          "label": "human_participants",
+          "start": 1310,
+          "end": 1317
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "9ed69b2f9e52ef4820576d0758896a29d5896b5b0559c2a46a5e784fc22360ec",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-55b2ce9e8e2899f679",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "79fbb59328e4159e83eaf0578c226803eec779dfa65938cd5466e24cafa1d61d",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 0,
+          "end": 19
+        },
+        {
+          "label": "named_compound",
+          "start": 32,
+          "end": 42
+        },
+        {
+          "label": "category_topic",
+          "start": 119,
+          "end": 123
+        },
+        {
+          "label": "named_compound",
+          "start": 397,
+          "end": 407
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 477,
+          "end": 486
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 656,
+          "end": 665
+        },
+        {
+          "label": "named_compound",
+          "start": 669,
+          "end": 679
+        },
+        {
+          "label": "named_compound",
+          "start": 933,
+          "end": 943
+        },
+        {
+          "label": "intervention",
+          "start": 980,
+          "end": 992
+        },
+        {
+          "label": "named_compound",
+          "start": 1262,
+          "end": 1272
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1273,
+          "end": 1278
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1548,
+          "end": 1551
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "5d20f08731ecef3a03ea4662b16eac198442a9352737f85ff89fe6404b0f148e",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-4f3504283364df0bf1",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "case_report",
+      "rationale": "Case-report cues require individual human interpretation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "1a183f572cd445a8787ff1517284e5703f43d858a77b4d4fed2a6fd167839362",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 0,
+          "end": 19
+        },
+        {
+          "label": "named_compound",
+          "start": 166,
+          "end": 176
+        },
+        {
+          "label": "category_topic",
+          "start": 423,
+          "end": 427
+        },
+        {
+          "label": "named_compound",
+          "start": 579,
+          "end": 589
+        },
+        {
+          "label": "named_compound",
+          "start": 591,
+          "end": 601
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 779,
+          "end": 782
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "0b76f999545bd833890505f50ba008e0373026ce6763d2e05d47366b48a69288",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-4f462ac2d88d147603",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "c73b2682e2314c0a6996ce53ffeb60e53a97dbb149cbe2495f36a26bdb77b6bc",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 18,
+          "end": 28
+        },
+        {
+          "label": "target_species",
+          "start": 61,
+          "end": 80
+        },
+        {
+          "label": "category_topic",
+          "start": 124,
+          "end": 133
+        },
+        {
+          "label": "named_compound",
+          "start": 146,
+          "end": 156
+        },
+        {
+          "label": "category_topic",
+          "start": 200,
+          "end": 204
+        },
+        {
+          "label": "named_compound",
+          "start": 385,
+          "end": 395
+        },
+        {
+          "label": "named_compound",
+          "start": 501,
+          "end": 511
+        },
+        {
+          "label": "named_compound",
+          "start": 653,
+          "end": 663
+        },
+        {
+          "label": "human_participants",
+          "start": 700,
+          "end": 708
+        },
+        {
+          "label": "human_participants",
+          "start": 717,
+          "end": 725
+        },
+        {
+          "label": "named_compound",
+          "start": 754,
+          "end": 764
+        },
+        {
+          "label": "human_participants",
+          "start": 1312,
+          "end": 1320
+        },
+        {
+          "label": "named_compound",
+          "start": 1606,
+          "end": 1616
+        },
+        {
+          "label": "named_compound",
+          "start": 1670,
+          "end": 1680
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1805,
+          "end": 1814
+        },
+        {
+          "label": "named_compound",
+          "start": 1841,
+          "end": 1851
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "3e2f87bc8d6f7a2392ef0d129e6214c2d7f9163c9b43fc84900826b139b1a36e",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-659f9ac6103ac43763",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. More than one possible evidence tier appears. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "59e8e859b45be42b968da150a5327c1ed81adc32acc14a19f2a643e64ebddb73",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 326,
+          "end": 338
+        },
+        {
+          "label": "named_compound",
+          "start": 340,
+          "end": 350
+        },
+        {
+          "label": "target_species",
+          "start": 380,
+          "end": 399
+        },
+        {
+          "label": "category_topic",
+          "start": 450,
+          "end": 467
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 556,
+          "end": 565
+        },
+        {
+          "label": "named_compound",
+          "start": 695,
+          "end": 705
+        },
+        {
+          "label": "named_compound",
+          "start": 769,
+          "end": 779
+        },
+        {
+          "label": "intervention",
+          "start": 784,
+          "end": 796
+        },
+        {
+          "label": "in_vivo",
+          "start": 911,
+          "end": 915
+        },
+        {
+          "label": "named_compound",
+          "start": 1010,
+          "end": 1020
+        },
+        {
+          "label": "in_vitro",
+          "start": 1036,
+          "end": 1044
+        },
+        {
+          "label": "in_vivo",
+          "start": 1071,
+          "end": 1074
+        },
+        {
+          "label": "named_compound",
+          "start": 1135,
+          "end": 1145
+        },
+        {
+          "label": "named_compound",
+          "start": 1208,
+          "end": 1218
+        },
+        {
+          "label": "category_topic",
+          "start": 1287,
+          "end": 1299
+        },
+        {
+          "label": "named_compound",
+          "start": 1357,
+          "end": 1367
+        },
+        {
+          "label": "named_compound",
+          "start": 1592,
+          "end": 1602
+        },
+        {
+          "label": "named_compound",
+          "start": 1705,
+          "end": 1715
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1721,
+          "end": 1730
+        },
+        {
+          "label": "category_topic",
+          "start": 1842,
+          "end": 1854
+        },
+        {
+          "label": "named_compound",
+          "start": 1965,
+          "end": 1975
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "cdfdb81fab50aa67e34568017e0bfbb007aa22203787a7db892cf610ac475851",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-277991ad46a5856838",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "59d815cd77131c233d32bc941591fc4bb334b32df2c2865549af5e910c232c13",
+      "evidence_spans": [
+        {
+          "label": "human_participants",
+          "start": 415,
+          "end": 423
+        },
+        {
+          "label": "target_species",
+          "start": 723,
+          "end": 742
+        },
+        {
+          "label": "category_topic",
+          "start": 843,
+          "end": 860
+        },
+        {
+          "label": "human_participants",
+          "start": 1081,
+          "end": 1089
+        },
+        {
+          "label": "category_topic",
+          "start": 1195,
+          "end": 1212
+        },
+        {
+          "label": "category_topic",
+          "start": 1284,
+          "end": 1301
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "3379a33b4a1f4e2337d4ff125137576358f7db31f95a8c2c4832f913a9d78999",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-211a457fc2d86bd23e",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "583460632d45240b4b3ab954522aaa58f9e52b4ff9fdb93db2323733d2b10150",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 0,
+          "end": 12
+        },
+        {
+          "label": "category_topic",
+          "start": 262,
+          "end": 279
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 287,
+          "end": 292
+        },
+        {
+          "label": "named_compound",
+          "start": 363,
+          "end": 373
+        },
+        {
+          "label": "target_species",
+          "start": 414,
+          "end": 433
+        },
+        {
+          "label": "category_topic",
+          "start": 519,
+          "end": 523
+        },
+        {
+          "label": "named_compound",
+          "start": 564,
+          "end": 574
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 676,
+          "end": 681
+        },
+        {
+          "label": "category_topic",
+          "start": 700,
+          "end": 717
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 772,
+          "end": 781
+        },
+        {
+          "label": "named_compound",
+          "start": 785,
+          "end": 795
+        },
+        {
+          "label": "named_compound",
+          "start": 947,
+          "end": 957
+        },
+        {
+          "label": "named_compound",
+          "start": 1049,
+          "end": 1059
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "4efc618e5fb462a432a1b4025a1058c932a9e53523de80a14c8eb6d3cc789e36",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-0631da912b197d1885",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "54e2f5c6150a00c7eac07fbd23dfb98c60d42de51da140a506522d6705280e30",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 113,
+          "end": 125
+        },
+        {
+          "label": "named_compound",
+          "start": 235,
+          "end": 245
+        },
+        {
+          "label": "target_species",
+          "start": 285,
+          "end": 304
+        },
+        {
+          "label": "named_compound",
+          "start": 310,
+          "end": 320
+        },
+        {
+          "label": "human_participants",
+          "start": 505,
+          "end": 513
+        },
+        {
+          "label": "category_topic",
+          "start": 619,
+          "end": 631
+        },
+        {
+          "label": "named_compound",
+          "start": 1037,
+          "end": 1047
+        },
+        {
+          "label": "named_compound",
+          "start": 1140,
+          "end": 1150
+        },
+        {
+          "label": "named_compound",
+          "start": 1317,
+          "end": 1327
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "db7a74d34ef1c23fcfc6e90038549005a33767f9ec6dd435cef0af5b6b5917eb",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-1de960e038c12f3ef5",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "fe779bea730c91df288210dce497e415cc65b05c51d86aacf36a7f6dd00918b5",
+      "evidence_spans": [
+        {
+          "label": "qualification_or_negation",
+          "start": 51,
+          "end": 60
+        },
+        {
+          "label": "target_species",
+          "start": 102,
+          "end": 121
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 372,
+          "end": 381
+        },
+        {
+          "label": "category_topic",
+          "start": 427,
+          "end": 436
+        },
+        {
+          "label": "named_compound",
+          "start": 1042,
+          "end": 1052
+        },
+        {
+          "label": "named_compound",
+          "start": 1205,
+          "end": 1215
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1437,
+          "end": 1446
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "d046491180abd9d4d1a9b2a17102f3d54e59357aaa82166fad744554333e24fa",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-d5a9d7d2964d73ccd0",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "aea1435ffe97912a4babca08a890dae08fdbe9a88e6ba73d5dacba8a57abc220",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 364,
+          "end": 374
+        },
+        {
+          "label": "target_species",
+          "start": 394,
+          "end": 413
+        },
+        {
+          "label": "named_compound",
+          "start": 609,
+          "end": 619
+        },
+        {
+          "label": "category_topic",
+          "start": 1462,
+          "end": 1469
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "f8ee56243a6b17a9673d37ace889143d7b5753397afe57f8b040cffaa579a3e8",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-caf7f914726dda872f",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. More than one possible evidence tier appears. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "a89e0a86d5da7e479100a286bffa3eee11c43a1cc0ad6128ce0797d2ff895e00",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 131,
+          "end": 139
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 255,
+          "end": 258
+        },
+        {
+          "label": "human_participants",
+          "start": 339,
+          "end": 347
+        },
+        {
+          "label": "target_species",
+          "start": 366,
+          "end": 385
+        },
+        {
+          "label": "named_compound",
+          "start": 393,
+          "end": 403
+        },
+        {
+          "label": "human_participants",
+          "start": 527,
+          "end": 534
+        },
+        {
+          "label": "named_compound",
+          "start": 652,
+          "end": 662
+        },
+        {
+          "label": "named_compound",
+          "start": 925,
+          "end": 935
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1140,
+          "end": 1149
+        },
+        {
+          "label": "in_vitro",
+          "start": 1286,
+          "end": 1297
+        },
+        {
+          "label": "named_compound",
+          "start": 1460,
+          "end": 1470
+        },
+        {
+          "label": "in_vivo",
+          "start": 1523,
+          "end": 1527
+        },
+        {
+          "label": "in_vivo",
+          "start": 1534,
+          "end": 1546
+        },
+        {
+          "label": "named_compound",
+          "start": 1622,
+          "end": 1632
+        },
+        {
+          "label": "named_compound",
+          "start": 1713,
+          "end": 1723
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1823,
+          "end": 1832
+        },
+        {
+          "label": "named_compound",
+          "start": 1857,
+          "end": 1867
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1946,
+          "end": 1955
+        },
+        {
+          "label": "in_vitro",
+          "start": 2327,
+          "end": 2337
+        },
+        {
+          "label": "named_compound",
+          "start": 2580,
+          "end": 2590
+        },
+        {
+          "label": "experimental_design",
+          "start": 2634,
+          "end": 2647
+        },
+        {
+          "label": "named_compound",
+          "start": 2665,
+          "end": 2675
+        },
+        {
+          "label": "in_vivo",
+          "start": 2783,
+          "end": 2787
+        },
+        {
+          "label": "named_compound",
+          "start": 2857,
+          "end": 2867
+        },
+        {
+          "label": "in_vitro",
+          "start": 2892,
+          "end": 2902
+        },
+        {
+          "label": "named_compound",
+          "start": 3024,
+          "end": 3034
+        },
+        {
+          "label": "in_vitro",
+          "start": 3120,
+          "end": 3128
+        },
+        {
+          "label": "named_compound",
+          "start": 3145,
+          "end": 3155
+        },
+        {
+          "label": "in_vitro",
+          "start": 3236,
+          "end": 3247
+        },
+        {
+          "label": "named_compound",
+          "start": 3298,
+          "end": 3308
+        },
+        {
+          "label": "named_compound",
+          "start": 3520,
+          "end": 3530
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 3537,
+          "end": 3546
+        },
+        {
+          "label": "in_vitro",
+          "start": 3685,
+          "end": 3695
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "b84dee163bfecff821071b28c22dbf5007efe9ed805cf08bfdd2ef088a273e7d",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-1d2508a4a8a6e06c6d",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vitro",
+      "preparation_scope": "unclear",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "fd1d379ebaf1513ab16b8c4781ab7942ec673eadd9396f20306d5458f27fad25",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 373,
+          "end": 380
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 846,
+          "end": 855
+        },
+        {
+          "label": "in_vitro",
+          "start": 860,
+          "end": 868
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 989,
+          "end": 998
+        },
+        {
+          "label": "named_compound",
+          "start": 1531,
+          "end": 1541
+        },
+        {
+          "label": "target_species",
+          "start": 1547,
+          "end": 1566
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1622,
+          "end": 1630
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1661,
+          "end": 1670
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1943,
+          "end": 1952
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "8d492e307ab9627448038decba4a3f0be765ba7bd30fe9d15a7fdadc8890ba60",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-185b6f20eac392f4ee",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. More than one possible evidence tier appears. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "473ea006917091850284a113824c3bdb39d707c01d2247dbc593833a7e17d919",
+      "evidence_spans": [
+        {
+          "label": "in_vivo",
+          "start": 237,
+          "end": 244
+        },
+        {
+          "label": "category_topic",
+          "start": 284,
+          "end": 296
+        },
+        {
+          "label": "in_vivo",
+          "start": 411,
+          "end": 414
+        },
+        {
+          "label": "target_species",
+          "start": 545,
+          "end": 562
+        },
+        {
+          "label": "in_vitro",
+          "start": 579,
+          "end": 587
+        },
+        {
+          "label": "in_vivo",
+          "start": 848,
+          "end": 852
+        },
+        {
+          "label": "intervention",
+          "start": 858,
+          "end": 870
+        },
+        {
+          "label": "in_vitro",
+          "start": 1154,
+          "end": 1162
+        },
+        {
+          "label": "in_vitro",
+          "start": 1334,
+          "end": 1342
+        },
+        {
+          "label": "statistical_result",
+          "start": 1459,
+          "end": 1472
+        },
+        {
+          "label": "intervention",
+          "start": 1500,
+          "end": 1512
+        },
+        {
+          "label": "intervention",
+          "start": 1774,
+          "end": 1786
+        },
+        {
+          "label": "statistical_result",
+          "start": 1832,
+          "end": 1838
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1940,
+          "end": 1943
+        },
+        {
+          "label": "intervention",
+          "start": 2130,
+          "end": 2144
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 2256,
+          "end": 2259
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "215bb6781243ea333f152de53c47faa4af133fd428a418ba069db29805b1e7c1",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-3a53bdf9dfef8c3b4b",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "77680e9a86afc12fa667dc1ff3720bdd10f69f6e56db09755cb8aa3b1f150cdf",
+      "evidence_spans": [
+        {
+          "label": "human_participants",
+          "start": 145,
+          "end": 153
+        },
+        {
+          "label": "human_participants",
+          "start": 346,
+          "end": 354
+        },
+        {
+          "label": "target_species",
+          "start": 518,
+          "end": 535
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 560,
+          "end": 569
+        },
+        {
+          "label": "category_topic",
+          "start": 660,
+          "end": 667
+        },
+        {
+          "label": "human_participants",
+          "start": 760,
+          "end": 768
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 779,
+          "end": 788
+        },
+        {
+          "label": "human_participants",
+          "start": 1230,
+          "end": 1238
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1416,
+          "end": 1419
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "78b94efbd2abd464683dd0a717bfe428053b1ffaf981d04980c16e910f2db284",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-0d2e521c6eda24cae9",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "6784f39bd609065511613543ed6907fb80fb772afce6b0cfe2d20e2c41aa4a87",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 651,
+          "end": 658
+        },
+        {
+          "label": "target_species",
+          "start": 1318,
+          "end": 1335
+        },
+        {
+          "label": "category_topic",
+          "start": 1430,
+          "end": 1437
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1862,
+          "end": 1869
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "60823fde75d430cd2b2e722a0a1f60d84f7e37d6b558d164cfae9f007437e977",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-91b27fce314a4fe738",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vivo",
+      "preparation_scope": "unclear",
+      "study_type": "original",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "e4dcde0e07d3cf918142ba11458dfdf2bb22579b04baea9f0d66304f4d2408ef",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 80,
+          "end": 87
+        },
+        {
+          "label": "intervention",
+          "start": 166,
+          "end": 180
+        },
+        {
+          "label": "in_vivo",
+          "start": 307,
+          "end": 311
+        },
+        {
+          "label": "target_species",
+          "start": 393,
+          "end": 410
+        },
+        {
+          "label": "experimental_design",
+          "start": 432,
+          "end": 445
+        },
+        {
+          "label": "experimental_design",
+          "start": 462,
+          "end": 469
+        },
+        {
+          "label": "intervention",
+          "start": 478,
+          "end": 490
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 504,
+          "end": 511
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 728,
+          "end": 733
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "4ecbb5708e991a9b0d74ad7cba0782fe15c7f62a911b2b6b194fb679bca5e9b2",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-6e3664cfd360635eeb",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "661ed99dfc86fae0c05220343fb33fa6d942605d193ca408faad8b635a4199ff",
+      "evidence_spans": [
+        {
+          "label": "qualification_or_negation",
+          "start": 320,
+          "end": 323
+        },
+        {
+          "label": "statistical_result",
+          "start": 472,
+          "end": 485
+        },
+        {
+          "label": "category_topic",
+          "start": 518,
+          "end": 525
+        },
+        {
+          "label": "experimental_design",
+          "start": 642,
+          "end": 656
+        },
+        {
+          "label": "target_species",
+          "start": 1122,
+          "end": 1139
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "6b08f9451b404b82661492fa8cc33717fcaead383dad911e719d33a777a035d5",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-35d71d27721bff440f",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. More than one possible evidence tier appears. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "79f09d52953caa24b77964df8023959ede50ff72171b392c81048c9bfa3ade09",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 60,
+          "end": 77
+        },
+        {
+          "label": "category_topic",
+          "start": 158,
+          "end": 165
+        },
+        {
+          "label": "in_vivo",
+          "start": 204,
+          "end": 211
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 314,
+          "end": 317
+        },
+        {
+          "label": "in_vitro",
+          "start": 437,
+          "end": 445
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 835,
+          "end": 844
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1148,
+          "end": 1151
+        },
+        {
+          "label": "experimental_design",
+          "start": 1238,
+          "end": 1245
+        },
+        {
+          "label": "in_vitro",
+          "start": 1325,
+          "end": 1333
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1370,
+          "end": 1379
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "9778e8c505f8bc2a34a5732e05a473453f9a66cbfd88badb69e8253119adc6cd",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-f2c4e367e1e5e107eb",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "64833cc8b72b0423b0998835adc59ff0238c515e7429b9a60466a9591c3bdbf2",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 186,
+          "end": 203
+        },
+        {
+          "label": "category_topic",
+          "start": 491,
+          "end": 498
+        },
+        {
+          "label": "category_topic",
+          "start": 531,
+          "end": 538
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1069,
+          "end": 1072
+        },
+        {
+          "label": "category_topic",
+          "start": 1112,
+          "end": 1119
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "61f9ab1c792cc94134fd1c2783d7ad00e3885af209748a5a779fe200a193d54a",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-e192feb6c5b69fa65c",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "c137056bfae6f2d3d3aa887f7383a54e7ce7e158d9f0fdf4bfc9a85f4f33a603",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 578,
+          "end": 596
+        },
+        {
+          "label": "category_topic",
+          "start": 1007,
+          "end": 1011
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "6423d9988870c7cd8ad5a8c62c5bc682061cd97f4e2590976db5b221f9991e59",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-3ef10ff2d89f32822e",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vitro",
+      "preparation_scope": "botanical",
+      "study_type": "unclear",
+      "rationale": "The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "20a71aae33e2064513077a38171b87432262c880a0e78c2c7ad8c98290567710",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 418,
+          "end": 430
+        },
+        {
+          "label": "target_species",
+          "start": 793,
+          "end": 811
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 816,
+          "end": 823
+        },
+        {
+          "label": "in_vitro",
+          "start": 1007,
+          "end": 1018
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "08c7455a8bfff15d5ec400aa690b11846c54249a68b7a9d0f8897b0d16670aee",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-481a37aa97426e0072",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "e661865a92a897a3cbf017f5a66812b4a6d6e07852af71bff6bca19f17f1ceb4",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 0,
+          "end": 9
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 126,
+          "end": 135
+        },
+        {
+          "label": "target_species",
+          "start": 244,
+          "end": 262
+        },
+        {
+          "label": "named_compound",
+          "start": 351,
+          "end": 360
+        },
+        {
+          "label": "named_compound",
+          "start": 481,
+          "end": 490
+        },
+        {
+          "label": "named_compound",
+          "start": 674,
+          "end": 683
+        },
+        {
+          "label": "category_topic",
+          "start": 719,
+          "end": 731
+        },
+        {
+          "label": "named_compound",
+          "start": 811,
+          "end": 820
+        },
+        {
+          "label": "named_compound",
+          "start": 960,
+          "end": 969
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 972,
+          "end": 981
+        },
+        {
+          "label": "named_compound",
+          "start": 1176,
+          "end": 1185
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1258,
+          "end": 1261
+        },
+        {
+          "label": "named_compound",
+          "start": 1307,
+          "end": 1316
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "0dad3a2749c5a630b5b0cf6af54d94075af5176f3ea02b8d87048b7b7de0ccb7",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-f0a686d44a2896a645",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "31a4bbdd17878e0a2528db5b2fb5bc5b6b9d4b5a8ef629cae1eeb72a8e0b17aa",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 0,
+          "end": 9
+        },
+        {
+          "label": "target_species",
+          "start": 67,
+          "end": 85
+        },
+        {
+          "label": "named_compound",
+          "start": 174,
+          "end": 183
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 505,
+          "end": 512
+        },
+        {
+          "label": "category_topic",
+          "start": 623,
+          "end": 635
+        },
+        {
+          "label": "named_compound",
+          "start": 677,
+          "end": 686
+        },
+        {
+          "label": "experimental_design",
+          "start": 868,
+          "end": 875
+        },
+        {
+          "label": "named_compound",
+          "start": 983,
+          "end": 992
+        },
+        {
+          "label": "named_compound",
+          "start": 1066,
+          "end": 1075
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1135,
+          "end": 1138
+        },
+        {
+          "label": "named_compound",
+          "start": 1276,
+          "end": 1285
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "34ebe825fb210230fe61cf5e9e0af4a1cf64da75728d70327441ecf8446d8d5f",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-b84c99bb5cf544b2bb",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. More than one possible evidence tier appears. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "f31b30747fd53d1c6b45511346345e7afb5e652f13834453bda125ac11b936ee",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 216,
+          "end": 225
+        },
+        {
+          "label": "target_species",
+          "start": 240,
+          "end": 258
+        },
+        {
+          "label": "category_topic",
+          "start": 280,
+          "end": 297
+        },
+        {
+          "label": "named_compound",
+          "start": 390,
+          "end": 399
+        },
+        {
+          "label": "in_vivo",
+          "start": 457,
+          "end": 463
+        },
+        {
+          "label": "in_vivo",
+          "start": 464,
+          "end": 468
+        },
+        {
+          "label": "intervention",
+          "start": 532,
+          "end": 544
+        },
+        {
+          "label": "named_compound",
+          "start": 571,
+          "end": 580
+        },
+        {
+          "label": "named_compound",
+          "start": 623,
+          "end": 632
+        },
+        {
+          "label": "in_vitro",
+          "start": 1065,
+          "end": 1073
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1115,
+          "end": 1124
+        },
+        {
+          "label": "named_compound",
+          "start": 1133,
+          "end": 1142
+        },
+        {
+          "label": "named_compound",
+          "start": 1255,
+          "end": 1264
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1283,
+          "end": 1292
+        },
+        {
+          "label": "category_topic",
+          "start": 1307,
+          "end": 1319
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "9cb1bdd173fb6026a99a5433f73ee38f75fcfe053886f26ef973a1a94e76e689",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-2731d78b6c90287d70",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vitro",
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "345f9af1cdab80dd56ff580799ba8225211a19b7742b96ce238dffcd19193b90",
+      "evidence_spans": [
+        {
+          "label": "in_vitro",
+          "start": 294,
+          "end": 304
+        },
+        {
+          "label": "category_topic",
+          "start": 375,
+          "end": 392
+        },
+        {
+          "label": "human_participants",
+          "start": 499,
+          "end": 507
+        },
+        {
+          "label": "named_compound",
+          "start": 686,
+          "end": 695
+        },
+        {
+          "label": "target_species",
+          "start": 763,
+          "end": 781
+        },
+        {
+          "label": "named_compound",
+          "start": 814,
+          "end": 823
+        },
+        {
+          "label": "named_compound",
+          "start": 1065,
+          "end": 1074
+        },
+        {
+          "label": "named_compound",
+          "start": 1122,
+          "end": 1131
+        },
+        {
+          "label": "human_participants",
+          "start": 1241,
+          "end": 1249
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1408,
+          "end": 1417
+        },
+        {
+          "label": "human_participants",
+          "start": 1440,
+          "end": 1448
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "5dffc83a8edc8419c3d747ec60b76295e2e9546a6669ad505f1d392717f9c5eb",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-7f17b388a29ded6805",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "10f489bf4e8849073f44e2f52ecfb91dbc45a192695b9c8494cfbb4fe670b28b",
+      "evidence_spans": [
+        {
+          "label": "qualification_or_negation",
+          "start": 336,
+          "end": 339
+        },
+        {
+          "label": "target_species",
+          "start": 712,
+          "end": 730
+        },
+        {
+          "label": "category_topic",
+          "start": 1117,
+          "end": 1134
+        },
+        {
+          "label": "named_compound",
+          "start": 1377,
+          "end": 1386
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "feb67edd498f1d82134313d96d585c947db85a4b2db672f25d70f37184c1cd27",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-9b87e36cb79b9bb014",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "fb3c5eb0fe6c9bb7908309197c11c6385738b4d45767411b8a3424849ec55384",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 0,
+          "end": 9
+        },
+        {
+          "label": "target_species",
+          "start": 36,
+          "end": 54
+        },
+        {
+          "label": "category_topic",
+          "start": 70,
+          "end": 77
+        },
+        {
+          "label": "category_topic",
+          "start": 305,
+          "end": 317
+        },
+        {
+          "label": "category_topic",
+          "start": 457,
+          "end": 465
+        },
+        {
+          "label": "named_compound",
+          "start": 501,
+          "end": 510
+        },
+        {
+          "label": "category_topic",
+          "start": 527,
+          "end": 534
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 705,
+          "end": 714
+        },
+        {
+          "label": "experimental_design",
+          "start": 731,
+          "end": 738
+        },
+        {
+          "label": "named_compound",
+          "start": 796,
+          "end": 805
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "5854cb8038880cee347b54593f9dbcf49e7bc751ed00e7eb0147d092223d56a8",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-00002f5f1827cb1f73",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vivo",
+      "preparation_scope": "unclear",
+      "study_type": "original",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "9532905350c25e2f5d5311bdb7bc48b2a2718741850e97eec1021f382ba6cc9e",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 49,
+          "end": 67
+        },
+        {
+          "label": "in_vivo",
+          "start": 134,
+          "end": 137
+        },
+        {
+          "label": "category_topic",
+          "start": 178,
+          "end": 186
+        },
+        {
+          "label": "in_vivo",
+          "start": 231,
+          "end": 237
+        },
+        {
+          "label": "in_vivo",
+          "start": 238,
+          "end": 242
+        },
+        {
+          "label": "experimental_design",
+          "start": 248,
+          "end": 265
+        },
+        {
+          "label": "experimental_design",
+          "start": 313,
+          "end": 320
+        },
+        {
+          "label": "intervention",
+          "start": 351,
+          "end": 363
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 408,
+          "end": 415
+        },
+        {
+          "label": "category_topic",
+          "start": 495,
+          "end": 503
+        },
+        {
+          "label": "intervention",
+          "start": 622,
+          "end": 634
+        },
+        {
+          "label": "category_topic",
+          "start": 1059,
+          "end": 1067
+        },
+        {
+          "label": "category_topic",
+          "start": 1164,
+          "end": 1172
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1430,
+          "end": 1439
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "9b4d0e9797504bc3e6574ac080f29369f754aa7f2b4a3e53a658bd1dd43369cf",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-1d01e3355b2c48e095",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vivo",
+      "preparation_scope": "unclear",
+      "study_type": "original",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "c7f7cbe9a680dec6807da2c7b8cce675182035914da0d8aa8dbfb8a5ee38e0c4",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "label": "target_species",
+          "start": 184,
+          "end": 202
+        },
+        {
+          "label": "category_topic",
+          "start": 253,
+          "end": 265
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 266,
+          "end": 275
+        },
+        {
+          "label": "experimental_design",
+          "start": 620,
+          "end": 631
+        },
+        {
+          "label": "named_compound",
+          "start": 661,
+          "end": 670
+        },
+        {
+          "label": "clinical_design",
+          "start": 674,
+          "end": 684
+        },
+        {
+          "label": "experimental_design",
+          "start": 674,
+          "end": 684
+        },
+        {
+          "label": "in_vivo",
+          "start": 756,
+          "end": 760
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 828,
+          "end": 835
+        },
+        {
+          "label": "category_topic",
+          "start": 961,
+          "end": 968
+        },
+        {
+          "label": "statistical_result",
+          "start": 1075,
+          "end": 1088
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1199,
+          "end": 1206
+        },
+        {
+          "label": "intervention",
+          "start": 1219,
+          "end": 1231
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1300,
+          "end": 1309
+        },
+        {
+          "label": "in_vivo",
+          "start": 1378,
+          "end": 1382
+        },
+        {
+          "label": "intervention",
+          "start": 1383,
+          "end": 1395
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1433,
+          "end": 1440
+        },
+        {
+          "label": "statistical_result",
+          "start": 1462,
+          "end": 1475
+        },
+        {
+          "label": "category_topic",
+          "start": 1490,
+          "end": 1497
+        },
+        {
+          "label": "experimental_design",
+          "start": 1509,
+          "end": 1520
+        },
+        {
+          "label": "intervention",
+          "start": 1527,
+          "end": 1539
+        },
+        {
+          "label": "named_compound",
+          "start": 1540,
+          "end": 1549
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1588,
+          "end": 1597
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1699,
+          "end": 1706
+        },
+        {
+          "label": "intervention",
+          "start": 1727,
+          "end": 1739
+        },
+        {
+          "label": "category_topic",
+          "start": 1785,
+          "end": 1792
+        },
+        {
+          "label": "experimental_design",
+          "start": 1811,
+          "end": 1822
+        },
+        {
+          "label": "named_compound",
+          "start": 1823,
+          "end": 1832
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1869,
+          "end": 1878
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "5f3ff85e100aa4c9af2afdc706362e67a237e0115755ab69ee1692d9e83dafdf",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-5aac6dd44ef2019616",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "e661865a92a897a3cbf017f5a66812b4a6d6e07852af71bff6bca19f17f1ceb4",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 0,
+          "end": 9
+        },
+        {
+          "label": "category_topic",
+          "start": 43,
+          "end": 55
+        },
+        {
+          "label": "category_topic",
+          "start": 78,
+          "end": 86
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 126,
+          "end": 135
+        },
+        {
+          "label": "target_species",
+          "start": 244,
+          "end": 262
+        },
+        {
+          "label": "named_compound",
+          "start": 351,
+          "end": 360
+        },
+        {
+          "label": "named_compound",
+          "start": 481,
+          "end": 490
+        },
+        {
+          "label": "named_compound",
+          "start": 674,
+          "end": 683
+        },
+        {
+          "label": "named_compound",
+          "start": 811,
+          "end": 820
+        },
+        {
+          "label": "named_compound",
+          "start": 960,
+          "end": 969
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 972,
+          "end": 981
+        },
+        {
+          "label": "named_compound",
+          "start": 1176,
+          "end": 1185
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1258,
+          "end": 1261
+        },
+        {
+          "label": "named_compound",
+          "start": 1307,
+          "end": 1316
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "0dad3a2749c5a630b5b0cf6af54d94075af5176f3ea02b8d87048b7b7de0ccb7",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-458b5752b133bad0c1",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "botanical",
+      "study_type": "unclear",
+      "rationale": "More than one possible evidence tier appears. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "f4fd1f81969d75d40abcffcdb03f6f3c10f81a45d46cd40ee49428e6357a6c4e",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 0,
+          "end": 12
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 43,
+          "end": 51
+        },
+        {
+          "label": "target_species",
+          "start": 75,
+          "end": 93
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 191,
+          "end": 200
+        },
+        {
+          "label": "category_topic",
+          "start": 302,
+          "end": 314
+        },
+        {
+          "label": "target_species",
+          "start": 328,
+          "end": 346
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 351,
+          "end": 358
+        },
+        {
+          "label": "category_topic",
+          "start": 420,
+          "end": 428
+        },
+        {
+          "label": "category_topic",
+          "start": 534,
+          "end": 541
+        },
+        {
+          "label": "category_topic",
+          "start": 593,
+          "end": 600
+        },
+        {
+          "label": "in_vivo",
+          "start": 677,
+          "end": 681
+        },
+        {
+          "label": "category_topic",
+          "start": 704,
+          "end": 716
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 731,
+          "end": 738
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 864,
+          "end": 871
+        },
+        {
+          "label": "category_topic",
+          "start": 1137,
+          "end": 1145
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1236,
+          "end": 1244
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1276,
+          "end": 1285
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1307,
+          "end": 1314
+        },
+        {
+          "label": "in_vitro",
+          "start": 1341,
+          "end": 1349
+        },
+        {
+          "label": "target_species",
+          "start": 1401,
+          "end": 1419
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1424,
+          "end": 1431
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1495,
+          "end": 1502
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1628,
+          "end": 1637
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1653,
+          "end": 1661
+        },
+        {
+          "label": "target_species",
+          "start": 1817,
+          "end": 1835
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1840,
+          "end": 1847
+        },
+        {
+          "label": "target_species",
+          "start": 1947,
+          "end": 1965
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1980,
+          "end": 1988
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "ff6ee769e962b34a5c9a34984f7b3f4a041c138678bbac67c268e27db5fc6565",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-28396ce1815013714a",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "c7b34fdf501e3efeaf4870ccadc00c931a57084848816ce91d5205bce24ef395",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 419,
+          "end": 428
+        },
+        {
+          "label": "target_species",
+          "start": 459,
+          "end": 477
+        },
+        {
+          "label": "category_topic",
+          "start": 534,
+          "end": 542
+        },
+        {
+          "label": "category_topic",
+          "start": 592,
+          "end": 599
+        },
+        {
+          "label": "category_topic",
+          "start": 712,
+          "end": 719
+        },
+        {
+          "label": "category_topic",
+          "start": 771,
+          "end": 778
+        },
+        {
+          "label": "named_compound",
+          "start": 1126,
+          "end": 1135
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1204,
+          "end": 1213
+        },
+        {
+          "label": "named_compound",
+          "start": 1250,
+          "end": 1259
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1338,
+          "end": 1347
+        },
+        {
+          "label": "named_compound",
+          "start": 1438,
+          "end": 1447
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1723,
+          "end": 1732
+        },
+        {
+          "label": "named_compound",
+          "start": 1761,
+          "end": 1770
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "f6b9ad302e88b63bfa4544a755b953740884579381dd2a5ce0b103d0c5765619",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-c14755c335a3b564c0",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "146a2f8e62a4c60664268b9cc9c0c4825125d71909a6f36da07e4efd29d2e849",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 911,
+          "end": 919
+        },
+        {
+          "label": "category_topic",
+          "start": 943,
+          "end": 952
+        },
+        {
+          "label": "target_species",
+          "start": 1011,
+          "end": 1029
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "06be87a406d28934f69306cfecd428bad4feb9c2427d7a7de1adc88431b4578e",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-2c40c8dc1854fd0401",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "dbd26f9ed6ac7d976b1c87d1cf002ae8d3925c4e51db326cf190e86e6608bf48",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 0,
+          "end": 4
+        },
+        {
+          "label": "category_topic",
+          "start": 200,
+          "end": 204
+        },
+        {
+          "label": "target_species",
+          "start": 247,
+          "end": 265
+        },
+        {
+          "label": "statistical_result",
+          "start": 296,
+          "end": 309
+        },
+        {
+          "label": "category_topic",
+          "start": 658,
+          "end": 662
+        },
+        {
+          "label": "category_topic",
+          "start": 1150,
+          "end": 1159
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1353,
+          "end": 1362
+        },
+        {
+          "label": "category_topic",
+          "start": 1481,
+          "end": 1490
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "fee6ed9c97650bee3dd3d4bf6f8e15ef23cc4980058d2e48b29ef9225a0d34b8",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-d8e6abb51750b622c5",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "c60dc8ce529d04e05ac07ad3c0bb400f5265be4d630b5246aa0f975909d069d5",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "label": "target_species",
+          "start": 71,
+          "end": 89
+        },
+        {
+          "label": "category_topic",
+          "start": 125,
+          "end": 134
+        },
+        {
+          "label": "category_topic",
+          "start": 158,
+          "end": 162
+        },
+        {
+          "label": "named_compound",
+          "start": 207,
+          "end": 215
+        },
+        {
+          "label": "named_compound",
+          "start": 907,
+          "end": 915
+        },
+        {
+          "label": "named_compound",
+          "start": 974,
+          "end": 982
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1273,
+          "end": 1280
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "82bde5e4feed833c3bc3be8668735e2cff727dbe9ecf8a50f6236da7efc00e9b",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-732d6f1ed4e41ce088",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "ab31252335ea210a553ae88b2191be094d3b799cc9f9531e34cd40c020ca88d6",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 20,
+          "end": 38
+        },
+        {
+          "label": "category_topic",
+          "start": 142,
+          "end": 151
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 627,
+          "end": 634
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 658,
+          "end": 661
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1501,
+          "end": 1504
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "10453b38ab39fbdc4390edb74ca60b1119206a78d91abfca285b8e9df626cc15",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-a8d279a11ed40f4825",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vitro",
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "4aa1e05ea106c46a1e77ad14aa73444c63e94a5f9d23984c116e80ca4873a6ec",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 168,
+          "end": 177
+        },
+        {
+          "label": "named_compound",
+          "start": 920,
+          "end": 928
+        },
+        {
+          "label": "target_species",
+          "start": 957,
+          "end": 975
+        },
+        {
+          "label": "named_compound",
+          "start": 1167,
+          "end": 1175
+        },
+        {
+          "label": "human_participants",
+          "start": 1426,
+          "end": 1434
+        },
+        {
+          "label": "in_vitro",
+          "start": 1483,
+          "end": 1493
+        },
+        {
+          "label": "category_topic",
+          "start": 1608,
+          "end": 1623
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "379b3c03f0282230ea251622497baa78ebdcf633dd6338ed0c210785e9132063",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-4adc6d658707048619",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "9e35682cb3c583ea8554caf74050bbb9bae22e0c43cfe1d489711d0f956b2b67",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 148,
+          "end": 166
+        },
+        {
+          "label": "named_compound",
+          "start": 219,
+          "end": 227
+        },
+        {
+          "label": "named_compound",
+          "start": 402,
+          "end": 410
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 442,
+          "end": 449
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 840,
+          "end": 849
+        },
+        {
+          "label": "category_topic",
+          "start": 889,
+          "end": 898
+        },
+        {
+          "label": "named_compound",
+          "start": 1138,
+          "end": 1146
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "2fe46604608143dd4d5f80eb81bd63fa1564f3fbc5cf9bb4254637dc9d7cf084",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-920e51b10063d51b33",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vitro",
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "ae41ddbed78064a6f45005b19efeee886abdc6ee6bff1ba44c245fdff0539db1",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 223,
+          "end": 241
+        },
+        {
+          "label": "category_topic",
+          "start": 721,
+          "end": 738
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 750,
+          "end": 752
+        },
+        {
+          "label": "in_vitro",
+          "start": 807,
+          "end": 818
+        },
+        {
+          "label": "experimental_design",
+          "start": 917,
+          "end": 924
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1036,
+          "end": 1041
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "7c2597db8bd0780f9ecabbfece593aec02640128ddfa7cf8526ad1deab7e2315",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-8915a847c5018a5520",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "146a2f8e62a4c60664268b9cc9c0c4825125d71909a6f36da07e4efd29d2e849",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 813,
+          "end": 825
+        },
+        {
+          "label": "named_compound",
+          "start": 911,
+          "end": 919
+        },
+        {
+          "label": "target_species",
+          "start": 1011,
+          "end": 1029
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "06be87a406d28934f69306cfecd428bad4feb9c2427d7a7de1adc88431b4578e",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-51158dfc86dd14bd05",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vivo",
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "413245b5b3196102c45cee358d9bf4c92fee18263c8051ce6adbcb9d4c2694ac",
+      "evidence_spans": [
+        {
+          "label": "qualification_or_negation",
+          "start": 144,
+          "end": 146
+        },
+        {
+          "label": "target_species",
+          "start": 207,
+          "end": 225
+        },
+        {
+          "label": "target_species",
+          "start": 311,
+          "end": 329
+        },
+        {
+          "label": "in_vivo",
+          "start": 381,
+          "end": 385
+        },
+        {
+          "label": "in_vivo",
+          "start": 581,
+          "end": 585
+        },
+        {
+          "label": "intervention",
+          "start": 617,
+          "end": 622
+        },
+        {
+          "label": "statistical_result",
+          "start": 763,
+          "end": 776
+        },
+        {
+          "label": "category_topic",
+          "start": 1209,
+          "end": 1221
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1281,
+          "end": 1288
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1313,
+          "end": 1316
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1326,
+          "end": 1335
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1383,
+          "end": 1390
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1475,
+          "end": 1484
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "1e6dd56e9723c84a57254b8de809ccad09b89ca8760eeb802d40814286d40b75",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-d23d39ea5a8457022c",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "botanical",
+      "study_type": "unclear",
+      "rationale": "No prespecified category cue in the abstract. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "2fbc75613f96cde177a5db97f1801bf55b993c912a1c39cc1bb4a8308fc0657c",
+      "evidence_spans": [
+        {
+          "label": "human_participants",
+          "start": 256,
+          "end": 264
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 722,
+          "end": 729
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 743,
+          "end": 750
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 778,
+          "end": 785
+        },
+        {
+          "label": "target_species",
+          "start": 887,
+          "end": 905
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1755,
+          "end": 1764
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "43b199900dd1e01f9d59509a6c9dfd7e644496a3236318e5a535ec9ae96ddb3a",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-0ea6d3b5cf5df8c158",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. More than one possible evidence tier appears. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "53d2a837340caa1406b221827cbf36aaa2245423dfe48878eab89023bba19899",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 226,
+          "end": 244
+        },
+        {
+          "label": "named_compound",
+          "start": 329,
+          "end": 337
+        },
+        {
+          "label": "category_topic",
+          "start": 1037,
+          "end": 1054
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1163,
+          "end": 1172
+        },
+        {
+          "label": "experimental_design",
+          "start": 1176,
+          "end": 1183
+        },
+        {
+          "label": "in_vitro",
+          "start": 1272,
+          "end": 1280
+        },
+        {
+          "label": "in_vivo",
+          "start": 1285,
+          "end": 1292
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "17186dd89932d2e28deb5ad1674c297afc15dc497d6a68526627d274f3006bd9",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-97caca64105eec4dbb",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "d953602418380df83f02da4e93efb2ec93031d59c5d7a159dac09c12a920b74c",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 53,
+          "end": 70
+        },
+        {
+          "label": "target_species",
+          "start": 708,
+          "end": 726
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "a0957db00be8a37c2597bf671e739aae73dfb4ee4c12f5237d2086fe71581e3f",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-2dae013100d1d6fa31",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vivo",
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "413245b5b3196102c45cee358d9bf4c92fee18263c8051ce6adbcb9d4c2694ac",
+      "evidence_spans": [
+        {
+          "label": "qualification_or_negation",
+          "start": 144,
+          "end": 146
+        },
+        {
+          "label": "target_species",
+          "start": 207,
+          "end": 225
+        },
+        {
+          "label": "target_species",
+          "start": 311,
+          "end": 329
+        },
+        {
+          "label": "in_vivo",
+          "start": 381,
+          "end": 385
+        },
+        {
+          "label": "in_vivo",
+          "start": 581,
+          "end": 585
+        },
+        {
+          "label": "intervention",
+          "start": 617,
+          "end": 622
+        },
+        {
+          "label": "statistical_result",
+          "start": 763,
+          "end": 776
+        },
+        {
+          "label": "category_topic",
+          "start": 987,
+          "end": 994
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1281,
+          "end": 1288
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1313,
+          "end": 1316
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1326,
+          "end": 1335
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1383,
+          "end": 1390
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1475,
+          "end": 1484
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "1e6dd56e9723c84a57254b8de809ccad09b89ca8760eeb802d40814286d40b75",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-1472ebbd0b2430fc56",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "30552d64dfc6c3ae7791f456e34b7da30e8d8f3ce7ed65aa173fc2b752479bc5",
+      "evidence_spans": [
+        {
+          "label": "human_participants",
+          "start": 9,
+          "end": 17
+        },
+        {
+          "label": "category_topic",
+          "start": 74,
+          "end": 81
+        },
+        {
+          "label": "human_participants",
+          "start": 161,
+          "end": 169
+        },
+        {
+          "label": "target_species",
+          "start": 240,
+          "end": 258
+        },
+        {
+          "label": "human_participants",
+          "start": 299,
+          "end": 307
+        },
+        {
+          "label": "category_topic",
+          "start": 331,
+          "end": 338
+        },
+        {
+          "label": "category_topic",
+          "start": 427,
+          "end": 434
+        },
+        {
+          "label": "category_topic",
+          "start": 684,
+          "end": 692
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "7adbb4c39e5562c145634251c3b6ba2cfecfaddfe375a206bdddf5ee777a9765",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-3a45f83c71945a5be2",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "bfad920476a2ef0bb5a2d54933ba0e123a1e548f2faadaf36866da76b15f82f9",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 48,
+          "end": 66
+        },
+        {
+          "label": "category_topic",
+          "start": 197,
+          "end": 204
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 579,
+          "end": 581
+        },
+        {
+          "label": "category_topic",
+          "start": 645,
+          "end": 652
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 843,
+          "end": 845
+        },
+        {
+          "label": "experimental_design",
+          "start": 1023,
+          "end": 1034
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1114,
+          "end": 1116
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1251,
+          "end": 1253
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1318,
+          "end": 1321
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1504,
+          "end": 1506
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "1ee3c09cad9bfa5cf35f38d470514fa83b2df25f93dae2154487f4891751126b",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-942c9aebffb16565f2",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "3e86eedf21fa49daf33e7b9e71d2351e582ccfc79b47f32d7d8c805e2dbbff34",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 112,
+          "end": 130
+        },
+        {
+          "label": "category_topic",
+          "start": 197,
+          "end": 204
+        },
+        {
+          "label": "category_topic",
+          "start": 396,
+          "end": 403
+        },
+        {
+          "label": "category_topic",
+          "start": 455,
+          "end": 462
+        },
+        {
+          "label": "category_topic",
+          "start": 660,
+          "end": 667
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 840,
+          "end": 842
+        },
+        {
+          "label": "statistical_result",
+          "start": 1076,
+          "end": 1089
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1129,
+          "end": 1131
+        },
+        {
+          "label": "experimental_design",
+          "start": 1148,
+          "end": 1162
+        },
+        {
+          "label": "experimental_design",
+          "start": 1170,
+          "end": 1181
+        },
+        {
+          "label": "category_topic",
+          "start": 1329,
+          "end": 1336
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1404,
+          "end": 1409
+        },
+        {
+          "label": "category_topic",
+          "start": 1456,
+          "end": 1463
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1516,
+          "end": 1519
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1593,
+          "end": 1598
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1678,
+          "end": 1680
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "1a10d1a44ddddc9035048a4dd9d8e03666ee2cfb1e232320ff26771e0d051684",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-5a228318fa998b3c0e",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "original",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "c08fd9edb7c9a981a144f6d2407a560bff22176ac11489955afdd1aa9d1dd14c",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 13,
+          "end": 31
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1394,
+          "end": 1397
+        },
+        {
+          "label": "category_topic",
+          "start": 1417,
+          "end": 1424
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1498,
+          "end": 1501
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1637,
+          "end": 1640
+        },
+        {
+          "label": "experimental_design",
+          "start": 2082,
+          "end": 2090
+        },
+        {
+          "label": "intervention",
+          "start": 2096,
+          "end": 2104
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 2413,
+          "end": 2415
+        },
+        {
+          "label": "experimental_design",
+          "start": 2438,
+          "end": 2445
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 2837,
+          "end": 2840
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "3f4ccc5d1ffa4127d094f054da04a569ad72508139c7fc2bb61ccfac02aaa2f2",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-88b3698899eabfcc85",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "ea2b6c94d3dea95ec2dbe8cb9b4a1479244591ec83f76f61f1931f1dbdf68db7",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 0,
+          "end": 10
+        },
+        {
+          "label": "target_species",
+          "start": 80,
+          "end": 96
+        },
+        {
+          "label": "named_compound",
+          "start": 141,
+          "end": 151
+        },
+        {
+          "label": "named_compound",
+          "start": 241,
+          "end": 251
+        },
+        {
+          "label": "intervention",
+          "start": 346,
+          "end": 358
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 380,
+          "end": 388
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 525,
+          "end": 534
+        },
+        {
+          "label": "category_topic",
+          "start": 581,
+          "end": 596
+        },
+        {
+          "label": "named_compound",
+          "start": 663,
+          "end": 673
+        },
+        {
+          "label": "named_compound",
+          "start": 705,
+          "end": 715
+        },
+        {
+          "label": "named_compound",
+          "start": 831,
+          "end": 841
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "5a983e480acfa7f07ade7c88aac2c22b7305b710e508bbc2287dda92a02acd30",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-2ce2ea918545aeb6b3",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vivo",
+      "preparation_scope": "compound_only",
+      "study_type": "original",
+      "rationale": "No prespecified category cue in the abstract. Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "2db68961c03b732365da02571d7c4a17f3243188f0bcee5e4c6f22bdae3de484",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 0,
+          "end": 10
+        },
+        {
+          "label": "target_species",
+          "start": 31,
+          "end": 47
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 244,
+          "end": 247
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 269,
+          "end": 278
+        },
+        {
+          "label": "in_vivo",
+          "start": 409,
+          "end": 413
+        },
+        {
+          "label": "in_vivo",
+          "start": 455,
+          "end": 459
+        },
+        {
+          "label": "experimental_design",
+          "start": 506,
+          "end": 513
+        },
+        {
+          "label": "intervention",
+          "start": 545,
+          "end": 550
+        },
+        {
+          "label": "intervention",
+          "start": 623,
+          "end": 628
+        },
+        {
+          "label": "experimental_design",
+          "start": 676,
+          "end": 689
+        },
+        {
+          "label": "intervention",
+          "start": 690,
+          "end": 698
+        },
+        {
+          "label": "statistical_result",
+          "start": 1035,
+          "end": 1048
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1306,
+          "end": 1315
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "6c8120c5880ed2f2f45026f4b4c1599e15312f4aaf6eab55fad0bc6c232ac0fc",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-8d81a12751ba651266",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "860b4adb9ccc5b717d83db44ca873a14102f3a664b7ad140d63c97685e15ec12",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 260,
+          "end": 270
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 335,
+          "end": 344
+        },
+        {
+          "label": "target_species",
+          "start": 534,
+          "end": 550
+        },
+        {
+          "label": "category_topic",
+          "start": 971,
+          "end": 988
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "3a3e981792cbc9df9cca4ebcf518a58553c678441be90c41ba1400f16cc43a37",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-9ea656ffae221f780d",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vivo",
+      "preparation_scope": "compound_only",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "ff74c037ff6c7f7005ca85f6b6d56514cf903ead2225b0083beb26f27214dddd",
+      "evidence_spans": [
+        {
+          "label": "named_compound",
+          "start": 105,
+          "end": 115
+        },
+        {
+          "label": "target_species",
+          "start": 141,
+          "end": 157
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 342,
+          "end": 345
+        },
+        {
+          "label": "named_compound",
+          "start": 434,
+          "end": 444
+        },
+        {
+          "label": "in_vivo",
+          "start": 471,
+          "end": 475
+        },
+        {
+          "label": "named_compound",
+          "start": 537,
+          "end": 547
+        },
+        {
+          "label": "category_topic",
+          "start": 747,
+          "end": 759
+        },
+        {
+          "label": "statistical_result",
+          "start": 1107,
+          "end": 1120
+        },
+        {
+          "label": "in_vivo",
+          "start": 1134,
+          "end": 1138
+        },
+        {
+          "label": "named_compound",
+          "start": 1175,
+          "end": 1185
+        },
+        {
+          "label": "named_compound",
+          "start": 1256,
+          "end": 1266
+        },
+        {
+          "label": "in_vivo",
+          "start": 1270,
+          "end": 1274
+        },
+        {
+          "label": "in_vivo",
+          "start": 1620,
+          "end": 1624
+        },
+        {
+          "label": "named_compound",
+          "start": 1639,
+          "end": 1649
+        },
+        {
+          "label": "statistical_result",
+          "start": 1660,
+          "end": 1673
+        },
+        {
+          "label": "in_vivo",
+          "start": 1792,
+          "end": 1796
+        },
+        {
+          "label": "named_compound",
+          "start": 1889,
+          "end": 1899
+        },
+        {
+          "label": "named_compound",
+          "start": 1987,
+          "end": 1997
+        },
+        {
+          "label": "statistical_result",
+          "start": 1998,
+          "end": 2011
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "ab59982e188d02537ea4252cbfd1b22f39409496d5686ada47f6b3806ecd1f27",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-16f1157840222fd915",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vitro",
+      "preparation_scope": "compound_only",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "876eea94ce96f2252ebcd940295f84c8a569d5788bdc69f94ad46180ffeba246",
+      "evidence_spans": [
+        {
+          "label": "experimental_design",
+          "start": 24,
+          "end": 31
+        },
+        {
+          "label": "named_compound",
+          "start": 99,
+          "end": 109
+        },
+        {
+          "label": "category_topic",
+          "start": 232,
+          "end": 239
+        },
+        {
+          "label": "target_species",
+          "start": 284,
+          "end": 300
+        },
+        {
+          "label": "in_vitro",
+          "start": 342,
+          "end": 352
+        },
+        {
+          "label": "target_species",
+          "start": 356,
+          "end": 372
+        },
+        {
+          "label": "category_topic",
+          "start": 492,
+          "end": 499
+        },
+        {
+          "label": "named_compound",
+          "start": 670,
+          "end": 680
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 759,
+          "end": 765
+        },
+        {
+          "label": "named_compound",
+          "start": 834,
+          "end": 844
+        },
+        {
+          "label": "category_topic",
+          "start": 967,
+          "end": 974
+        },
+        {
+          "label": "category_topic",
+          "start": 1051,
+          "end": 1058
+        },
+        {
+          "label": "named_compound",
+          "start": 1069,
+          "end": 1079
+        },
+        {
+          "label": "category_topic",
+          "start": 1255,
+          "end": 1262
+        },
+        {
+          "label": "named_compound",
+          "start": 1319,
+          "end": 1329
+        },
+        {
+          "label": "category_topic",
+          "start": 1396,
+          "end": 1403
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "1caa3a7a904b83f76e6e860b4713a5460bfba933d5dd253454543ebd36dfad09",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-6415e203c4dea7940b",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "68f1dd7a25a585def74b16dcf619a5ff07052a345b1820259c7ff295d4bba219",
+      "evidence_spans": [
+        {
+          "label": "qualification_or_negation",
+          "start": 20,
+          "end": 29
+        },
+        {
+          "label": "target_species",
+          "start": 76,
+          "end": 95
+        },
+        {
+          "label": "named_compound",
+          "start": 163,
+          "end": 174
+        },
+        {
+          "label": "named_compound",
+          "start": 179,
+          "end": 190
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 390,
+          "end": 398
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 562,
+          "end": 571
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 802,
+          "end": 811
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 892,
+          "end": 901
+        },
+        {
+          "label": "category_topic",
+          "start": 902,
+          "end": 917
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1105,
+          "end": 1113
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1434,
+          "end": 1443
+        },
+        {
+          "label": "target_species",
+          "start": 1663,
+          "end": 1682
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "dc24ce284aaed2daaabe7993e8a60a0e46390cece8a5a9854e78bc83f34ea1c0",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-af44bac8dd07f6f574",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "case_report",
+      "rationale": "Case-report cues require individual human interpretation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "94f2072b254a9f8b4c3f66205521ff821da31be6d2bd536202d01c7fbb8da4f2",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 19,
+          "end": 38
+        },
+        {
+          "label": "named_compound",
+          "start": 206,
+          "end": 217
+        },
+        {
+          "label": "named_compound",
+          "start": 222,
+          "end": 233
+        },
+        {
+          "label": "target_species",
+          "start": 256,
+          "end": 275
+        },
+        {
+          "label": "target_species",
+          "start": 429,
+          "end": 448
+        },
+        {
+          "label": "category_topic",
+          "start": 666,
+          "end": 670
+        },
+        {
+          "label": "target_species",
+          "start": 869,
+          "end": 888
+        },
+        {
+          "label": "category_topic",
+          "start": 904,
+          "end": 908
+        },
+        {
+          "label": "human_participants",
+          "start": 1003,
+          "end": 1010
+        },
+        {
+          "label": "target_species",
+          "start": 1066,
+          "end": 1085
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1087,
+          "end": 1089
+        },
+        {
+          "label": "human_participants",
+          "start": 1140,
+          "end": 1147
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1189,
+          "end": 1196
+        },
+        {
+          "label": "target_species",
+          "start": 1217,
+          "end": 1236
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1399,
+          "end": 1408
+        },
+        {
+          "label": "human_participants",
+          "start": 1651,
+          "end": 1658
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "765739d4ef88f44f05d1161619320199ad61294a9a1178e342b2052ff4d86452",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-774731654cbc7ae378",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "compound_only",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "590a0b8cb06cc176d1d160590e56dcbbdd46380784a421558fb59ebea2ef89f4",
+      "evidence_spans": [
+        {
+          "label": "qualification_or_negation",
+          "start": 179,
+          "end": 186
+        },
+        {
+          "label": "named_compound",
+          "start": 395,
+          "end": 406
+        },
+        {
+          "label": "target_species",
+          "start": 412,
+          "end": 431
+        },
+        {
+          "label": "category_topic",
+          "start": 603,
+          "end": 618
+        },
+        {
+          "label": "statistical_result",
+          "start": 1855,
+          "end": 1868
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 2213,
+          "end": 2222
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "74cd780ac5c976259e398fcd0f4a0324049ba35f656ddd49e9f0348c5e215bbe",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-9d804eac91f0e3a865",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "84bbcab2dc9528351a46ace6e01dc9274ef8fcdc661209bbe6ebffc9da3d3069",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 738,
+          "end": 757
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1110,
+          "end": 1119
+        },
+        {
+          "label": "category_topic",
+          "start": 1590,
+          "end": 1605
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 2042,
+          "end": 2047
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "e484812eb5b492ee5e449019ba67a1c66ba22f4096d52e3fcacfcd263ad6600c",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-6b1c2bac69cc948648",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "1ecfc1c22e45dee9a7cc7ba555f1767481c0f00c1a5bb0114e61bd6c836b8ab3",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 202,
+          "end": 217
+        },
+        {
+          "label": "target_species",
+          "start": 558,
+          "end": 577
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "c8d4fe3bd54dea8271a023f77cf03a2c8932196f635df9b163deb72f77823d1e",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-4d5ca4d913390461b5",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vivo",
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "85ec93eab61a72f4ab744a64594411a7f1102bdfb115500a3ffa27867da893ac",
+      "evidence_spans": [
+        {
+          "label": "human_participants",
+          "start": 2,
+          "end": 13
+        },
+        {
+          "label": "target_species",
+          "start": 165,
+          "end": 184
+        },
+        {
+          "label": "in_vivo",
+          "start": 672,
+          "end": 676
+        },
+        {
+          "label": "intervention",
+          "start": 677,
+          "end": 685
+        },
+        {
+          "label": "category_topic",
+          "start": 772,
+          "end": 787
+        },
+        {
+          "label": "intervention",
+          "start": 816,
+          "end": 821
+        },
+        {
+          "label": "in_vivo",
+          "start": 1203,
+          "end": 1207
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1655,
+          "end": 1658
+        },
+        {
+          "label": "in_vivo",
+          "start": 1693,
+          "end": 1697
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "a2393a4e301e1d732f056e414db6983b3fe97c6f2b3db68caeb776a1609d5b9d",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-59e56be2df05002d8c",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "e3ce927a853aded4bc944adde7e467a67d176f4b9095cfc04ebf1a5e3960a20d",
+      "evidence_spans": [
+        {
+          "label": "qualification_or_negation",
+          "start": 430,
+          "end": 439
+        },
+        {
+          "label": "target_species",
+          "start": 655,
+          "end": 674
+        },
+        {
+          "label": "named_compound",
+          "start": 970,
+          "end": 981
+        },
+        {
+          "label": "named_compound",
+          "start": 983,
+          "end": 994
+        },
+        {
+          "label": "category_topic",
+          "start": 1188,
+          "end": 1205
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1402,
+          "end": 1410
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "b82f2ab1785c7bea709f896af037499d124047b62faa48b4862845975437a89a",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-edd433a39dd52a9132",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "60cc2efea2967d171691c33133d2f4ef737b0844e7167e46145058b639621954",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 11,
+          "end": 30
+        },
+        {
+          "label": "category_topic",
+          "start": 257,
+          "end": 274
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 371,
+          "end": 379
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 420,
+          "end": 428
+        },
+        {
+          "label": "category_topic",
+          "start": 650,
+          "end": 667
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 668,
+          "end": 677
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 897,
+          "end": 905
+        },
+        {
+          "label": "experimental_design",
+          "start": 1009,
+          "end": 1020
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1033,
+          "end": 1041
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1065,
+          "end": 1072
+        },
+        {
+          "label": "category_topic",
+          "start": 1090,
+          "end": 1107
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1283,
+          "end": 1290
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1586,
+          "end": 1593
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "b6496b59761048852fa19c0dd39e6ee1d0c12c8f16a1dedd02c6109f8b82a253",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-b1ec1232768b417f58",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "botanical",
+      "study_type": "unclear",
+      "rationale": "No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "a8f7298887f55f40b7809fa291575cc2a0433e80a3fd365a52a646bfa60bd0eb",
+      "evidence_spans": [
+        {
+          "label": "botanical_preparation",
+          "start": 232,
+          "end": 240
+        },
+        {
+          "label": "category_topic",
+          "start": 376,
+          "end": 388
+        },
+        {
+          "label": "target_species",
+          "start": 442,
+          "end": 461
+        },
+        {
+          "label": "category_topic",
+          "start": 572,
+          "end": 589
+        },
+        {
+          "label": "target_species",
+          "start": 670,
+          "end": 689
+        },
+        {
+          "label": "category_topic",
+          "start": 743,
+          "end": 760
+        },
+        {
+          "label": "target_species",
+          "start": 819,
+          "end": 838
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 962,
+          "end": 969
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1068,
+          "end": 1075
+        },
+        {
+          "label": "category_topic",
+          "start": 1350,
+          "end": 1367
+        },
+        {
+          "label": "target_species",
+          "start": 1485,
+          "end": 1504
+        },
+        {
+          "label": "category_topic",
+          "start": 1578,
+          "end": 1595
+        },
+        {
+          "label": "category_topic",
+          "start": 1894,
+          "end": 1911
+        },
+        {
+          "label": "target_species",
+          "start": 1947,
+          "end": 1966
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 2002,
+          "end": 2009
+        },
+        {
+          "label": "experimental_design",
+          "start": 2010,
+          "end": 2021
+        },
+        {
+          "label": "experimental_design",
+          "start": 2026,
+          "end": 2033
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 2055,
+          "end": 2064
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "860126439a38b824d532cac98cce805748f3882944636524017364856a701212",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-762df65f7de1af5609",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. More than one possible evidence tier appears. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "9d384e8283b0a250122fb0a0c97c5a1b417df31518eddd9086b901f72601ace5",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 125,
+          "end": 144
+        },
+        {
+          "label": "category_topic",
+          "start": 209,
+          "end": 226
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 359,
+          "end": 368
+        },
+        {
+          "label": "experimental_design",
+          "start": 945,
+          "end": 956
+        },
+        {
+          "label": "experimental_design",
+          "start": 961,
+          "end": 968
+        },
+        {
+          "label": "in_vivo",
+          "start": 1034,
+          "end": 1041
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1159,
+          "end": 1168
+        },
+        {
+          "label": "in_vitro",
+          "start": 1206,
+          "end": 1215
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1369,
+          "end": 1371
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "6a06ad336841202fe07a4ca413eca26621f2e34e506379c6ddeafd6501b04962",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-c3d9389a0bd4dcdba9",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "68f1dd7a25a585def74b16dcf619a5ff07052a345b1820259c7ff295d4bba219",
+      "evidence_spans": [
+        {
+          "label": "qualification_or_negation",
+          "start": 20,
+          "end": 29
+        },
+        {
+          "label": "target_species",
+          "start": 76,
+          "end": 95
+        },
+        {
+          "label": "named_compound",
+          "start": 163,
+          "end": 174
+        },
+        {
+          "label": "named_compound",
+          "start": 179,
+          "end": 190
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 390,
+          "end": 398
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 562,
+          "end": 571
+        },
+        {
+          "label": "category_topic",
+          "start": 732,
+          "end": 749
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 802,
+          "end": 811
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 892,
+          "end": 901
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1105,
+          "end": 1113
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1434,
+          "end": 1443
+        },
+        {
+          "label": "target_species",
+          "start": 1663,
+          "end": 1682
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "dc24ce284aaed2daaabe7993e8a60a0e46390cece8a5a9854e78bc83f34ea1c0",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-6bd7a5dd03650a5f56",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "a99593dc58df066f3400ee5c527c95b9604f1fd422d2682772367546f00233ac",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 0,
+          "end": 19
+        },
+        {
+          "label": "named_compound",
+          "start": 190,
+          "end": 201
+        },
+        {
+          "label": "named_compound",
+          "start": 206,
+          "end": 217
+        },
+        {
+          "label": "category_topic",
+          "start": 232,
+          "end": 249
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 674,
+          "end": 682
+        },
+        {
+          "label": "intervention",
+          "start": 684,
+          "end": 689
+        },
+        {
+          "label": "named_compound",
+          "start": 1062,
+          "end": 1073
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1192,
+          "end": 1199
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1417,
+          "end": 1426
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1598,
+          "end": 1607
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "584e1c71c1af98ef7c7cb64ce3efa4498a059c8d5e72d36de7854a9b2949e460",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-746de6cdd03fe336bb",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vivo",
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "425e3e2157348b361378dc51a588641ef53c5972099ff95ffb9e756d057d4dae",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 0,
+          "end": 19
+        },
+        {
+          "label": "category_topic",
+          "start": 162,
+          "end": 170
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 355,
+          "end": 363
+        },
+        {
+          "label": "target_species",
+          "start": 402,
+          "end": 421
+        },
+        {
+          "label": "in_vivo",
+          "start": 586,
+          "end": 590
+        },
+        {
+          "label": "category_topic",
+          "start": 670,
+          "end": 677
+        },
+        {
+          "label": "experimental_design",
+          "start": 772,
+          "end": 786
+        },
+        {
+          "label": "category_topic",
+          "start": 894,
+          "end": 901
+        },
+        {
+          "label": "named_compound",
+          "start": 944,
+          "end": 953
+        },
+        {
+          "label": "statistical_result",
+          "start": 1042,
+          "end": 1055
+        },
+        {
+          "label": "statistical_result",
+          "start": 1057,
+          "end": 1065
+        },
+        {
+          "label": "category_topic",
+          "start": 1086,
+          "end": 1093
+        },
+        {
+          "label": "experimental_design",
+          "start": 1115,
+          "end": 1126
+        },
+        {
+          "label": "experimental_design",
+          "start": 1131,
+          "end": 1138
+        },
+        {
+          "label": "in_vivo",
+          "start": 1203,
+          "end": 1207
+        },
+        {
+          "label": "statistical_result",
+          "start": 1212,
+          "end": 1225
+        },
+        {
+          "label": "experimental_design",
+          "start": 1264,
+          "end": 1275
+        },
+        {
+          "label": "experimental_design",
+          "start": 1280,
+          "end": 1293
+        },
+        {
+          "label": "experimental_design",
+          "start": 1338,
+          "end": 1352
+        },
+        {
+          "label": "category_topic",
+          "start": 1353,
+          "end": 1365
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1366,
+          "end": 1375
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1383,
+          "end": 1391
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1724,
+          "end": 1732
+        },
+        {
+          "label": "experimental_design",
+          "start": 1850,
+          "end": 1861
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1974,
+          "end": 1981
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 2054,
+          "end": 2063
+        },
+        {
+          "label": "category_topic",
+          "start": 2249,
+          "end": 2261
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 2295,
+          "end": 2304
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "1105b8a732ac7733a4d4bfd65bcf53b7803673cd8d7d922aca144a882ea2ecfa",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-de649c4cba099d0e67",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": "in_vivo",
+      "preparation_scope": "botanical",
+      "study_type": "original",
+      "rationale": "The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "1e2e448aee4bdfebb47de81aefa8a1f963d99f8bf35cff4fae9c011488ce24c1",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 11,
+          "end": 19
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 114,
+          "end": 117
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 357,
+          "end": 365
+        },
+        {
+          "label": "target_species",
+          "start": 380,
+          "end": 399
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 478,
+          "end": 487
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 596,
+          "end": 603
+        },
+        {
+          "label": "target_species",
+          "start": 610,
+          "end": 629
+        },
+        {
+          "label": "in_vivo",
+          "start": 696,
+          "end": 702
+        },
+        {
+          "label": "in_vivo",
+          "start": 703,
+          "end": 707
+        },
+        {
+          "label": "in_vivo",
+          "start": 744,
+          "end": 750
+        },
+        {
+          "label": "in_vivo",
+          "start": 758,
+          "end": 762
+        },
+        {
+          "label": "experimental_design",
+          "start": 797,
+          "end": 804
+        },
+        {
+          "label": "experimental_design",
+          "start": 820,
+          "end": 827
+        },
+        {
+          "label": "experimental_design",
+          "start": 843,
+          "end": 850
+        },
+        {
+          "label": "target_species",
+          "start": 884,
+          "end": 903
+        },
+        {
+          "label": "target_species",
+          "start": 956,
+          "end": 975
+        },
+        {
+          "label": "category_topic",
+          "start": 981,
+          "end": 989
+        },
+        {
+          "label": "category_topic",
+          "start": 1094,
+          "end": 1101
+        },
+        {
+          "label": "intervention",
+          "start": 1156,
+          "end": 1168
+        },
+        {
+          "label": "in_vivo",
+          "start": 1372,
+          "end": 1376
+        },
+        {
+          "label": "intervention",
+          "start": 1479,
+          "end": 1493
+        },
+        {
+          "label": "target_species",
+          "start": 1497,
+          "end": 1516
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1521,
+          "end": 1528
+        },
+        {
+          "label": "statistical_result",
+          "start": 1529,
+          "end": 1542
+        },
+        {
+          "label": "experimental_design",
+          "start": 1572,
+          "end": 1586
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1719,
+          "end": 1728
+        },
+        {
+          "label": "target_species",
+          "start": 1735,
+          "end": 1754
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1773,
+          "end": 1780
+        },
+        {
+          "label": "in_vivo",
+          "start": 1821,
+          "end": 1825
+        },
+        {
+          "label": "category_topic",
+          "start": 1906,
+          "end": 1914
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "2cffa183a5784a8539e4bb20bedfc509fe83789c2a725770d48531a8a78dbcd2",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-00fa77e82610216de0",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "b127be1149c722f4349dd90d97dde67524c9c2c838ed26d5166a9253d83bf17b",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 54,
+          "end": 73
+        },
+        {
+          "label": "category_topic",
+          "start": 192,
+          "end": 200
+        },
+        {
+          "label": "target_species",
+          "start": 439,
+          "end": 458
+        },
+        {
+          "label": "target_species",
+          "start": 630,
+          "end": 649
+        },
+        {
+          "label": "clinical_design",
+          "start": 702,
+          "end": 712
+        },
+        {
+          "label": "experimental_design",
+          "start": 702,
+          "end": 712
+        },
+        {
+          "label": "target_species",
+          "start": 1106,
+          "end": 1125
+        },
+        {
+          "label": "target_species",
+          "start": 1243,
+          "end": 1262
+        },
+        {
+          "label": "target_species",
+          "start": 1551,
+          "end": 1570
+        },
+        {
+          "label": "target_species",
+          "start": 1716,
+          "end": 1735
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1817,
+          "end": 1826
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "d4941db2c4f9ea81721c882492da54f31b95175276e72c7af9afd131226ef1a1",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-0a6d8f3e7b639226a2",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "60cc2efea2967d171691c33133d2f4ef737b0844e7167e46145058b639621954",
+      "evidence_spans": [
+        {
+          "label": "target_species",
+          "start": 11,
+          "end": 30
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 371,
+          "end": 379
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 420,
+          "end": 428
+        },
+        {
+          "label": "category_topic",
+          "start": 603,
+          "end": 610
+        },
+        {
+          "label": "category_topic",
+          "start": 627,
+          "end": 634
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 668,
+          "end": 677
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 897,
+          "end": 905
+        },
+        {
+          "label": "experimental_design",
+          "start": 1009,
+          "end": 1020
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1033,
+          "end": 1041
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1065,
+          "end": 1072
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1283,
+          "end": 1290
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1586,
+          "end": 1593
+        },
+        {
+          "label": "category_topic",
+          "start": 1626,
+          "end": 1634
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "b6496b59761048852fa19c0dd39e6ee1d0c12c8f16a1dedd02c6109f8b82a253",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-2028a1e28872be3620",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "review",
+      "rationale": "Review article cues exclude original experimental confirmation. Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "68f1dd7a25a585def74b16dcf619a5ff07052a345b1820259c7ff295d4bba219",
+      "evidence_spans": [
+        {
+          "label": "qualification_or_negation",
+          "start": 20,
+          "end": 29
+        },
+        {
+          "label": "target_species",
+          "start": 76,
+          "end": 95
+        },
+        {
+          "label": "named_compound",
+          "start": 163,
+          "end": 174
+        },
+        {
+          "label": "named_compound",
+          "start": 179,
+          "end": 190
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 390,
+          "end": 398
+        },
+        {
+          "label": "category_topic",
+          "start": 449,
+          "end": 456
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 562,
+          "end": 571
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 802,
+          "end": 811
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 892,
+          "end": 901
+        },
+        {
+          "label": "botanical_preparation",
+          "start": 1105,
+          "end": 1113
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 1434,
+          "end": 1443
+        },
+        {
+          "label": "target_species",
+          "start": 1663,
+          "end": 1682
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "dc24ce284aaed2daaabe7993e8a60a0e46390cece8a5a9854e78bc83f34ea1c0",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  },
+  {
+    "id": "evidence-1bb5ab6af632250d2b",
+    "suggested_fields": {
+      "verdict": null,
+      "evidence_tier": null,
+      "preparation_scope": "unclear",
+      "study_type": "unclear",
+      "rationale": "Botanical intervention scope is unresolved or compound-only. No sufficiently explicit experimental evidence-tier cue. The conservative result-linkage gate abstains. Read the complete abstract and original study.",
+      "method": "offline_cue_baseline",
+      "abstain": true,
+      "reviewed": false,
+      "abstract_sha256": "f41f7dc69ad25a6525215d25c5c87cd1d7d62f17ad4a3902871367f6987db491",
+      "evidence_spans": [
+        {
+          "label": "category_topic",
+          "start": 212,
+          "end": 220
+        },
+        {
+          "label": "qualification_or_negation",
+          "start": 497,
+          "end": 504
+        },
+        {
+          "label": "target_species",
+          "start": 711,
+          "end": 730
+        }
+      ],
+      "caveats": [
+        "Heuristic suggestions require independent human reading of the original study.",
+        "A word match does not establish the studied species, preparation, endpoint or causal result.",
+        "No extraction accuracy, grading performance or medical effect is claimed.",
+        "Species synonyms and abbreviated names are not resolved by this baseline.",
+        "Evidence tier and preparation scope can differ across experiments in one abstract."
+      ],
+      "version": "offline-abstract-cues-2026-11-07-v1"
+    },
+    "record_sha256": "80506a71e1c701ff7fa87d142d455c38391b2d1975dd62471551468b825b42b3",
+    "status": "offline_suggestion_pending_human_review",
+    "reviewed": false
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "as_of": 2026,
+  "estimand": "P(indexed in-vivo/clinical confirmation by T+20 | first relevant testing in (T,T+20])",
+  "framing": "Research prioritisation for laboratory testing, not medical advice; no prediction here is an established effect.",
+  "status": "pending",
+  "reason": "A temporally trained and calibrated model is required.",
+  "leads": []
+}

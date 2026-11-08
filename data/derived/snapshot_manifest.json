@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "status": "unreviewed_source_grounded_snapshot",
+  "files": {
+    "claims_proposed.json": "00f8dbc8ac7b4b50a78fe282ee839edb75d351c4a36caf42417297e64d0fceb8",
+    "evidence_proposed.json": "29123a78cb929090535794b9d4fde759f5e8caf47cbe4f87b4082a69afcb0ed4",
+    "taxa_proposed.json": "221447cd676cad5d57310a400f6ce2ddd3b83c87eb23c5e8f525fefc6ad7ff77",
+    "effort_proposed.json": "41d13d8833f26047060cacc7d5645d8a1e2966bc6dd752471aaf1e55537bcac9",
+    "collection.json": "5e580a87824c30430d79016d4a5590325b5d5bba5d6556ee7cf200ba3e4557fb",
+    "offline_evidence_suggestions.json": "926cf004b1b866d9ffe6d4d98c0490c84bd38cf1e9e0553592d34b8a502dae29"
+  },
+  "notice": "Checksums verify bundled proposal integrity, not historical or experimental truth. Source-text review requires the separately acquired raw files."
+}

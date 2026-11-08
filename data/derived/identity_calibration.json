@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "method": "scalar_temperature",
+  "epsilon": 1e-12,
+  "zero_probability_policy": "Floor zero or below-epsilon probabilities to the explicit epsilon before log scaling, then renormalize. Other/unresolved candidates are preserved.",
+  "counts": {
+    "calibration": 0,
+    "evaluation": 0
+  },
+  "split": "Caller-supplied disjoint expert identity groups; no random split.",
+  "limitations": [
+    "Temperature rescales supplied probabilities; it cannot resolve missing candidates or prove taxonomic identity.",
+    "Top-label ECE depends on binning and sample size; a held-out improvement is not guaranteed.",
+    "Expert label quality and applicability across languages/eras require a separate audit."
+  ],
+  "status": "pending",
+  "reason": "Each disjoint expert split needs at least 20 reviewed identity groups."
+}

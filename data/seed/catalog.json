@@ -1,0 +1,474 @@
+{
+  "schema_version": 1,
+  "status": "curated_case_studies",
+  "verified_on": "2026-11-07",
+  "analysis_eligible": false,
+  "notice": "Curated historical narratives, not an audited corpus. Display dates are approximate anchors. No estimated effect size, calibrated probability or forward lead is available.",
+  "categories": [
+    {
+      "id": "urinary",
+      "label": "Urinary",
+      "short": "Urine"
+    },
+    {
+      "id": "gi",
+      "label": "Gastrointestinal",
+      "short": "GI"
+    },
+    {
+      "id": "skin",
+      "label": "Skin & wounds",
+      "short": "Skin"
+    },
+    {
+      "id": "respiratory",
+      "label": "Respiratory",
+      "short": "Lungs"
+    },
+    {
+      "id": "neuro",
+      "label": "Nerve & pain",
+      "short": "Nerve"
+    },
+    {
+      "id": "joint",
+      "label": "Joint & inflammation",
+      "short": "Joint"
+    },
+    {
+      "id": "cardiovascular",
+      "label": "Cardiovascular",
+      "short": "Heart"
+    },
+    {
+      "id": "metabolic",
+      "label": "Metabolic",
+      "short": "Metab."
+    },
+    {
+      "id": "gynaecological",
+      "label": "Gynaecological",
+      "short": "Gyn."
+    },
+    {
+      "id": "infection",
+      "label": "Infection",
+      "short": "Infect."
+    },
+    {
+      "id": "eye",
+      "label": "Eye",
+      "short": "Eye"
+    },
+    {
+      "id": "poison",
+      "label": "Antidote & poison",
+      "short": "Poison"
+    }
+  ],
+  "eras": [
+    {
+      "id": "dioscorides",
+      "label": "Dioscorides",
+      "year": 60
+    },
+    {
+      "id": "byzantine",
+      "label": "Byzantine",
+      "year": 500
+    },
+    {
+      "id": "renaissance",
+      "label": "Culpeper",
+      "year": 1653
+    },
+    {
+      "id": "balkan",
+      "label": "Balkan folk",
+      "year": 1990
+    }
+  ],
+  "plants": [
+    {
+      "id": "colchicum",
+      "common_name": "Autumn crocus",
+      "scientific_name": "Colchicum autumnale",
+      "family": "Colchicaceae",
+      "summary": "A poison and a podagra remedy: the historical record changes across authors. Whether a Byzantine layer improves ranking remains an open measurement.",
+      "hazard": {
+        "severity": "high",
+        "text": "All parts are poisonous. ANSES reported 28 confusions with wild or many-flowered garlic in 2020–22, including two deaths.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30557131/",
+          "https://www.anses.fr/en/content/confusion-between-autumn-crocus-and-wild-garlic-can-lead-fatal-poisoning",
+          "https://www.chm.bris.ac.uk/motm/colchicine/colchicinejm.htm"
+        ]
+      },
+      "candidates": [
+        {
+          "name": "Colchicum autumnale",
+          "probability": null,
+          "note": "Hermodactyl candidate; expert adjudication pending."
+        },
+        {
+          "name": "Colchicum variegatum",
+          "probability": null,
+          "note": "Alternative identification; calibrated weight unavailable."
+        },
+        {
+          "name": "Other Colchicum species",
+          "probability": null,
+          "note": "Residual ambiguity must remain explicit."
+        }
+      ],
+      "claims": [
+        {
+          "category": "poison",
+          "era": "dioscorides",
+          "year": 60,
+          "text": "Poison trail in the brief; Dioscorides passage still requires extraction.",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/30557131/",
+          "status": "curated_unreviewed",
+          "date_precision": "era_approximation",
+          "primary_span_status": "not_extracted"
+        },
+        {
+          "category": "joint",
+          "era": "byzantine",
+          "year": 500,
+          "text": "Jacobus Psychrestes recipes for podagra; use was also reported in the second century.",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/30557131/",
+          "status": "curated_unreviewed",
+          "date_precision": "era_approximation",
+          "primary_span_status": "not_extracted"
+        }
+      ],
+      "milestones": [
+        {
+          "year": 1820,
+          "label": "Colchicine isolation commonly dated to 1820",
+          "category": "joint",
+          "source_url": "https://www.chm.bris.ac.uk/motm/colchicine/colchicinejm.htm",
+          "note": "Isolation milestone, not first experimental confirmation; date details need original-paper review.",
+          "status": "historical_milestone_not_confirmation"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ursin & Steger: ancient podagra recipes",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30557131/"
+        },
+        {
+          "title": "ANSES poisoning warning",
+          "url": "https://www.anses.fr/en/content/confusion-between-autumn-crocus-and-wild-garlic-can-lead-fatal-poisoning"
+        },
+        {
+          "title": "University of Bristol: colchicine history",
+          "url": "https://www.chm.bris.ac.uk/motm/colchicine/colchicinejm.htm"
+        }
+      ],
+      "historical_date_warning": "Claim years are display anchors, not audited first-written dates. These records cannot enter temporal analysis.",
+      "verification_status": "narrative_sources_checked_primary_spans_pending",
+      "verified_on": "2026-11-07"
+    },
+    {
+      "id": "galanthus",
+      "common_name": "Snowdrop",
+      "scientific_name": "Galanthus nivalis",
+      "family": "Amaryllidaceae",
+      "summary": "Balkan nerve-use narratives connect snowdrops to galantamine. Identifying Homer’s moly as a snowdrop is contested and cannot serve as a resolved ancient claim.",
+      "hazard": {
+        "severity": "high",
+        "text": "A prescription-drug discovery does not establish the safety or efficacy of a raw snowdrop preparation.",
+        "sources": [
+          "https://www.mcgill.ca/oss/article/medical-history/odysseus-snowdrop-odyssey"
+        ]
+      },
+      "candidates": [
+        {
+          "name": "Galanthus nivalis",
+          "probability": null,
+          "note": "Possible moly identity, contested; no probability assigned."
+        },
+        {
+          "name": "Unresolved historical taxon",
+          "probability": null,
+          "note": "A literary interpretation is not botanical ground truth."
+        }
+      ],
+      "claims": [
+        {
+          "category": "neuro",
+          "era": "balkan",
+          "year": 1950,
+          "text": "Balkan folk use for nerve problems is reported retrospectively; first written record is not yet established.",
+          "source_url": "https://www.mcgill.ca/oss/article/medical-history/odysseus-snowdrop-odyssey",
+          "status": "curated_unreviewed",
+          "date_precision": "era_approximation",
+          "primary_span_status": "not_extracted"
+        }
+      ],
+      "milestones": [
+        {
+          "year": 1950,
+          "label": "Galantamine research in the 1950s",
+          "category": "neuro",
+          "source_url": "https://www.mcgill.ca/oss/article/medical-history/odysseus-snowdrop-odyssey",
+          "note": "Decade anchor only. Exact isolation year and original report remain pending; the retrieved narrative does not establish 1956.",
+          "status": "historical_milestone_not_confirmation"
+        }
+      ],
+      "sources": [
+        {
+          "title": "McGill: snowdrop and galantamine narrative",
+          "url": "https://www.mcgill.ca/oss/article/medical-history/odysseus-snowdrop-odyssey"
+        }
+      ],
+      "historical_date_warning": "Claim years are display anchors, not audited first-written dates. These records cannot enter temporal analysis.",
+      "verification_status": "narrative_sources_checked_primary_spans_pending",
+      "verified_on": "2026-11-07"
+    },
+    {
+      "id": "galega",
+      "common_name": "Goat’s rue",
+      "scientific_name": "Galega officinalis",
+      "family": "Fabaceae",
+      "summary": "European herbal use led to a guanidine research trail. Metformin’s history is connected to the plant, but the medicine is not an extract of goat’s rue.",
+      "hazard": {
+        "severity": "high",
+        "text": "The historical overview reports toxicity in early guanidine derivatives. It supplies no safe botanical dosing basis.",
+        "sources": [
+          "https://doi.org/10.1007/s00125-017-4318-z"
+        ]
+      },
+      "candidates": [
+        {
+          "name": "Galega officinalis",
+          "probability": null,
+          "note": "No calibrated identity prior available."
+        }
+      ],
+      "claims": [
+        {
+          "category": "metabolic",
+          "era": "early_modern",
+          "year": 1772,
+          "text": "Historical thirst and urination narrative; original Hill passage and date require source-span review.",
+          "source_url": "https://doi.org/10.1007/s00125-017-4318-z",
+          "status": "curated_unreviewed",
+          "date_precision": "era_approximation",
+          "primary_span_status": "not_extracted"
+        }
+      ],
+      "milestones": [
+        {
+          "year": 1918,
+          "label": "Guanidine lowers blood glucose",
+          "category": "metabolic",
+          "source_url": "https://doi.org/10.1007/s00125-017-4318-z",
+          "note": "",
+          "status": "historical_milestone_not_confirmation"
+        },
+        {
+          "year": 1957,
+          "label": "Sterne reports metformin for diabetes",
+          "category": "metabolic",
+          "source_url": "https://doi.org/10.1007/s00125-017-4318-z",
+          "note": "Compound/drug milestones do not confirm a whole-plant preparation.",
+          "status": "historical_milestone_not_confirmation"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bailey 2017: metformin historical overview",
+          "url": "https://doi.org/10.1007/s00125-017-4318-z"
+        }
+      ],
+      "historical_date_warning": "Claim years are display anchors, not audited first-written dates. These records cannot enter temporal analysis.",
+      "verification_status": "narrative_sources_checked_primary_spans_pending",
+      "verified_on": "2026-11-07"
+    },
+    {
+      "id": "papaver",
+      "common_name": "Opium poppy",
+      "scientific_name": "Papaver somniferum",
+      "family": "Papaveraceae",
+      "summary": "The pain-relief sanity check. Ancient chapter extraction is still pending, and historical morphine dates differ across accounts.",
+      "hazard": {
+        "severity": "high",
+        "text": "Morphine is addictive and can cause fatal poisoning. The DEA documents deaths associated with historical morphine-containing syrups.",
+        "sources": [
+          "https://museum.dea.gov/museum-collection/collection-spotlight/artifact/soothing-syrup"
+        ]
+      },
+      "candidates": [
+        {
+          "name": "Papaver somniferum",
+          "probability": null,
+          "note": "No calibrated identity prior available."
+        }
+      ],
+      "claims": [
+        {
+          "category": "neuro",
+          "era": "dioscorides",
+          "year": 60,
+          "text": "Ancient pain/sleep claim supplied in the brief; Dioscorides primary passage remains unextracted.",
+          "source_url": "https://museum.dea.gov/museum-collection/collection-spotlight/artifact/soothing-syrup",
+          "status": "curated_unreviewed",
+          "date_precision": "era_approximation",
+          "primary_span_status": "not_extracted"
+        }
+      ],
+      "milestones": [
+        {
+          "year": 1805,
+          "label": "Morphine isolation: DEA dates it to 1805",
+          "category": "neuro",
+          "source_url": "https://museum.dea.gov/museum-collection/collection-spotlight/artifact/soothing-syrup",
+          "note": "The brief proposed 1804; dates vary. Retain this source-specific date rather than claiming consensus.",
+          "status": "historical_milestone_not_confirmation"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DEA Museum: morphine history and poisoning",
+          "url": "https://museum.dea.gov/museum-collection/collection-spotlight/artifact/soothing-syrup"
+        }
+      ],
+      "historical_date_warning": "Claim years are display anchors, not audited first-written dates. These records cannot enter temporal analysis.",
+      "verification_status": "source_search_excerpt_checked_primary_spans_pending",
+      "verified_on": "2026-11-07"
+    },
+    {
+      "id": "taxus",
+      "common_name": "Pacific yew",
+      "scientific_name": "Taxus brevifolia",
+      "family": "Taxaceae",
+      "summary": "An honest miss: paclitaxel emerged from a screening program. Pacific yew must not be silently substituted for Mediterranean European yew.",
+      "hazard": {
+        "severity": "high",
+        "text": "Clinical paclitaxel use does not make yew material suitable for self-treatment; bark harvesting also kills the tree.",
+        "sources": [
+          "https://www.cancer.gov/research/progress/discovery/taxol"
+        ]
+      },
+      "candidates": [
+        {
+          "name": "Taxus brevifolia",
+          "probability": null,
+          "note": "No calibrated identity prior available."
+        }
+      ],
+      "claims": [],
+      "milestones": [
+        {
+          "year": 1962,
+          "label": "Pacific yew bark collected for screening",
+          "category": "cancer",
+          "source_url": "https://www.cancer.gov/research/progress/discovery/taxol",
+          "note": "Cancer is outside the initial 12 traditional categories; this is a separate failure-analysis case.",
+          "status": "historical_milestone_not_confirmation"
+        },
+        {
+          "year": 1977,
+          "label": "Paclitaxel selected after mouse-model activity",
+          "category": "cancer",
+          "source_url": "https://www.cancer.gov/research/progress/discovery/taxol",
+          "note": "Not a species-category ledger label.",
+          "status": "historical_milestone_not_confirmation"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NCI: the discovery of paclitaxel",
+          "url": "https://www.cancer.gov/research/progress/discovery/taxol"
+        }
+      ],
+      "historical_date_warning": "Claim years are display anchors, not audited first-written dates. These records cannot enter temporal analysis.",
+      "verification_status": "narrative_sources_checked_primary_spans_pending",
+      "verified_on": "2026-11-07",
+      "scope": "external_comparison"
+    },
+    {
+      "id": "catharanthus",
+      "common_name": "Madagascar periwinkle",
+      "scientific_name": "Catharanthus roseus",
+      "family": "Apocynaceae",
+      "summary": "Right plant, different reason: investigating reputed antidiabetic use led to vinca alkaloids used in cancer treatment. This is an external comparison case.",
+      "hazard": {
+        "severity": "high",
+        "text": "The discovery of cytotoxic alkaloids supplies no evidence for safe diabetes self-treatment with the plant.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/2085431/"
+        ]
+      },
+      "candidates": [
+        {
+          "name": "Catharanthus roseus",
+          "probability": null,
+          "note": "No calibrated identity prior available."
+        }
+      ],
+      "claims": [
+        {
+          "category": "metabolic",
+          "era": "external",
+          "year": 1950,
+          "text": "Reputed antidiabetic use motivated investigation; the narrative is not a Balkan corpus record.",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/2085431/",
+          "status": "curated_unreviewed",
+          "date_precision": "era_approximation",
+          "primary_span_status": "not_extracted"
+        }
+      ],
+      "milestones": [
+        {
+          "year": 1950,
+          "label": "Vinca alkaloid discovery in the 1950s",
+          "category": "cancer",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/2085431/",
+          "note": "Decade anchor only. Exact isolation year remains pending; cancer is outside the initial category schema.",
+          "status": "historical_milestone_not_confirmation"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Noble 1990: discovery of vinca alkaloids",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/2085431/"
+        }
+      ],
+      "historical_date_warning": "Claim years are display anchors, not audited first-written dates. These records cannot enter temporal analysis.",
+      "verification_status": "source_search_excerpt_checked_primary_spans_pending",
+      "verified_on": "2026-11-07",
+      "scope": "external_comparison"
+    }
+  ],
+  "source_notes": [
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30557131/",
+      "status": "abstract_retrieved",
+      "finding": "Podagra remedy already in second century, not solely a Byzantine innovation."
+    },
+    {
+      "url": "https://www.mcgill.ca/oss/article/medical-history/odysseus-snowdrop-odyssey",
+      "status": "article_retrieved",
+      "finding": "1950s Paskov account; exact 1956 date and first written folk record unresolved."
+    },
+    {
+      "url": "https://www.cancer.gov/research/progress/discovery/taxol",
+      "status": "official_nci_page_retrieved",
+      "finding": "Taxus brevifolia bark collected in 1962; distinct from T. baccata."
+    },
+    {
+      "url": "https://museum.dea.gov/museum-collection/collection-spotlight/artifact/soothing-syrup",
+      "status": "official_search_excerpt_retrieved",
+      "finding": "DEA dates morphine isolation to 1805; other accounts differ."
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2085431/",
+      "status": "pubmed_search_excerpt_retrieved",
+      "finding": "Discovery narrative from Noble; full abstract retrieval partially blocked."
+    }
+  ]
+}

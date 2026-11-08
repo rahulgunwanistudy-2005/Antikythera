@@ -1,0 +1,17 @@
+{
+  "observation_end": 2026,
+  "claims": [],
+  "ledger": [],
+  "taxa": [],
+  "effort": [],
+  "coverage": {
+    "observation_end": 2026,
+    "search_complete": false,
+    "synonym_version": null,
+    "evidence_search_description": "Not yet run. No missing record may be interpreted as never tested.",
+    "effort_coverage_complete": false
+  },
+  "test_coverage": [],
+  "claim_provenance": [],
+  "evidence_provenance": []
+}

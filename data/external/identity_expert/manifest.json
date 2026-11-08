@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-07",
+  "status": "article_reference_available_figshare_file11_unavailable",
+  "figshare": {
+    "requested_url": "https://figshare.com/s/2e0f64b5794892ed4679",
+    "status": "unavailable",
+    "file11_acquired": false,
+    "dataset_doi": null,
+    "dataset_licence": null,
+    "dataset_licence_verified": false,
+    "observations": [
+      {
+        "method": "Firecrawl page retrieval",
+        "http_status": 403,
+        "result": "Forbidden page, no article metadata or downloadable files."
+      },
+      {
+        "method": "Normal public HTTP GET",
+        "http_status": 202,
+        "body_bytes": 0,
+        "result": "Empty response, no article ID or file manifest."
+      },
+      {
+        "method": "Official public article search",
+        "result": "No matching identity dataset found. No exact article ID or file ID established."
+      }
+    ],
+    "warning": "Article CC BY4.0 does not establish the inaccessible Figshare dataset licence."
+  },
+  "article_reference": {
+    "status": "available",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615571/",
+    "doi": "10.1016/j.jep.2023.117622",
+    "version": "EuropePMC JATS retrieval on 2026-11-07",
+    "licence": "CC-BY-4.0",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+    "licence_verified_in_xml": true,
+    "original_cache_path": "data/raw/cache/identity_expert/article.xml",
+    "original_sha256": "7b47916de8bb0c08a86285a0bfc593ea2ec35ac4e7060f3650f2cbe58bdc081a",
+    "derived_path": "data/external/identity_expert/candidate_reference.json",
+    "derived_sha256": "afe5562483da3793953cc55986b128e5e4a8b48db810664cfaf8211cc195124e",
+    "table": "Table2",
+    "candidate_records": 141,
+    "historical_lemmas": 50,
+    "botanical_grade_counts": {
+      "weak": 33,
+      "moderate": 51,
+      "not_assessed_in_FT_or_FC": 20,
+      "strong": 37
+    },
+    "missing_medicinal_ordinals": 1
+  },
+  "calibration": {
+    "eligible_for_ece": false,
+    "independent_gold": false,
+    "paired_predictions": 0,
+    "human_audits_completed": 0,
+    "reason": "Published botanical-congruence categories are reference assessments, not certain identity outcomes. No independent truth labels or corresponding Antikythera predictions exist."
+  }
+}
