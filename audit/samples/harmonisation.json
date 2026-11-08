@@ -1,0 +1,2552 @@
+[
+  {
+    "task": "harmonisation",
+    "item_id": "claim-e26c60758931e663ea",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Rosa canina\t\tInfusion: to treat “seven diseases”, blood depurative, diuretic, cardiotonic, anti-fever",
+      "ailment_as_written": "Infusion: to treat “seven diseases”, blood depurative, diuretic, cardiotonic, anti-fever"
+    },
+    "prediction": {
+      "category": "cardiovascular"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-2d3a51932607c5f477",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Urtica dioica\t\tExternally rubbed on breasts in cows affected by the evil-eye",
+      "ailment_as_written": "Externally rubbed on breasts in cows affected by the evil-eye"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-af9cf9640f0bb0c6b5",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Prunus spinosa\t\tInfusion: stomachache anti-diarrheal",
+      "ailment_as_written": "Infusion: stomachache anti-diarrheal"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-fbeadc6c1b9ece3bd1",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Verbascum longifolium\tWC\tPowdered and applied on the mom’s breast to wean the baby*",
+      "ailment_as_written": "Powdered and applied on the mom’s breast to wean the baby*"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-c9a315edfb00ce17f8",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Vaccinium myrtillus\t\tInfusion: anti-fever",
+      "ailment_as_written": "Infusion: anti-fever"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-1a452ce90b9e2a4dbe",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Crataegus sericea\tL; F\tInfusion: for treating headaches, insomnia, hypertension, anti-rheumatic, anti-cancer",
+      "ailment_as_written": "Infusion: for treating headaches, insomnia, hypertension, anti-rheumatic, anti-cancer"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-5ebc0bd5a515518109",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Pyrus amygdaliformis\tFr\tDecoction of the dried fruits with sugar: stomachaches",
+      "ailment_as_written": "Decoction of the dried fruits with sugar: stomachaches"
+    },
+    "prediction": {
+      "category": "metabolic"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-dbd1a7c180be5c5108",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Melissa officinalis\tAP\tInfusion: headaches",
+      "ailment_as_written": "Infusion: headaches"
+    },
+    "prediction": {
+      "category": "neuro"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-5c34235df9debd01c8",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Malva sylvestris\tFr\tSnack",
+      "ailment_as_written": "Snack"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-ef2d8e6e510ee2093f",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Juniperus communis\t\tFermented and distilled into raki, which is drunk for treating asthma",
+      "ailment_as_written": "Fermented and distilled into raki, which is drunk for treating asthma"
+    },
+    "prediction": {
+      "category": "respiratory"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-f479b5b43e2a66732f",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Achillea collina\tFl\tDecoction: cicatrizing on wounds",
+      "ailment_as_written": "Decoction: cicatrizing on wounds"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-25d75e61a7aac9cece",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Fraxinus excelsior\tL\tInfusion: diuretic",
+      "ailment_as_written": "Infusion: diuretic"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-642b8cdbcf005dd1be",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "It  therefore  purges  deep-seated \nhumours,  and  is  not  against  persons  aflected  with  vomiting  of \nblood.",
+      "ailment_as_written": "blood"
+    },
+    "prediction": {
+      "category": "cardiovascular"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-d27faa73e9f7a8fd59",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "They  therefore  clear  away  thick  cicatrices  in  the \neyes  with  honey,  and  cure  dimness  of  vision  and  incipient  suf- \nfusions, \n\nCoMM.",
+      "ailment_as_written": "vision"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-18ef30213699722d38",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "It \nhas  also  some  astringenc3\\  The  root  of  it^  therefore,  when \ntaken  in  a  potion  cleanses  the  bowels,  and  is  an  excellent  appli- \ncation to  malignant  ulcers ;  and  the  leaves  in  like  manner.",
+      "ailment_as_written": "bowels"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-d084dcae0eb5488a0a",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "It  is,  therefore,  diuretic,  and  is  mixed \nup  with  stomachic  remedies,  and  those  prepared  for  the  liver \nand  womb.",
+      "ailment_as_written": "womb"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-50aa349005fea15576",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": ",  the  Peach ;  the   shoots   and   leaves    are \nmanifestly   bitter,  and  therefore  kill  worms   when  triturated \nand  apphed  to   the  navel.",
+      "ailment_as_written": "worms"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-dbaf289b0d41b0885b",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "Wherefore  when  rubbed  in  along  with  vinegar  it  relieves  gout \nand  rheumatism  J   when  prepared  and   dried  it   answers  with \nepilepsies.",
+      "ailment_as_written": "rheumatism"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-83dce340f34bffad81",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "And  some  cure  epilepsy  and  arthritis \nby  giving  burnt  bones  to  drink.",
+      "ailment_as_written": "epilepsy"
+    },
+    "prediction": {
+      "category": "neuro"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-f9ecf37b2e6b0bb1d7",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": ",  the  testicle  of  a  stag,  when  dried   and  triturated \nwith  wine  and  drunk,  is  a  remedy   to  those  who  have  been \nbitten  by  vipers.",
+      "ailment_as_written": "bitten"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-de2ec0643e25775ada",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "It,  therefore,  cures  alopecia,  discusses \nswellings,  proves   lithoutriptic  when  taken  in  a  draught,  di'ies \nup  expectorations  from  the  lungs,  and  stops  defluxions  of  the \nbelly.",
+      "ailment_as_written": "lungs"
+    },
+    "prediction": {
+      "category": "respiratory"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-f28cb30dd6b16cb4c8",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "It  also  cleanses \nthe  skin,  and  discusses  tumours  when  applied  with  oxymel.",
+      "ailment_as_written": "skin"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-0dce97416f1c393a40",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "Being  possessed  of  dis- \ncutient,  detergent,  and  desiccative  powers,  it  removes  obstruc- \ntions of  the  kidneys,  and  cleanses  ephelis.",
+      "ailment_as_written": "kidneys"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-6ea8176c0ce70016ef",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Der  Same  leistet  dasselbe,  wie  er  auch  wirksam  ist  b« \nHusten,  Katarrh,  Fluss  und  heftigen  Schmerzen  der  Augen,  bei  Fluss  de \nFrauen  und  sonstigem  Blutverlust,  wenn  er  in  der  Gabe  von  1  Obole  m^ \nMohnsamen    in    Honigmeth    getrunken    wird.",
+      "ailment_as_written": "Augen"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-67ac639c9046f1eb4f",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Mit  Milch  in  die  Nnsenlöcher \ninjicirt  befreit  es  vnu  der  Gelbsucht  und  vertreibt  chronische  Kopf- \nschmerzen.",
+      "ailment_as_written": "Gelbsucht"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-e9bdd36c16c9ba4994",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Die  Dolde,  mit  Wein  ge- \ntrunken, hilft  gegen  Harnverhaltung  und  Schlangenbisse,  bei  Ischias  und \ninneren  Rupturen,  befördert  auch  die  Menstruation.",
+      "ailment_as_written": "Menstruation"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-281e761026462b4056",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Die  Houigäpfel  e \nweichen  den  Bauch  und  treiben  die  (Thiere)  Würmer  aus.",
+      "ailment_as_written": "Würmer"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-11e42b853118baff13",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Ferner  dient  sie  gegen  Rose,  gegen  kriechende  Ge- \nschwüre, mit  Porreesaft  gegen  Blutungen  aus  der  Gebürmutter  und  der  Nase, \ntrocken  gegen  Zahnfleischgeschwülste,  fressende  Geschwöre  und  Mandel- \nentzündungen.",
+      "ailment_as_written": "entzündungen"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-59fd51900805f03b62",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Sämmtlich   sind  sie  aber  beissend  und  blähend,   sie  reizen  den \nit,   Tordtlnncn,   erregen   Durst,    verursachen  bei   Magen  über  Füllung \n:«1,   reinigen,    sind    gut   fOr   den  Bauch,    eröffnen   den  Weg  zur  Aus- \nscheidung der  übrigen  Auswurfstoffe  und  für  die  Hämorrhoiden.",
+      "ailment_as_written": "Durst"
+    },
+    "prediction": {
+      "category": "metabolic"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-c0f37be8bccae0cc05",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Im  üb \nschlag  vertreibt  er  die  Kopfschmerzen,  und  bei  Schlafsüchtigen  und  Wa \nsinnigen  wird  er  mit  Essig  und  Gel  aufgesprengt.",
+      "ailment_as_written": "Kopfschmerzen"
+    },
+    "prediction": {
+      "category": "neuro"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-7604df7b7d9f827a87",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Seine  Blritter  und  Wureel,  mit  Wein  getrunken  und  auch  als  Umschlag, \nsind  wirksam  gegen  Schlangen(.",
+      "ailment_as_written": "Schlangen"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-08bebbcedfeb866910",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "nUsse,  welche  Einige  auch  die  dünnschaligen  Nüsse  nennen,  sind \nMagen  schädlich;  sie  heilen  aber,  fein  gestossen  und  mit  Honigmeth  ge- \ntrunken, veralteten  Husten.",
+      "ailment_as_written": "Husten"
+    },
+    "prediction": {
+      "category": "respiratory"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-a9ce7972d96f476295",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Diese \nWein  ist  erwärmend  und  verdünnend,  bei  Abwesenheit  von  Fieber  eil \ngutes  Mittel  gegen  alten  Husten,  gegen  Brust-  und  Seitenschmerzen,  Leib- \nschneiden, Geschwüre  im  Bauche  und  in  den  Eingeweiden,  bei  Lungen- \nempycm,  Wassersucht  und  Hysterie.",
+      "ailment_as_written": "Geschwüre"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-bced0f890d3b3be2a3",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Der  herbe \ntreibt  mehr  den  Harn,  bewirkt  aber  auch  Kopfschmerzen  und  Trunken- \nheit.",
+      "ailment_as_written": "Harn"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-8d05a41cdf983b8093",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The root,\nleaves, young branches, or bark boiled in wine, and drank, stays the\nbleeding of the hæmorrhodical veins, the spitting of blood, the too\nabounding of women’s courses, the jaundice, the cholic, and the biting\nof all venomous serpents, except the asp; and outwardly applied, is\nvery powerful against the hardness of the spleen, and the tooth-ache,\npains in the ears, red and watering eyes.",
+      "ailment_as_written": "blood"
+    },
+    "prediction": {
+      "category": "cardiovascular"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-b9fc84d009874781d5",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "It helps them\nthat are troubled with the stone, provokes urine, and helps the dimness\nof the sight.",
+      "ailment_as_written": "sight"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-25c879512d90818a90",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "A decoction made with\nthe flowers thereof hath been found effectual against the jaundice, as\nalso to provoke urine, and cleanse the kidneys from gravel or stone\ningendered in them.",
+      "ailment_as_written": "jaundice"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-ef2259b8388cea10c6",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": ")\nIt is wonderful in curing all manner of ulcers and sores, whether new\nand fresh, or old and inveterate; yea, gangrenes and fistulas also,\nif the leaves bruised and applied, or their juice be used to wash and\nbathe the place; and the same made into a lotion, and some honey and\nalum, cures all sores in the mouth and gums, be they ever so foul, or\nof long continuance; and works no less powerfully and effectually for\nsuch ulcers and sores as happen in the secret parts of men and women.",
+      "ailment_as_written": "women"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-0ee5390ca794c9336b",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The\njuice is good to heal the ulcers of the head and face; the candied root\nhereof are held as effectual as Angelica, to preserve from infection in\nthe time of a plague, and to warm and comfort a cold weak stomach.",
+      "ailment_as_written": "infection"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-51b9f28192eadfd9fd",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "It is also\nmuch commended to help aches and pains either in the fleshy part, or\nin the nerves and sinews, as also the sciatica, or pain of the hips or\nknuckle-bone, to bathe the places with the decoction of the herb, or\nto anoint them with an ointment made of the herb bruised and boiled in\nold hog’s suet, with some Mastick and Olibanum in powder added unto it\nafter it is strained forth.",
+      "ailment_as_written": "sciatica"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-f89b5d97568c43567d",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "Strawberries, when they\nare green, are cool and dry; but when they are ripe, they are cool and\nmoist: The berries are excellently good to cool the liver, the blood,\nand the spleen, or an hot choleric stomach; to refresh and comfort\nthe fainting spirits, and quench thirst: They are good also for other\ninflammations; yet it is not amiss to refrain from them in a fever,\nlest by their putrifying in the stomach they increase the fits.",
+      "ailment_as_written": "thirst"
+    },
+    "prediction": {
+      "category": "metabolic"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-9542f9244e0bcf8fb6",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "Matthiolus saith, it is very profitable for all manner of\npains in the head coming of cold and rheumatic humours: as also for\nall pains of the joints, whether inwardly or outwardly, and therefore\nhelps the falling-sickness, the lethargy, such as are dull and heavy\nof spirit, the palsy; and is of much use in all defluctions of rheum\nfrom the head, and for the diseases of the chest or breast.",
+      "ailment_as_written": "lethargy"
+    },
+    "prediction": {
+      "category": "neuro"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-c7187b3a8d83fcd8fa",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The powder or\ndried leaves of the Blue-bottle, or Corn-flower, is given with good\nsuccess to those that are bruised by a fall, or have broken a vein\ninwardly, and void much blood at the mouth; being taken in the water of\nPlaintain, Horsetail, or the greater Confrey, it is a remedy against\nthe poison of the Scorpion, and resists all venoms and poison.",
+      "ailment_as_written": "poison"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-9e19c12eb88e939f18",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The decoction of\nthe herb, with honey of roses put therein, is very effectual to help\nthe inveterate tumours and swellings of the almonds and throat, by\noften gargling the mouth therewith.",
+      "ailment_as_written": "throat"
+    },
+    "prediction": {
+      "category": "respiratory"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-7ebdaa4868cf936831",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "Being\nbruised and boiled in small beer, and drank, it cools the heat of the\nliver and kidneys, and helps the running of the reins in men, and the\nwhites in women; it is a singular remedy to stay the spreading of\ntetters, ringworms, and other fretting and running sores and scabs, and\nis an excellent remedy for such whose livers are corrupted by surfeits,\nwhich cause their bodies to break out, for it fortifies the liver\nexceedingly, and makes it impregnable.",
+      "ailment_as_written": "sores"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-faa849b26c7e9afb2d",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "Reason, hath taught the common people to use the leaves or flowers of\nthis plant in mouth-water, and by long continuance of time, hath so\ngrounded it in the brains of the vulgar, that you cannot beat it out\nwith a beetle: All mouth-waters ought to be cooling and drying, but\nHoney Suckles are cleansing, consuming and digesting, and therefore\nfit for inflammations; thus Dr.",
+      "ailment_as_written": "water"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-451b2c566f7274d1e2",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Helleborus odorus\tR\tInserted on the horse ear: panacea",
+      "ailment_as_written": "Inserted on the horse ear: panacea"
+    },
+    "prediction": {
+      "category": "cardiovascular"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-45665c7d9fa4a992fb",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Allium sativum\t\tTo be worn as amulet against the evil-eye in the or in necklaces (sysh, naok)",
+      "ailment_as_written": "To be worn as amulet against the evil-eye in the or in necklaces (sysh, naok)"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-c4e60af81ad58a61d7",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Rosa canina\t\tInfusion: anti-diarrheal, stomachaches",
+      "ailment_as_written": "Infusion: anti-diarrheal, stomachaches"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-0619fc87ce49513bd9",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Helleborus odorus\tF\tAs part of the lule ditvere (“flower of the summer”) bunch, which is hang on the churn, as a good omen for the dairy production",
+      "ailment_as_written": "As part of the lule ditvere (“flower of the summer”) bunch, which is hang on the churn, as a good omen for the dairy production"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-8d296a7d0b715c1086",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Thymus longicaulis\tAP\tInfusion: panacea",
+      "ailment_as_written": "Infusion: panacea"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-3ff581cbef7fbd8989",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Prunus spinosa\tFr\tInfusion: anti-rheumatic and anti-fever",
+      "ailment_as_written": "Infusion: anti-rheumatic and anti-fever"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-b8e9ac35081b5294c9",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Prunus domestica\t\tFermented and distilled into raki, which is drunk hot with sugar for treating cold",
+      "ailment_as_written": "Fermented and distilled into raki, which is drunk hot with sugar for treating cold"
+    },
+    "prediction": {
+      "category": "metabolic"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-2a6651ced5f2c32f01",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Verbascum longifolium\tWA\tExternally applied (warm) on the cheek for treating toothache or on the neck for treating tonsillitis",
+      "ailment_as_written": "Externally applied (warm) on the cheek for treating toothache or on the neck for treating tonsillitis"
+    },
+    "prediction": {
+      "category": "neuro"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-4597c62ed9d4b44a1e",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Cornus mas\t\tFermented and distilled in raki, drunk: anti-asthmatic; believed to able to treat “seven” diseases",
+      "ailment_as_written": "Fermented and distilled in raki, drunk: anti-asthmatic; believed to able to treat “seven” diseases"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-c0d104a254f04e6dcd",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Melissa officinalis\t\tHigh dosage to be avoided by males, who could lose their libido",
+      "ailment_as_written": "High dosage to be avoided by males, who could lose their libido"
+    },
+    "prediction": {
+      "category": "respiratory"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-2863ab468bf5182e76",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Rosa canina\t\tInfusion: sore throats, bechic, flu",
+      "ailment_as_written": "Infusion: sore throats, bechic, flu"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-36b5ad41601a447de7",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Cirsium arvense\tAP\tFodder",
+      "ailment_as_written": "Fodder"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-c9af7f557c155d5c1b",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "Hence \nthey  agglutinate   large   wounds ;   and   the    decoction  of  them \nrelieves  dysentery,  hemorrhages,   and  discharges  of  pus  from \nthe  ear;    and  in    a    cataplasm  it  is  of  use  in  suggillations    of \nthe  eye  from  a  blow.",
+      "ailment_as_written": "eye"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-c1d19f132def38c0f0",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "The  roots,  he  adds,  boiled  in  wine,  cure  jaundice,  and \nact  as  lithontriptics,  emmenagogues,  and  alexiph armies.",
+      "ailment_as_written": "jaundice"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-c0d5bb11f27f67aba9",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "The  dung,  then,  of  dogs  fed  on  bones,  when  dried, \ncures  dysenteric  affections  if  taken  in  a  draught  with  divided \nmilk  (lac  scissum),  and  old  ulcers,  if  mixed  with  suitable  medi- \ncines.",
+      "ailment_as_written": "milk"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-9ad614a54f291682c9",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "Three \nor  four  leaves,  he  says,  cure  the  remittent  fever  called \nhepialus.",
+      "ailment_as_written": "fever"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-a17b54c7d2c7a1fdfd",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "And  some  cure  epilepsy  and  arthritis \nby  giving  burnt  bones  to  drink.",
+      "ailment_as_written": "arthritis"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-ce9ee2c78bb5bd8330",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "or \nviper  it  cures  the  same ;  but  when  applied  to  a  sound  part^  he \nsays,  that  it  induces  an  affection  similar  to  that  of  those  who \nhave  been  bitten  by  one  of  those  creatures.",
+      "ailment_as_written": "bitten"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-8713b6e9200ec4a6a5",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "The  Ostracites  and  Geodes \nare  said  to  be  considerably  desiccative  so  as  to  cure  inflammatory \nswellings.",
+      "ailment_as_written": "swellings"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-e61b23f334005d06b7",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "It  is,  therefore,  diuretic,  and  is  mixed \nup  with  stomachic  remedies,  and  those  prepared  for  the  liver \nand  womb.",
+      "ailment_as_written": "diuretic"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-adb17c4315085b4a80",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "k  Agwtricfaen  wirbt  es  gegen  Verbürtungeu  der  Augenlider  und  ist  als \n^\"QfiAier  mit  Erfolg  zu  gebrauchen  gegen  Reize  der  Eingeweide  und  der \n\nAbftrrautter.",
+      "ailment_as_written": "Augenlider"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-fe4660711a0bd8c932",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "ist  gekocht  wohlschmeckend,  gut  fUr  den  Magen,  treibt  den  Uarn \nund  regt  den  Appetit  an.",
+      "ailment_as_written": "Magen"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-79d491a412b72dba7a",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "fQi*  den  Bauch,  treibt  den  Harn,  erzeugt  Blähungen,  macht  eine  gut \nFarbe,  treibt  die  Menstruation  und  die  Frucht  ab  und  befördert  dte \nMilchabsonderung.",
+      "ailment_as_written": "Menstruation"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-477f5984b2c603ebcd",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Femer  wirkt \ner  tüchtig  gekocht  gegen  runde  Würmer,  gegen  Blutspeien,  gegen  Dysen- \nterie und  Hämorrhoiden  t  gegen  Btutsturz  und  gegen  den  Bisa  der  Seps.",
+      "ailment_as_written": "Würmer"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-7699df2efaa8eaf44c",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Der  Dotter  davon  ist \nmit  Saü-an  imd  KosenÖl  gebraten,  heilsam  gegen  heftigen  Schmerz  in  de \nAngen«    mit  Steinklee  gegen   Entzündungen   am   After   und   gegen   Ge-1 \nfichwQbte.",
+      "ailment_as_written": "Entzündungen"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-a5e170892efc9290ef",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Diese  sind  aber  etwas  wein- \nuiiig  und  finden  gute  Verwendung  für  die,  welche  an  Durst  und  an \nhitzigen  und  andauernden  Fiebern  leiden.",
+      "ailment_as_written": "Durst"
+    },
+    "prediction": {
+      "category": "metabolic"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-b17ca600a4d5bb803b",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Mit  Oel  gekocht \nmd  in  das  gegenüberliegende  Ohr  eingeträufelt  beseitigen  sie  Zahn- \nschmerzen.",
+      "ailment_as_written": "schmerzen"
+    },
+    "prediction": {
+      "category": "neuro"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-11f7fe359cc7e5b11a",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Sie   hat   eine   hervorragende   Kraft  aU   Qegta- \nmittet  gegen  tödtliche  Gifte,    indem  sie  mit  Wein  getrunken  und  Torba \ngenommen  dazu  zwingt,  die  Qifle  zu  erbrechen.",
+      "ailment_as_written": "Gifte"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-db6a5697ed79deba05",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Das  Fleisch  derselben,  genossen« \nist  von  guter  Wirkung  für  die  Luftröhre,  bei  Husten,  für  die  Nieren  und \ndie  Blase,  bei  Dysenterie,  wenn  sie  für  sich  mit  den  Kernen  verspeist \nwird,  aber  auch,  wenn  sie,  gemischt  mit  Hirsen-  und  Gersteninehl  und \nEi,  in  der  Pfanne  mit  Honig  gebraten  und  genommen  wird.",
+      "ailment_as_written": "Husten"
+    },
+    "prediction": {
+      "category": "respiratory"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-6b3239d64fe76d1d16",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Ölbaum,    welchen    Einige    Kotinos,    Andere   den   äthiopischen   Oelbaum \n\nnennen,   hat  adstnngirende  Blätter;   fein  gestossen  als  Umschlag  wirken \n\nsie  bei  roseartigen  Hautentzündungen,  kriechenden  Geschwüren,  Epinyktis*), \n\nEarbankelUf  um  sich  fressenden  Geschwüren  und  Nebennägeln,  mit  Honig \n\nRBg«BcblageD  rei&sen  sie  den  Schorf  ringsum  auf.",
+      "ailment_as_written": "Geschwüren"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-52fe6427f30aec7ada",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Heiltiam  sind  sie  für  den  Schlund,  die  Luftröhre,  die  Blase  und  Nieren,  wie \n■och  für  die,  welche  nach  langer  Krankheit  eine  schlechte  Farbe  haben, \nferner  ftlr  die  Ä^^thmatiker,  Epileptiker  und  Wassersüchtigen.",
+      "ailment_as_written": "Blase"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-63d560d5435b8ee89a",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The dried leaves in powder strewed on\nfresh bleeding wounds restrains the blood, and heals up the wound\nquickly.",
+      "ailment_as_written": "blood"
+    },
+    "prediction": {
+      "category": "cardiovascular"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-493a48f0eb9b0f01fc",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "It helps sore eyes.",
+      "ailment_as_written": "eyes"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-284416f2864bbdb4b7",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The decoction thereof made with some vinegar, gargled in the\nmouth, eases the tooth-ache, especially when it comes of rheum; and the\nsaid decoction is very powerful to open obstructions of the liver and\nspleen, and other parts.",
+      "ailment_as_written": "spleen"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-e903a77c44b59cc77e",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "It helps the cold griefs of the\nwomb, and the windiness thereof, and the loss of speech, by resolution\nof the tongue.",
+      "ailment_as_written": "womb"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-c70612567c1fb0dd42",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "It helps them that have a tertian ague (the body being\nfirst purged) by taking away the cold fits.",
+      "ailment_as_written": "ague"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-3c22fbc5e4d74ba796",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The seed\nis much commended, being drank for forty days together, to help the\nsciatica, the falling-sickness, and the palsy.",
+      "ailment_as_written": "sciatica"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-0e159244e33d04355a",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "It is\nwell known almost to every body, that ill digestions and obstructions\nare the cause of most of the diseases which the frail nature of man\nis subject to; both which might be remedied by a more frequent use of\nthis herb.",
+      "ailment_as_written": "frequent"
+    },
+    "prediction": {
+      "category": "metabolic"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-beb2f9b2e25a086e70",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The same also\nboiled in wine, and applied to any joint full of pain, ache, or the\ngout in the hands or feet, or the hip gout, called the Sciatica, and\nthe decoction thereof drank the while, doth cure them, and eases much\npain in the bowels.",
+      "ailment_as_written": "pain"
+    },
+    "prediction": {
+      "category": "neuro"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-b454769cae15d40c1e",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The green leaves bruised, and laid upon any boil or plague\nsore, doth wonderfully help to draw forth the poison: A dram of the\npowder of the dried root taken with twice so much sugar in the form of\na licking electuary, or the green root, doth wonderfully help those\nthat are pursy and short-winded, as also those that have a cough; it\nbreaks, digests, and rids away phlegm from the stomach, chest, and\nlungs.",
+      "ailment_as_written": "poison"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-ba9277da0a740dde6d",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The\nherb, whether it be bruised and applied to the throat, or boiled, and\nin like manner applied, it matters not much, it is excellently good\nfor swellings in the throat: the best way, I suppose, is to boil it,\napply the herb outwardly: the decoction of it, besides, is an excellent\nremedy for the yellow jaundice.",
+      "ailment_as_written": "throat"
+    },
+    "prediction": {
+      "category": "respiratory"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-61aa1c46a7a8c638fe",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The roots\nboiled in wine or water, and drank, helps the stranguary and stoppings\nof the urine, the wind, swellings and pains in the stomach, pains of\nthe mother, and all joint-aches.",
+      "ailment_as_written": "swellings"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-581f6156a0eba27edf",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The\nwhite Beet much loosens the belly, and is of a cleansing, digesting\nquality, and provokes urine.",
+      "ailment_as_written": "urine"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-a3b62fa69aebfbc2b5",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Allium porrum\tJ\tInstilled in the ear for treating earaches",
+      "ailment_as_written": "Instilled in the ear for treating earaches"
+    },
+    "prediction": {
+      "category": "cardiovascular"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-d2d88554781f3d333d",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Primula veris\t\tInfusion: externally applied on eye inflammations",
+      "ailment_as_written": "Infusion: externally applied on eye inflammations"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-1f3aabc7e076644464",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Euphorbia characias\tR\tAs part of the lule ditvere (“flower of the summer”) bunch, which is hang on the churn, as a good omen for the diary production",
+      "ailment_as_written": "As part of the lule ditvere (“flower of the summer”) bunch, which is hang on the churn, as a good omen for the diary production"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-d9756c41a4f3e15582",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Melissa officinalis\t\tInfusion in external washes for newlyweds, as a good omen",
+      "ailment_as_written": "Infusion in external washes for newlyweds, as a good omen"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-ceb02683e4f47bad94",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Juniperus oxycedrus\tFr\tInfusion: bechic",
+      "ailment_as_written": "Infusion: bechic"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-2b26625df19b5d6211",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Helichrysum plicatum\t\tInfusion: hepatitis",
+      "ailment_as_written": "Infusion: hepatitis"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-6324b60a7d238ca495",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Pyrus pyraster\tFr\tDecoction of the dried fruits with sugar: stomachaches",
+      "ailment_as_written": "Decoction of the dried fruits with sugar: stomachaches"
+    },
+    "prediction": {
+      "category": "metabolic"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-9bd6ab364e2d26dde4",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Rubus caesius\tFr\tOleolite in topical application: anti-haemorrhoidal",
+      "ailment_as_written": "Oleolite in topical application: anti-haemorrhoidal"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-ab27c7aa556d4bc243",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Crataegus sericea\tFB\tAs part of the lule ditvere (“flower of the summer”) bunch, which is hung in March on the churn and on the stable doors, as a good omen for the dairy production; same at St. George’s day (May 6th )",
+      "ailment_as_written": "As part of the lule ditvere (“flower of the summer”) bunch, which is hung in March on the churn and on the stable doors, as a good omen for the dairy production; same at St. George’s day (May 6th )"
+    },
+    "prediction": {
+      "category": "respiratory"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-bbb38605496882bccf",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Urtica dioica\tAP\tExternally applied for treating bruises",
+      "ailment_as_written": "Externally applied for treating bruises"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-a8b8248d3adf760fbc",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Allium porrum\tAP\tHeated, mixed with water and salt, to externally treat chilblains",
+      "ailment_as_written": "Heated, mixed with water and salt, to externally treat chilblains"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-9321eeffb291263ae4",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "The  juice  of  them,  with  honey,  cures  dimness  of \nsight  occasioned  by  thick  humours.",
+      "ailment_as_written": "sight"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-eca6ac1ec85322c4d6",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "Where- \nfore it  melts  down  the  spleen  when  drunk  or  applied  externally \nas  a  cataplasm  with  figs ;  and  it  cures  itch  and  leprosy.",
+      "ailment_as_written": "spleen"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-e43fbb5b2ebf3145fd",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": ",  Sw allow -ivort,  being  hot  and  dry  as  to  its  powers, \nand  consisting   of  subtile   particles,  agrees  well  with  tormina \nwhen  drunk  with  wine,  and  in  the  form  of  a  cataplasm  it  is  a \ngood  application  to  the  bites  of  venomous  animals,  and  malig- \nnant ulcers  in  the  uterus  and  breasts.",
+      "ailment_as_written": "breasts"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-48094773e616e65aee",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "The  burnt  ankle-bone  of  an \nox  is  said  to  fasten  loose  teeth ;  but  if  drunk  with  honey,  it \nremoves  round  worms,  and  with  oxymel  it  reduces  the  spleen, \nan4  when  rubbed  in  relieves  leuce.",
+      "ailment_as_written": "worms"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-9670621f23aaef669b",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": ",  Viper's  BugJoss,  (some  call  it  also  Dorias,  and \nothers  Alcibiadium,)  is  a  prickly  herb,  which  not  only  relieves \nthose  who  have  been  bitten  by  reptiles  when  drunk  in  wine, \nbut,  if  taken  beforehand,  it  preserves  them  from  being  injured.",
+      "ailment_as_written": "bitten"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-36d073b77ffe5b6072",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "It  therefore   cleanses  foul  ulcers   and  eschars \nwith  honey.",
+      "ailment_as_written": "ulcers"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-05751a1194b9722f72",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "The  fruit \nis  of  so  incisive  a  nature  as  to  break  down  stones,  and  relieve \nexpectorations.",
+      "ailment_as_written": "stones"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-8ec50371c151646087",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "gegen  FlimraernM, \n^üch  gegen  eutetehende  Flecken'')  auf  deu  Augen  und  eingestrichen  gegen \ntlni2andung  der  Schlund muskeln.",
+      "ailment_as_written": "Augen"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-b4f584f98062d251cd",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Ferner  hat  er \ngute  Wirkung  bei  Husten,  bei  träger  Verdauung,  bei  Blähungen  und \nA«thmn,  endlich  bei  Verrenkungen,  besonders  mit  schweisaiger  Wolle \n(aufgelegt).",
+      "ailment_as_written": "Blähungen"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-04d01266a8478b15a9",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Er  hnt  erwärmende,  erweichende,  verdauende  Kraft,  ist \n«vbam  gegen  Husten,  Katarrh,  Erkältung,  Heiserkeit  und  Verlust  der \n«öttM,  ist  femer  ein  gutes  Mittel  gegen  die  Verstopfungen  und  Ver- \nhirtongen  in  der  Gebärmutter  und  befördert,  innerlich  genommen  und  in \nBar«s4«i,  ArraK^imUtcUekra  de«  PIoiknridM.",
+      "ailment_as_written": "Gebärmutter"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-d6bf4b2b2c44d48e37",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Femer  wirkt  er  gegen  Würmer  und \nFrostschauer,  hilft  gegen  den  Bisa  giftiger  Tbiere  und  tödtet  Schlangen.",
+      "ailment_as_written": "Würmer"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-927f1d3eba54ae2fac",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Bei  Podagra  ist  sie  mit  Opo- \npanax  als  Kataplasma  ein  gutes  Mittel;  auch  lose  Nägel  entftfmt  sie  als \nUmschlag  schneller.",
+      "ailment_as_written": "Podagra"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-ba3d22fd7bc42c5900",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Leicht \nwird  der  von  ihnen  erzeugte  Fluss  geheilt;  sie  rufen  Ausschlag  und \nSchweiz  berror,  stillen  aber  den  Durst  und  dienen  zum  Dumpfen  der \nHitze.",
+      "ailment_as_written": "Durst"
+    },
+    "prediction": {
+      "category": "metabolic"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-24b58231178bc5b8c4",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Di*^  Hippokratiker  warf« \ndie  Nerven  fortwährend  mit  den  Sehnen,  zum  Theil  auch  mit  den  Gentssen \nsammen,  und  aucb  bei  Aristoteles  sind  die  Nerven  Ton  den  fuerigeu  Gebilden  keiae \nwegt  streng  geschieden.",
+      "ailment_as_written": "Nerven"
+    },
+    "prediction": {
+      "category": "neuro"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-9739eb0ab3925a9c02",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Auch  alit \nUmschli^  ist  das  Kraut  bei  Bissen  giftiger  Thiere  von  Nutzen;  gegen \ntOdtliche  Gifte  ist  1  Drachme  mit  Wein  getrunken  ein  wirksames  Mittel.",
+      "ailment_as_written": "Gifte"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-1eb4fcd2efeb0c5078",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Ferner  hat  er \ngute  Wirkung  bei  Husten,  bei  träger  Verdauung,  bei  Blähungen  und \nA«thmn,  endlich  bei  Verrenkungen,  besonders  mit  schweisaiger  Wolle \n(aufgelegt).",
+      "ailment_as_written": "Husten"
+    },
+    "prediction": {
+      "category": "respiratory"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-890c1d999acc0358ae",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Mit  Wachssalbe   heilen    sie  Brand-   und  ver- \naltete Wunden.",
+      "ailment_as_written": "Wunden"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-4e3f85cb2eeb2e5880",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Im  Alter  werden  (die \nWeine)  süss;  diese  alle  aber  verursachen  Kopfschmerzen  und  Schwindel, \nbefördern  jedoch  die  Verdauung  und  treiben  den  Harn.",
+      "ailment_as_written": "Harn"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-b81223e57a2135193b",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "It cleanses the blood\nexceedingly: and in Spring, if you please to boil the tender plant (but\ncut off the prickles, unless you have a mind to choak yourself) it will\nchange your blood as the season changes, and that is the way to be safe.",
+      "ailment_as_written": "blood"
+    },
+    "prediction": {
+      "category": "cardiovascular"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-5b56637126e9e6bdaf",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The green herb with the root taken\nfresh, being bruised and applied to the head, takes away the pains and\nprickings there, stays rheum and thin distillation, and being boiled\nin white wine, and a drop thereof put into the eyes, takes away the\ndimness of the sight, or any pin or web therein.",
+      "ailment_as_written": "sight"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-e606e9ff024125586d",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The decoction is good for the same purpose, and opens obstructions,\nevacuating cold, clammy and phlegmatic humours both from the liver and\nthe spleen, and bringing the body to a more lively colour.",
+      "ailment_as_written": "spleen"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-916f2bd8afce89e73d",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The juice of Plantain clarified and drank for divers days together,\neither of itself, or in other drink, prevails wonderfully against\nall torments or excoriations in the intestines or bowels, helps the\ndistillations of rheum from the head, and stays all manner of fluxes,\neven women’s courses, when they flow too abundantly.",
+      "ailment_as_written": "women"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-dba742efc15523b843",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "It is an herb of Venus, and therefore cures\nthe diseases she causes by sympathy, and those of Mars by antipathy;\nyou may usually find it all the year long except the year be extremely\nfrosty; it is quick, sharp, and bitter in taste, and is thereby found\nto be hot and dry; a singular herb for all inward wounds, exulcerated\nlungs, or other parts, either by itself, or boiled with other the like\nherbs; and being drank, in a short time it eases all griping pains,\nwindy and choleric humours in the stomach, spleen or belly; helps the\nyellow jaundice, by opening the stoppings of the gall and liver, and\nmelancholy, by opening the stoppings of the spleen; expels venom or\npoison, and also the plague; it provokes urine and women’s courses; the\ndecoction of it in wine drank for some time together, procures ease\nto them that are troubled with the sciatica, or hip-gout: as also the\ngout in hands, knees or feet; if you put to the decoction some honey\nand a little burnt alum, it is excellently good to gargle any sore\nmouth or throat, and to wash the sores and ulcers in the privy parts of\nman or woman; it speedily helps green wounds, being bruised and bound\nthereto.",
+      "ailment_as_written": "plague"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-810899c41268f99d0f",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The same also, or the decoction of the herb and\nflower, is good to bathe the feet of travellers and lacquies, whose\nlong running causes weariness and stiffness in the sinews and joints.",
+      "ailment_as_written": "joints"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-993900a720438aba4f",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The distilled\nwater of the flowers is profitable for all the same purposes: it also\nhelps surfeit, and alters the fit of agues, if three or four ounces\nthereof, with as much of the water of the lesser Centaury, and a\nlittle sugar put therein, be taken a little before the fit comes, and\nthe party be laid down to sweat in his bed.",
+      "ailment_as_written": "sugar"
+    },
+    "prediction": {
+      "category": "metabolic"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-7c0c89f94350aa87e2",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The seed\nis much commended, being drank for forty days together, to help the\nsciatica, the falling-sickness, and the palsy.",
+      "ailment_as_written": "sickness"
+    },
+    "prediction": {
+      "category": "neuro"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-ef73de5c95443e2baf",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "It expels poison much, resists\npestilential fevers, being exceeding good also for tertian agues: You\nmay drink the decoction of it, if you please, for all the foregoing\ninfirmities.",
+      "ailment_as_written": "poison"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-82677d0335698e82ba",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The decoction of the herb Maiden-Hair being drank, helps those that are\ntroubled with the cough, shortness of breath, the yellow jaundice,\ndiseases of the spleen, stopping of urine, and helps exceedingly to\nbreak the stone in the kidneys, (in all which diseases the Wall Rue\nis also very effectual.",
+      "ailment_as_written": "breath"
+    },
+    "prediction": {
+      "category": "respiratory"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-f9870d88bdadc8089b",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "The spirit of it is excellently good for the convulsions in\nchildren, as also for the falling sickness, and a gallant remedy for\nthe inflammation of the lungs and breasts, pleurisy, scabs, itch, &c.",
+      "ailment_as_written": "itch"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-74f50401132d1a568a",
+    "source": {
+      "source_id": "culpeper-gutenberg-49513",
+      "source_url": "https://www.gutenberg.org/ebooks/49513",
+      "source_span": "It also provokes urine\nand women’s courses, cleanses the chest of cold phlegm, oppressing it,\nkills worms in the belly.",
+      "ailment_as_written": "urine"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-ced6e7997796f28ac0",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Allium cepa\tJ\tInstilled in the ear for treating earaches",
+      "ailment_as_written": "Instilled in the ear for treating earaches"
+    },
+    "prediction": {
+      "category": "cardiovascular"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-2dbbfe6640294f76af",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Prunus domestica\t\tFermented and distilled into raki, externally applied with salt for treating toothache",
+      "ailment_as_written": "Fermented and distilled into raki, externally applied with salt for treating toothache"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-b277eb87e03a5f81a4",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Tilia platyphyllos\tFl\tInfusion: panacea",
+      "ailment_as_written": "Infusion: panacea"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-6f87bc47f5fda9e35e",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Juglans regia\tUF\tInfusion: for treating hyperthyroidism",
+      "ailment_as_written": "Infusion: for treating hyperthyroidism"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-c8a7c670de0a5a3285",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Crataegus monogyna\tTh\tExternally applied: for treating snake bites",
+      "ailment_as_written": "Externally applied: for treating snake bites"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-8d795171f779e15143",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Allium sativum\tBu\tConsumed as an anti-hypertensive",
+      "ailment_as_written": "Consumed as an anti-hypertensive"
+    },
+    "prediction": {
+      "category": "respiratory"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-960640790c4bcd6f6f",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Achillea millefolium\tFl\tDecoction: cicatrizing on wounds",
+      "ailment_as_written": "Decoction: cicatrizing on wounds"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-4d12eba1b1bb714bde",
+    "source": {
+      "source_id": "balkan-open-access",
+      "source_url": "https://europepmc.org/articles/PMC3998745#T2",
+      "source_span": "Asplenium trichomanes\tL\tInfusion: diuretic",
+      "ailment_as_written": "Infusion: diuretic"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-3006083dae1be26e13",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "It,  therefore,  cures  alopecia,  discusses \nswellings,  proves   lithoutriptic  when  taken  in  a  draught,  di'ies \nup  expectorations  from  the  lungs,  and  stops  defluxions  of  the \nbelly.",
+      "ailment_as_written": "belly"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-15ae3a050f899dbcc5",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "It  kills  worms,  both  when \napplied  externally  and  when  taken  in  infusion,  and  it  cleanses \nthe  bowels  when  drunk  with  rue  and  pepper.",
+      "ailment_as_written": "worms"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-52a480b8b52a8712ae",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "that  it  cures  opisthotonos  when  drunk  with  austere  wine ;  but \nGaleuj  in  his  treatise  '  De  Theriaca/  says,  that  the  trifolium, \nwhich  is  like  tlie  hyacinth,  when  it  becomes  pregnant  with \nthe  spring,  has  a  seed  like  the  wild  cnicus,  and  that  when  the \ndecoction  of  it  is  poured  upon  the  bite  of  the  phalangium.",
+      "ailment_as_written": "bite"
+    },
+    "prediction": {
+      "category": "poison"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-3462cd344e322fcbb2",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": "Hence  they  are  used  as \na  dentifrice,  and  when  rubbed  in  with  vinegar  cure  itch,  exan- \nthemata, and  gouty  complaints,  and  with  cerate  dispel  enlarged \nscrofulous  glands.",
+      "ailment_as_written": "itch"
+    },
+    "prediction": {
+      "category": "skin"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-215e96862f0dda00af",
+    "source": {
+      "source_id": "paul-adams-1844-1847",
+      "source_url": "https://archive.org/details/sevenbooksofpaul03pauluoft",
+      "source_span": ")  The  dock  is  recommended  by \nAfricanus  in  jaundice,  dropsy,  and  for  the  cure  of  leprosy, \nlichen,  and  alphos.",
+      "ailment_as_written": "dropsy"
+    },
+    "prediction": {
+      "category": "urinary"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-b938367bdedfa6f9a1",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Kin  solch^H \nist   ein   gutes  Mittel   bei  Wunden   in  den  Augen  und  bei  Flüssen.",
+      "ailment_as_written": "Augen"
+    },
+    "prediction": {
+      "category": "eye"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-0b7eafb531832a7462",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Sie  ist  herb,  adstringirend  nt \ndient  mit  herbem  Wein  getrunken  gegen  Durchfall  und  FIuss  der  Fraue \nSie  beruhigt  auch  die  Hämorrhoiden  und  verklebt  als  Umschlag  Wunde \nDie  (friscben)  Datteln-)   sind   mehr  zusammenziehend   als   die  trockenen,!",
+      "ailment_as_written": "Durchfall"
+    },
+    "prediction": {
+      "category": "gi"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-0db6c6b2343b9d46e6",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Sie  haben  erwärmende,   austrocknende, \n\nDtreibende  Kraft,    weshalb    sie   genossen  aucli  den  Stuldgung   und,  in \n\npfcben  eingelegt,  die  Ausfiüsse  aus  der  Gebärmutter  stellen,  sowie  die \n\nin   Ordnung   bringen.",
+      "ailment_as_written": "Gebärmutter"
+    },
+    "prediction": {
+      "category": "gynaecological"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-813eaa96ba7ccfc19d",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Auch \ndie  Würmer  treibt  es  nb.",
+      "ailment_as_written": "Würmer"
+    },
+    "prediction": {
+      "category": "infection"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-438f6d1dacb78bf05b",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Gekocht  heilen  sie  Hautaus- \n\n■äüi^,  Feuerbrandn^inden  und  roseartige  Entzündungen.",
+      "ailment_as_written": "Entzündungen"
+    },
+    "prediction": {
+      "category": "joint"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-09b3659f13d44608ff",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Er  hat  eine \nscharfe,  erweichende,  beissende,  windetreibende  Kraft,  regt  den  Bauch \nauf,  trocknet  den  Magen  aus,  macht  Durst  und  kann  auf  der  Körperhaut \nGeschwüre  hervorrufen.",
+      "ailment_as_written": "Durst"
+    },
+    "prediction": {
+      "category": "metabolic"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "harmonisation",
+    "item_id": "claim-485c154bbfb4fe11b2",
+    "source": {
+      "source_id": "dioscorides-berendes-1902",
+      "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+      "source_span": "Er  ist  ein  gutes  Mittel  gegen \nschlechte  Verdauung,  Appetitlosigkeit,  Dysenterie,  Nerven-  und  Unter- \nleibsleiden, gegen  winterliche')  Frostschnuer  und  Bisse  giftiger  Thiere, \nwelche  Kälte  und  Fäuloiss  im  Gefolge  haben.",
+      "ailment_as_written": "Nerven"
+    },
+    "prediction": {
+      "category": "neuro"
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  }
+]

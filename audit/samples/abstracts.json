@@ -1,0 +1,1502 @@
+[
+  {
+    "task": "abstracts",
+    "item_id": "evidence-2731d78b6c90287d70",
+    "source": {
+      "pmid": "36444166",
+      "species_id": "Galega officinalis",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/36444166",
+      "record_path": "data/raw/cache/evidence_records/36444166.json",
+      "record_sha256": "5dffc83a8edc8419c3d747ec60b76295e2e9546a6669ad505f1d392717f9c5eb"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-942c9aebffb16565f2",
+    "source": {
+      "pmid": "32922491",
+      "species_id": "Papaver somniferum",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/32922491",
+      "record_path": "data/raw/cache/evidence_records/32922491.json",
+      "record_sha256": "1a10d1a44ddddc9035048a4dd9d8e03666ee2cfb1e232320ff26771e0d051684"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-5f55aa74e86bb3e24b",
+    "source": {
+      "pmid": "35643042",
+      "species_id": "Colchicum autumnale",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/35643042",
+      "record_path": "data/raw/cache/evidence_records/35643042.json",
+      "record_sha256": "bfa712202730e9b1d33ef74803f3a54894e12c695346217558f236aa188874f4"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-7f17b388a29ded6805",
+    "source": {
+      "pmid": "26507574",
+      "species_id": "Galega officinalis",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/26507574",
+      "record_path": "data/raw/cache/evidence_records/26507574.json",
+      "record_sha256": "feb67edd498f1d82134313d96d585c947db85a4b2db672f25d70f37184c1cd27"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-2dae013100d1d6fa31",
+    "source": {
+      "pmid": "40193308",
+      "species_id": "Papaver somniferum",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/40193308",
+      "record_path": "data/raw/cache/evidence_records/40193308.json",
+      "record_sha256": "1e6dd56e9723c84a57254b8de809ccad09b89ca8760eeb802d40814286d40b75"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-88b3698899eabfcc85",
+    "source": {
+      "pmid": "18615126",
+      "species_id": "Taxus brevifolia",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/18615126",
+      "record_path": "data/raw/cache/evidence_records/18615126.json",
+      "record_sha256": "5a983e480acfa7f07ade7c88aac2c22b7305b710e508bbc2287dda92a02acd30"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-6bd7a5dd03650a5f56",
+    "source": {
+      "pmid": "39702899",
+      "species_id": "Catharanthus roseus",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/39702899",
+      "record_path": "data/raw/cache/evidence_records/39702899.json",
+      "record_sha256": "584e1c71c1af98ef7c7cb64ce3efa4498a059c8d5e72d36de7854a9b2949e460"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-458b5752b133bad0c1",
+    "source": {
+      "pmid": "34572994",
+      "species_id": "Galega officinalis",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/34572994",
+      "record_path": "data/raw/cache/evidence_records/34572994.json",
+      "record_sha256": "ff6ee769e962b34a5c9a34984f7b3f4a041c138678bbac67c268e27db5fc6565"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-774731654cbc7ae378",
+    "source": {
+      "pmid": "41176190",
+      "species_id": "Catharanthus roseus",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/41176190",
+      "record_path": "data/raw/cache/evidence_records/41176190.json",
+      "record_sha256": "74cd780ac5c976259e398fcd0f4a0324049ba35f656ddd49e9f0348c5e215bbe"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-edd433a39dd52a9132",
+    "source": {
+      "pmid": "40802935",
+      "species_id": "Catharanthus roseus",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/40802935",
+      "record_path": "data/raw/cache/evidence_records/40802935.json",
+      "record_sha256": "b6496b59761048852fa19c0dd39e6ee1d0c12c8f16a1dedd02c6109f8b82a253"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-28396ce1815013714a",
+    "source": {
+      "pmid": "39775614",
+      "species_id": "Galega officinalis",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/39775614",
+      "record_path": "data/raw/cache/evidence_records/39775614.json",
+      "record_sha256": "f6b9ad302e88b63bfa4544a755b953740884579381dd2a5ce0b103d0c5765619"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-6415e203c4dea7940b",
+    "source": {
+      "pmid": "40213418",
+      "species_id": "Catharanthus roseus",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/40213418",
+      "record_path": "data/raw/cache/evidence_records/40213418.json",
+      "record_sha256": "dc24ce284aaed2daaabe7993e8a60a0e46390cece8a5a9854e78bc83f34ea1c0"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-9ea656ffae221f780d",
+    "source": {
+      "pmid": "29156532",
+      "species_id": "Taxus brevifolia",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/29156532",
+      "record_path": "data/raw/cache/evidence_records/29156532.json",
+      "record_sha256": "ab59982e188d02537ea4252cbfd1b22f39409496d5686ada47f6b3806ecd1f27"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-0a6d8f3e7b639226a2",
+    "source": {
+      "pmid": "40802935",
+      "species_id": "Catharanthus roseus",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/40802935",
+      "record_path": "data/raw/cache/evidence_records/40802935.json",
+      "record_sha256": "b6496b59761048852fa19c0dd39e6ee1d0c12c8f16a1dedd02c6109f8b82a253"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-4f3504283364df0bf1",
+    "source": {
+      "pmid": "21771560",
+      "species_id": "Colchicum autumnale",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/21771560",
+      "record_path": "data/raw/cache/evidence_records/21771560.json",
+      "record_sha256": "0b76f999545bd833890505f50ba008e0373026ce6763d2e05d47366b48a69288"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-59e56be2df05002d8c",
+    "source": {
+      "pmid": "42565870",
+      "species_id": "Catharanthus roseus",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/42565870",
+      "record_path": "data/raw/cache/evidence_records/42565870.json",
+      "record_sha256": "b82f2ab1785c7bea709f896af037499d124047b62faa48b4862845975437a89a"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-35d71d27721bff440f",
+    "source": {
+      "pmid": "11356425",
+      "species_id": "Galanthus nivalis",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/11356425",
+      "record_path": "data/raw/cache/evidence_records/11356425.json",
+      "record_sha256": "9778e8c505f8bc2a34a5732e05a473453f9a66cbfd88badb69e8253119adc6cd"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-732d6f1ed4e41ce088",
+    "source": {
+      "pmid": "40370019",
+      "species_id": "Papaver somniferum",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/40370019",
+      "record_path": "data/raw/cache/evidence_records/40370019.json",
+      "record_sha256": "10453b38ab39fbdc4390edb74ca60b1119206a78d91abfca285b8e9df626cc15"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-920e51b10063d51b33",
+    "source": {
+      "pmid": "41089054",
+      "species_id": "Papaver somniferum",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/41089054",
+      "record_path": "data/raw/cache/evidence_records/41089054.json",
+      "record_sha256": "7c2597db8bd0780f9ecabbfece593aec02640128ddfa7cf8526ad1deab7e2315"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-d5a9d7d2964d73ccd0",
+    "source": {
+      "pmid": "42280747",
+      "species_id": "Colchicum autumnale",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/42280747",
+      "record_path": "data/raw/cache/evidence_records/42280747.json",
+      "record_sha256": "f8ee56243a6b17a9673d37ace889143d7b5753397afe57f8b040cffaa579a3e8"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-15a6194469b42c646e",
+    "source": {
+      "pmid": "41607420",
+      "species_id": "Colchicum autumnale",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/41607420",
+      "record_path": "data/raw/cache/evidence_records/41607420.json",
+      "record_sha256": "1e072b3e2fe769f499459a74d324889e2897efcca19c8c1b24a1d559a68a40e0"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-2ce2ea918545aeb6b3",
+    "source": {
+      "pmid": "39815991",
+      "species_id": "Taxus brevifolia",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/39815991",
+      "record_path": "data/raw/cache/evidence_records/39815991.json",
+      "record_sha256": "6c8120c5880ed2f2f45026f4b4c1599e15312f4aaf6eab55fad0bc6c232ac0fc"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-f2c4e367e1e5e107eb",
+    "source": {
+      "pmid": "16721733",
+      "species_id": "Galanthus nivalis",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/16721733",
+      "record_path": "data/raw/cache/evidence_records/16721733.json",
+      "record_sha256": "61f9ab1c792cc94134fd1c2783d7ad00e3885af209748a5a779fe200a193d54a"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-afa4e0c765bb74340a",
+    "source": {
+      "pmid": "33603888",
+      "species_id": "Colchicum autumnale",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/33603888",
+      "record_path": "data/raw/cache/evidence_records/33603888.json",
+      "record_sha256": "57af0a206402ae13964823b498c2788b4d0ebdc403a926f20046c3aa0aee0ed6"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-762df65f7de1af5609",
+    "source": {
+      "pmid": "41698963",
+      "species_id": "Catharanthus roseus",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/41698963",
+      "record_path": "data/raw/cache/evidence_records/41698963.json",
+      "record_sha256": "6a06ad336841202fe07a4ca413eca26621f2e34e506379c6ddeafd6501b04962"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-5aac6dd44ef2019616",
+    "source": {
+      "pmid": "40058683",
+      "species_id": "Galega officinalis",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/40058683",
+      "record_path": "data/raw/cache/evidence_records/40058683.json",
+      "record_sha256": "0dad3a2749c5a630b5b0cf6af54d94075af5176f3ea02b8d87048b7b7de0ccb7"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-55b2ce9e8e2899f679",
+    "source": {
+      "pmid": "29762881",
+      "species_id": "Colchicum autumnale",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/29762881",
+      "record_path": "data/raw/cache/evidence_records/29762881.json",
+      "record_sha256": "5d20f08731ecef3a03ea4662b16eac198442a9352737f85ff89fe6404b0f148e"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-0ea6d3b5cf5df8c158",
+    "source": {
+      "pmid": "37049912",
+      "species_id": "Papaver somniferum",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/37049912",
+      "record_path": "data/raw/cache/evidence_records/37049912.json",
+      "record_sha256": "17186dd89932d2e28deb5ad1674c297afc15dc497d6a68526627d274f3006bd9"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-3a53bdf9dfef8c3b4b",
+    "source": {
+      "pmid": "36766693",
+      "species_id": "Galanthus nivalis",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/36766693",
+      "record_path": "data/raw/cache/evidence_records/36766693.json",
+      "record_sha256": "78b94efbd2abd464683dd0a717bfe428053b1ffaf981d04980c16e910f2db284"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-2c40c8dc1854fd0401",
+    "source": {
+      "pmid": "40621822",
+      "species_id": "Papaver somniferum",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/40621822",
+      "record_path": "data/raw/cache/evidence_records/40621822.json",
+      "record_sha256": "fee6ed9c97650bee3dd3d4bf6f8e15ef23cc4980058d2e48b29ef9225a0d34b8"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-3ef10ff2d89f32822e",
+    "source": {
+      "pmid": "42939579",
+      "species_id": "Galega officinalis",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/42939579",
+      "record_path": "data/raw/cache/evidence_records/42939579.json",
+      "record_sha256": "08c7455a8bfff15d5ec400aa690b11846c54249a68b7a9d0f8897b0d16670aee"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-6e3664cfd360635eeb",
+    "source": {
+      "pmid": "22584580",
+      "species_id": "Galanthus nivalis",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/22584580",
+      "record_path": "data/raw/cache/evidence_records/22584580.json",
+      "record_sha256": "6b08f9451b404b82661492fa8cc33717fcaead383dad911e719d33a777a035d5"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-af44bac8dd07f6f574",
+    "source": {
+      "pmid": "38575897",
+      "species_id": "Catharanthus roseus",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/38575897",
+      "record_path": "data/raw/cache/evidence_records/38575897.json",
+      "record_sha256": "765739d4ef88f44f05d1161619320199ad61294a9a1178e342b2052ff4d86452"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-c3d9389a0bd4dcdba9",
+    "source": {
+      "pmid": "40213418",
+      "species_id": "Catharanthus roseus",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/40213418",
+      "record_path": "data/raw/cache/evidence_records/40213418.json",
+      "record_sha256": "dc24ce284aaed2daaabe7993e8a60a0e46390cece8a5a9854e78bc83f34ea1c0"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-91b27fce314a4fe738",
+    "source": {
+      "pmid": "23922203",
+      "species_id": "Galanthus nivalis",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/23922203",
+      "record_path": "data/raw/cache/evidence_records/23922203.json",
+      "record_sha256": "4ecbb5708e991a9b0d74ad7cba0782fe15c7f62a911b2b6b194fb679bca5e9b2"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-a8d279a11ed40f4825",
+    "source": {
+      "pmid": "39415572",
+      "species_id": "Papaver somniferum",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/39415572",
+      "record_path": "data/raw/cache/evidence_records/39415572.json",
+      "record_sha256": "379b3c03f0282230ea251622497baa78ebdcf633dd6338ed0c210785e9132063"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-659f9ac6103ac43763",
+    "source": {
+      "pmid": "40177774",
+      "species_id": "Colchicum autumnale",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/40177774",
+      "record_path": "data/raw/cache/evidence_records/40177774.json",
+      "record_sha256": "cdfdb81fab50aa67e34568017e0bfbb007aa22203787a7db892cf610ac475851"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-746de6cdd03fe336bb",
+    "source": {
+      "pmid": "40676081",
+      "species_id": "Catharanthus roseus",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/40676081",
+      "record_path": "data/raw/cache/evidence_records/40676081.json",
+      "record_sha256": "1105b8a732ac7733a4d4bfd65bcf53b7803673cd8d7d922aca144a882ea2ecfa"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-2a38528f55cf4e1ecf",
+    "source": {
+      "pmid": "30557131",
+      "species_id": "Colchicum autumnale",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/30557131",
+      "record_path": "data/raw/cache/evidence_records/30557131.json",
+      "record_sha256": "9ed69b2f9e52ef4820576d0758896a29d5896b5b0559c2a46a5e784fc22360ec"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-f0a686d44a2896a645",
+    "source": {
+      "pmid": "38784991",
+      "species_id": "Galega officinalis",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/38784991",
+      "record_path": "data/raw/cache/evidence_records/38784991.json",
+      "record_sha256": "34ebe825fb210230fe61cf5e9e0af4a1cf64da75728d70327441ecf8446d8d5f"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-0d2e521c6eda24cae9",
+    "source": {
+      "pmid": "27341820",
+      "species_id": "Galanthus nivalis",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/27341820",
+      "record_path": "data/raw/cache/evidence_records/27341820.json",
+      "record_sha256": "60823fde75d430cd2b2e722a0a1f60d84f7e37d6b558d164cfae9f007437e977"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-e192feb6c5b69fa65c",
+    "source": {
+      "pmid": "23012383",
+      "species_id": "Galega officinalis",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/23012383",
+      "record_path": "data/raw/cache/evidence_records/23012383.json",
+      "record_sha256": "6423d9988870c7cd8ad5a8c62c5bc682061cd97f4e2590976db5b221f9991e59"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-4f462ac2d88d147603",
+    "source": {
+      "pmid": "41663238",
+      "species_id": "Colchicum autumnale",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/41663238",
+      "record_path": "data/raw/cache/evidence_records/41663238.json",
+      "record_sha256": "3e2f87bc8d6f7a2392ef0d129e6214c2d7f9163c9b43fc84900826b139b1a36e"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-5a228318fa998b3c0e",
+    "source": {
+      "pmid": "30769401",
+      "species_id": "Papaver somniferum",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/30769401",
+      "record_path": "data/raw/cache/evidence_records/30769401.json",
+      "record_sha256": "3f4ccc5d1ffa4127d094f054da04a569ad72508139c7fc2bb61ccfac02aaa2f2"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-4d5ca4d913390461b5",
+    "source": {
+      "pmid": "37065035",
+      "species_id": "Catharanthus roseus",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/37065035",
+      "record_path": "data/raw/cache/evidence_records/37065035.json",
+      "record_sha256": "a2393a4e301e1d732f056e414db6983b3fe97c6f2b3db68caeb776a1609d5b9d"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-8d81a12751ba651266",
+    "source": {
+      "pmid": "32593707",
+      "species_id": "Taxus brevifolia",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/32593707",
+      "record_path": "data/raw/cache/evidence_records/32593707.json",
+      "record_sha256": "3a3e981792cbc9df9cca4ebcf518a58553c678441be90c41ba1400f16cc43a37"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-00fa77e82610216de0",
+    "source": {
+      "pmid": "40377038",
+      "species_id": "Catharanthus roseus",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/40377038",
+      "record_path": "data/raw/cache/evidence_records/40377038.json",
+      "record_sha256": "d4941db2c4f9ea81721c882492da54f31b95175276e72c7af9afd131226ef1a1"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-9d804eac91f0e3a865",
+    "source": {
+      "pmid": "40484255",
+      "species_id": "Catharanthus roseus",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/40484255",
+      "record_path": "data/raw/cache/evidence_records/40484255.json",
+      "record_sha256": "e484812eb5b492ee5e449019ba67a1c66ba22f4096d52e3fcacfcd263ad6600c"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-8915a847c5018a5520",
+    "source": {
+      "pmid": "42176720",
+      "species_id": "Papaver somniferum",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/42176720",
+      "record_path": "data/raw/cache/evidence_records/42176720.json",
+      "record_sha256": "06be87a406d28934f69306cfecd428bad4feb9c2427d7a7de1adc88431b4578e"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-caf7f914726dda872f",
+    "source": {
+      "pmid": "40865347",
+      "species_id": "Colchicum autumnale",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/40865347",
+      "record_path": "data/raw/cache/evidence_records/40865347.json",
+      "record_sha256": "b84dee163bfecff821071b28c22dbf5007efe9ed805cf08bfdd2ef088a273e7d"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-c14755c335a3b564c0",
+    "source": {
+      "pmid": "42176720",
+      "species_id": "Papaver somniferum",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/42176720",
+      "record_path": "data/raw/cache/evidence_records/42176720.json",
+      "record_sha256": "06be87a406d28934f69306cfecd428bad4feb9c2427d7a7de1adc88431b4578e"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-51158dfc86dd14bd05",
+    "source": {
+      "pmid": "40193308",
+      "species_id": "Papaver somniferum",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/40193308",
+      "record_path": "data/raw/cache/evidence_records/40193308.json",
+      "record_sha256": "1e6dd56e9723c84a57254b8de809ccad09b89ca8760eeb802d40814286d40b75"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-1d01e3355b2c48e095",
+    "source": {
+      "pmid": "39139975",
+      "species_id": "Galega officinalis",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/39139975",
+      "record_path": "data/raw/cache/evidence_records/39139975.json",
+      "record_sha256": "5f3ff85e100aa4c9af2afdc706362e67a237e0115755ab69ee1692d9e83dafdf"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-6b1c2bac69cc948648",
+    "source": {
+      "pmid": "33016562",
+      "species_id": "Catharanthus roseus",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/33016562",
+      "record_path": "data/raw/cache/evidence_records/33016562.json",
+      "record_sha256": "c8d4fe3bd54dea8271a023f77cf03a2c8932196f635df9b163deb72f77823d1e"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-481a37aa97426e0072",
+    "source": {
+      "pmid": "40058683",
+      "species_id": "Galega officinalis",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/40058683",
+      "record_path": "data/raw/cache/evidence_records/40058683.json",
+      "record_sha256": "0dad3a2749c5a630b5b0cf6af54d94075af5176f3ea02b8d87048b7b7de0ccb7"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-1d2508a4a8a6e06c6d",
+    "source": {
+      "pmid": "24791587",
+      "species_id": "Colchicum autumnale",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/24791587",
+      "record_path": "data/raw/cache/evidence_records/24791587.json",
+      "record_sha256": "8d492e307ab9627448038decba4a3f0be765ba7bd30fe9d15a7fdadc8890ba60"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-d8e6abb51750b622c5",
+    "source": {
+      "pmid": "42157719",
+      "species_id": "Papaver somniferum",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/42157719",
+      "record_path": "data/raw/cache/evidence_records/42157719.json",
+      "record_sha256": "82bde5e4feed833c3bc3be8668735e2cff727dbe9ecf8a50f6236da7efc00e9b"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-185b6f20eac392f4ee",
+    "source": {
+      "pmid": "10706040",
+      "species_id": "Galanthus nivalis",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/10706040",
+      "record_path": "data/raw/cache/evidence_records/10706040.json",
+      "record_sha256": "215bb6781243ea333f152de53c47faa4af133fd428a418ba069db29805b1e7c1"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-2028a1e28872be3620",
+    "source": {
+      "pmid": "40213418",
+      "species_id": "Catharanthus roseus",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/40213418",
+      "record_path": "data/raw/cache/evidence_records/40213418.json",
+      "record_sha256": "dc24ce284aaed2daaabe7993e8a60a0e46390cece8a5a9854e78bc83f34ea1c0"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-4adc6d658707048619",
+    "source": {
+      "pmid": "40141378",
+      "species_id": "Papaver somniferum",
+      "category": "neuro",
+      "source_url": "https://europepmc.org/article/MED/40141378",
+      "record_path": "data/raw/cache/evidence_records/40141378.json",
+      "record_sha256": "2fe46604608143dd4d5f80eb81bd63fa1564f3fbc5cf9bb4254637dc9d7cf084"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-0631da912b197d1885",
+    "source": {
+      "pmid": "40136464",
+      "species_id": "Colchicum autumnale",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/40136464",
+      "record_path": "data/raw/cache/evidence_records/40136464.json",
+      "record_sha256": "db7a74d34ef1c23fcfc6e90038549005a33767f9ec6dd435cef0af5b6b5917eb"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-1bb5ab6af632250d2b",
+    "source": {
+      "pmid": "41099792",
+      "species_id": "Catharanthus roseus",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/41099792",
+      "record_path": "data/raw/cache/evidence_records/41099792.json",
+      "record_sha256": "80506a71e1c701ff7fa87d142d455c38391b2d1975dd62471551468b825b42b3"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-277991ad46a5856838",
+    "source": {
+      "pmid": "40263687",
+      "species_id": "Colchicum autumnale",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/40263687",
+      "record_path": "data/raw/cache/evidence_records/40263687.json",
+      "record_sha256": "3379a33b4a1f4e2337d4ff125137576358f7db31f95a8c2c4832f913a9d78999"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-de649c4cba099d0e67",
+    "source": {
+      "pmid": "39949440",
+      "species_id": "Catharanthus roseus",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/39949440",
+      "record_path": "data/raw/cache/evidence_records/39949440.json",
+      "record_sha256": "2cffa183a5784a8539e4bb20bedfc509fe83789c2a725770d48531a8a78dbcd2"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-b1ec1232768b417f58",
+    "source": {
+      "pmid": "38883108",
+      "species_id": "Catharanthus roseus",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/38883108",
+      "record_path": "data/raw/cache/evidence_records/38883108.json",
+      "record_sha256": "860126439a38b824d532cac98cce805748f3882944636524017364856a701212"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-3a45f83c71945a5be2",
+    "source": {
+      "pmid": "32648076",
+      "species_id": "Papaver somniferum",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/32648076",
+      "record_path": "data/raw/cache/evidence_records/32648076.json",
+      "record_sha256": "1ee3c09cad9bfa5cf35f38d470514fa83b2df25f93dae2154487f4891751126b"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-97caca64105eec4dbb",
+    "source": {
+      "pmid": "35546212",
+      "species_id": "Papaver somniferum",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/35546212",
+      "record_path": "data/raw/cache/evidence_records/35546212.json",
+      "record_sha256": "a0957db00be8a37c2597bf671e739aae73dfb4ee4c12f5237d2086fe71581e3f"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-9b87e36cb79b9bb014",
+    "source": {
+      "pmid": "42054236",
+      "species_id": "Galega officinalis",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/42054236",
+      "record_path": "data/raw/cache/evidence_records/42054236.json",
+      "record_sha256": "5854cb8038880cee347b54593f9dbcf49e7bc751ed00e7eb0147d092223d56a8"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-d23d39ea5a8457022c",
+    "source": {
+      "pmid": "41936651",
+      "species_id": "Papaver somniferum",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/41936651",
+      "record_path": "data/raw/cache/evidence_records/41936651.json",
+      "record_sha256": "43b199900dd1e01f9d59509a6c9dfd7e644496a3236318e5a535ec9ae96ddb3a"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-16f1157840222fd915",
+    "source": {
+      "pmid": "23678406",
+      "species_id": "Taxus brevifolia",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/23678406",
+      "record_path": "data/raw/cache/evidence_records/23678406.json",
+      "record_sha256": "1caa3a7a904b83f76e6e860b4713a5460bfba933d5dd253454543ebd36dfad09"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-211a457fc2d86bd23e",
+    "source": {
+      "pmid": "35890291",
+      "species_id": "Colchicum autumnale",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/35890291",
+      "record_path": "data/raw/cache/evidence_records/35890291.json",
+      "record_sha256": "4efc618e5fb462a432a1b4025a1058c932a9e53523de80a14c8eb6d3cc789e36"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-00002f5f1827cb1f73",
+    "source": {
+      "pmid": "42105688",
+      "species_id": "Galega officinalis",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/42105688",
+      "record_path": "data/raw/cache/evidence_records/42105688.json",
+      "record_sha256": "9b4d0e9797504bc3e6574ac080f29369f754aa7f2b4a3e53a658bd1dd43369cf"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-b84c99bb5cf544b2bb",
+    "source": {
+      "pmid": "35448458",
+      "species_id": "Galega officinalis",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/35448458",
+      "record_path": "data/raw/cache/evidence_records/35448458.json",
+      "record_sha256": "9cb1bdd173fb6026a99a5433f73ee38f75fcfe053886f26ef973a1a94e76e689"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-1472ebbd0b2430fc56",
+    "source": {
+      "pmid": "35220727",
+      "species_id": "Papaver somniferum",
+      "category": "metabolic",
+      "source_url": "https://europepmc.org/article/MED/35220727",
+      "record_path": "data/raw/cache/evidence_records/35220727.json",
+      "record_sha256": "7adbb4c39e5562c145634251c3b6ba2cfecfaddfe375a206bdddf5ee777a9765"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  },
+  {
+    "task": "abstracts",
+    "item_id": "evidence-1de960e038c12f3ef5",
+    "source": {
+      "pmid": "38116745",
+      "species_id": "Colchicum autumnale",
+      "category": "joint",
+      "source_url": "https://europepmc.org/article/MED/38116745",
+      "record_path": "data/raw/cache/evidence_records/38116745.json",
+      "record_sha256": "d046491180abd9d4d1a9b2a17102f3d54e59357aaa82166fad744554333e24fa"
+    },
+    "prediction": {
+      "verdict": null,
+      "evidence_tier": null
+    },
+    "gold": null,
+    "reviewer": null,
+    "independent": false,
+    "attested": false
+  }
+]

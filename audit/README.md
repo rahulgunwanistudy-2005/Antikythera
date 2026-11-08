@@ -1,0 +1,3 @@
+# Audits are empty by design
+
+No 200-claim, 150-indication, or 300-abstract audit has been performed. Templates contain headers only. Stratify extraction samples by language, era and category; annotate complete source passages independently so recall has a denominator. Record disagreements and adjudication. For evidence grading, distinguish compound-only activity from evidence for a botanical species/preparation; a discovery story is not an outcome label. Use `audit.metrics.wilson` for intervals and `identity.calibration.reliability` for top-label calibration after obtaining licensed expert identity labels. ECE is not meaningful on invented confidence scores.
