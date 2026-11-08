@@ -2,7 +2,7 @@
 
 /* Forest / leaf / amber palette, after the Growers DAO reference. */
 :root{
- --forest:#11201b;--forest-2:#172a23;--forest-3:#1f362d;--leaf:#8ccf3f;--leaf-2:#5fae2e;--leaf-deep:#1d6b2c;
+ --forest:#11201b;--forest-2:#172a23;--forest-3:#1f362d;--leaf:#8ccf3f;--leaf-2:#3d7d1d;--leaf-deep:#1d6b2c;
  --amber:#f8b432;--amber-2:#f39c12;--cream:#dfe4d8;--paper:#fff;--ink:#14231e;--muted:#5f6d66;--mist:#eef3ea;
  --leaf-a:#9fd84b;--leaf-b:#2f7a2c;--stem:#3d6b2a;--vein:rgba(255,255,255,.25);
  --ease:cubic-bezier(.2,.75,.2,1);
@@ -225,6 +225,7 @@ body{background:var(--cream)}
 .obs-panel .primary-button{background:var(--amber);color:var(--ink);font-weight:700;border-radius:7px;transition:transform .3s var(--ease),box-shadow .3s}
 .obs-panel .primary-button:hover{transform:translateY(-2px);box-shadow:0 10px 20px rgba(248,180,50,.35)}
 .obs-panel h1,.obs-panel h2{font-family:'Urbanist',sans-serif}
+.obs-panel h1,.obs-panel h2,.obs-panel h3,.obs-panel h4{color:var(--ink)}
 
 /* ---------- footer ---------- */
 .site-footer{position:relative;overflow:hidden;color:#fff;background:radial-gradient(ellipse 80% 70% at 50% 0%,#0f5a24,#0a4219 55%,#062e11);padding:80px 0 26px}
