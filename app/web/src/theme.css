@@ -304,3 +304,15 @@ body{background:var(--cream)}
  [data-reveal],.road-step .road-art,.road-step .road-copy{opacity:1!important;transform:none!important}
  .hero-title .word{opacity:1;transform:none}
 }
+
+/* reviewed findings card */
+.findings-card{background:linear-gradient(135deg,#11201b,#1d3a2b);color:#fff;border-radius:16px;padding:28px;margin:18px 0 26px;box-shadow:0 20px 40px rgba(17,32,27,.25);animation:panelIn .7s var(--ease)}
+.findings-head h3{font:600 24px 'Urbanist',sans-serif;color:#fff;margin:2px 0 8px}
+.findings-head p,.findings-note{color:rgba(255,255,255,.75)!important;font-size:14px;line-height:1.6}
+.findings-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:20px 0}
+.findings-grid div{background:rgba(255,255,255,.06);border-radius:12px;padding:14px;border-left:3px solid var(--leaf)}
+.findings-grid strong{display:block;font:800 30px 'Urbanist',sans-serif;color:var(--amber)}
+.findings-grid span{font-size:12px;color:rgba(255,255,255,.7)}
+.findings-list{margin:0 0 14px;padding-left:18px;display:grid;gap:6px;font-size:14px;color:#fff}
+.findings-note{border-top:1px solid rgba(255,255,255,.12);padding-top:12px}
+@media(max-width:760px){.findings-grid{grid-template-columns:1fr 1fr}}
