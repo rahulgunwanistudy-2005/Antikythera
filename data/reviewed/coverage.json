@@ -1,1 +1,7 @@
-{"observation_end":2026,"search_complete":false,"synonym_version":null,"evidence_search_description":"Not yet run. No missing record may be interpreted as never tested.","effort_coverage_complete":false}
+{
+  "observation_end": 2026,
+  "search_complete": false,
+  "synonym_version": "accepted-name-only-v1",
+  "evidence_search_description": "EuropePMC/PubMed title-abstract query plan category-query-plan-2026-11-07-v1 for six case-study species across joint, metabolic and neuro indications; retrieval capped per pair. Pairs without a retrieved record are unknown, not untested.",
+  "effort_coverage_complete": false
+}

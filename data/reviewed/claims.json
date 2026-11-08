@@ -1,1 +1,1213 @@
-[]
+[
+  {
+    "id": "claim-02c5a6fed3e84cda45",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "POPPY.",
+    "historical_name_context": "POPPY.",
+    "plant_context_start": 545222,
+    "plant_context_end": 545228,
+    "plant_context_span": "POPPY.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "women",
+    "span_start": 550195,
+    "span_end": 550489,
+    "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+    "category": "gynaecological",
+    "category_candidates": [
+      {
+        "category": "gynaecological",
+        "score": 0.2896
+      },
+      {
+        "category": "infection",
+        "score": 0.041927
+      },
+      {
+        "category": "skin",
+        "score": 0.036933
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "gynaecological",
+          "score": 0.2896
+        },
+        {
+          "category": "infection",
+          "score": 0.041927
+        },
+        {
+          "category": "skin",
+          "score": 0.036933
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-garden-poppy",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-0a273ebc7a2ea8c31c",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "PERIWINKLE.",
+    "historical_name_context": "PERIWINKLE.",
+    "plant_context_start": 523631,
+    "plant_context_end": 523642,
+    "plant_context_span": "PERIWINKLE.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "women",
+    "span_start": 525016,
+    "span_end": 525060,
+    "source_span": "The French used it to stay women’s\r\ncourses.",
+    "category": "gynaecological",
+    "category_candidates": [
+      {
+        "category": "gynaecological",
+        "score": 0.2896
+      },
+      {
+        "category": "infection",
+        "score": 0.041927
+      },
+      {
+        "category": "skin",
+        "score": 0.036933
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "gynaecological",
+          "score": 0.2896
+        },
+        {
+          "category": "infection",
+          "score": 0.041927
+        },
+        {
+          "category": "skin",
+          "score": 0.036933
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-periwinkle",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-17d5cf5d119462f26b",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "POPPY.",
+    "historical_name_context": "POPPY.",
+    "plant_context_start": 545222,
+    "plant_context_end": 545228,
+    "plant_context_span": "POPPY.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "consumption",
+    "span_start": 549038,
+    "span_end": 549456,
+    "source_span": "The garden Poppy heads with seeds made into a syrup,\r\nis frequently, and to good effect used to procure rest, and sleep, in\r\nthe sick and weak, and to stay catarrhs and defluxions of thin rheums\r\nfrom the head into the stomach and lungs, causing a continual cough,\r\nthe fore-runner of a consumption; it helps also hoarseness of the\r\nthroat, and when one have lost their voice, which the oil of the seed\r\ndoth likewise.",
+    "category": "respiratory",
+    "category_candidates": [
+      {
+        "category": "respiratory",
+        "score": 0.311843
+      },
+      {
+        "category": "neuro",
+        "score": 0.090078
+      },
+      {
+        "category": "cardiovascular",
+        "score": 0.048884
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "respiratory",
+          "score": 0.311843
+        },
+        {
+          "category": "neuro",
+          "score": 0.090078
+        },
+        {
+          "category": "cardiovascular",
+          "score": 0.048884
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-garden-poppy",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-1d7c9a4a530a5b3fd4",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "POPPY.",
+    "historical_name_context": "POPPY.",
+    "plant_context_start": 545222,
+    "plant_context_end": 545228,
+    "plant_context_span": "POPPY.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "gout",
+    "span_start": 550195,
+    "span_end": 550489,
+    "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+    "category": "joint",
+    "category_candidates": [
+      {
+        "category": "joint",
+        "score": 0.258976
+      },
+      {
+        "category": "cardiovascular",
+        "score": 0.0
+      },
+      {
+        "category": "eye",
+        "score": 0.0
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "joint",
+          "score": 0.258976
+        },
+        {
+          "category": "cardiovascular",
+          "score": 0.0
+        },
+        {
+          "category": "eye",
+          "score": 0.0
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-garden-poppy",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-2624566bfb7c671477",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "POPPY.",
+    "historical_name_context": "POPPY.",
+    "plant_context_start": 545222,
+    "plant_context_end": 545228,
+    "plant_context_span": "POPPY.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "sleep",
+    "span_start": 549038,
+    "span_end": 549456,
+    "source_span": "The garden Poppy heads with seeds made into a syrup,\r\nis frequently, and to good effect used to procure rest, and sleep, in\r\nthe sick and weak, and to stay catarrhs and defluxions of thin rheums\r\nfrom the head into the stomach and lungs, causing a continual cough,\r\nthe fore-runner of a consumption; it helps also hoarseness of the\r\nthroat, and when one have lost their voice, which the oil of the seed\r\ndoth likewise.",
+    "category": "neuro",
+    "category_candidates": [
+      {
+        "category": "neuro",
+        "score": 0.273551
+      },
+      {
+        "category": "infection",
+        "score": 0.030781
+      },
+      {
+        "category": "gi",
+        "score": 0.028843
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "neuro",
+          "score": 0.273551
+        },
+        {
+          "category": "infection",
+          "score": 0.030781
+        },
+        {
+          "category": "gi",
+          "score": 0.028843
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-garden-poppy",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-2f62a31c9a133aa2ff",
+    "source_id": "dioscorides-berendes-1902",
+    "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+    "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+    "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+    "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "plant_context_start": 1357055,
+    "plant_context_end": 1357118,
+    "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "schmerzen",
+    "span_start": 1359512,
+    "span_end": 1359693,
+    "source_span": "Er  lindert] \naber  auch  Kopfschmerzen,  wenn  er  mit  Rosenöl  aufgesprengt  wird,  Ohren*] \nschmerzen  aber,  wenn  er  mit  Mandelöl,  Safran  und  Myrrhe  eingetröpfelt \nwird.",
+    "category": "neuro",
+    "category_candidates": [
+      {
+        "category": "neuro",
+        "score": 1.0
+      }
+    ],
+    "harmonisation": {
+      "method": "german_ailment_lexicon_baseline_v1",
+      "candidates": [
+        {
+          "category": "neuro",
+          "score": 1.0
+        }
+      ],
+      "calibrated": false,
+      "requires_adjudication": true
+    },
+    "year": 60,
+    "edition_year": 1902,
+    "era": "dioscorides",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-dioscorides-mekon",
+    "method": "manuscript_lexicon_baseline_v1",
+    "text_layer": "translated_original_prefix_heuristic",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-2fcad9506ad9fca23d",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "POPPY.",
+    "historical_name_context": "POPPY.",
+    "plant_context_start": 545222,
+    "plant_context_end": 545228,
+    "plant_context_span": "POPPY.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "pains",
+    "span_start": 550195,
+    "span_end": 550489,
+    "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+    "category": "neuro",
+    "category_candidates": [
+      {
+        "category": "neuro",
+        "score": 0.280457
+      },
+      {
+        "category": "cardiovascular",
+        "score": 0.117134
+      },
+      {
+        "category": "skin",
+        "score": 0.022029
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "neuro",
+          "score": 0.280457
+        },
+        {
+          "category": "cardiovascular",
+          "score": 0.117134
+        },
+        {
+          "category": "skin",
+          "score": 0.022029
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-garden-poppy",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-39bdb40f0bac803583",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "PERIWINKLE.",
+    "historical_name_context": "PERIWINKLE.",
+    "plant_context_start": 523631,
+    "plant_context_end": 523642,
+    "plant_context_span": "PERIWINKLE.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "belly",
+    "span_start": 525061,
+    "span_end": 525168,
+    "source_span": "Dioscorides, Galen, and Ægineta, commend it against the lasks\r\nand fluxes of the belly to be drank in wine.",
+    "category": "gi",
+    "category_candidates": [
+      {
+        "category": "gi",
+        "score": 0.219185
+      },
+      {
+        "category": "skin",
+        "score": 0.044846
+      },
+      {
+        "category": "cardiovascular",
+        "score": 0.0
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "gi",
+          "score": 0.219185
+        },
+        {
+          "category": "skin",
+          "score": 0.044846
+        },
+        {
+          "category": "cardiovascular",
+          "score": 0.0
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-periwinkle",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-5b2d75af33a235e1bb",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "POPPY.",
+    "historical_name_context": "POPPY.",
+    "plant_context_start": 545222,
+    "plant_context_end": 545228,
+    "plant_context_span": "POPPY.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "stomach",
+    "span_start": 549038,
+    "span_end": 549456,
+    "source_span": "The garden Poppy heads with seeds made into a syrup,\r\nis frequently, and to good effect used to procure rest, and sleep, in\r\nthe sick and weak, and to stay catarrhs and defluxions of thin rheums\r\nfrom the head into the stomach and lungs, causing a continual cough,\r\nthe fore-runner of a consumption; it helps also hoarseness of the\r\nthroat, and when one have lost their voice, which the oil of the seed\r\ndoth likewise.",
+    "category": "gi",
+    "category_candidates": [
+      {
+        "category": "gi",
+        "score": 0.23841
+      },
+      {
+        "category": "urinary",
+        "score": 0.104654
+      },
+      {
+        "category": "neuro",
+        "score": 0.056848
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "gi",
+          "score": 0.23841
+        },
+        {
+          "category": "urinary",
+          "score": 0.104654
+        },
+        {
+          "category": "neuro",
+          "score": 0.056848
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-garden-poppy",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-5cfddfe80d50eb9feb",
+    "source_id": "dioscorides-berendes-1902",
+    "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+    "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+    "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+    "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "plant_context_start": 1357055,
+    "plant_context_end": 1357118,
+    "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "Husten",
+    "span_start": 1359137,
+    "span_end": 1359418,
+    "source_span": "Der  Saft  selbst,    welcher  noch  mehr  kältend, \nverdichtend  und  austrocknend  ist,  wirkt,  wenig,  etwa  in  der  Grösse  ein« \nErbse  genommen,  schmerzstillend,  schlafmachend  und  die  Verdauung  be \nf<)rdernd,    hilft  auch    bei    Husten  und    Magen aifectionen.",
+    "category": "respiratory",
+    "category_candidates": [
+      {
+        "category": "respiratory",
+        "score": 1.0
+      }
+    ],
+    "harmonisation": {
+      "method": "german_ailment_lexicon_baseline_v1",
+      "candidates": [
+        {
+          "category": "respiratory",
+          "score": 1.0
+        }
+      ],
+      "calibrated": false,
+      "requires_adjudication": true
+    },
+    "year": 60,
+    "edition_year": 1902,
+    "era": "dioscorides",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-dioscorides-mekon",
+    "method": "manuscript_lexicon_baseline_v1",
+    "text_layer": "translated_original_prefix_heuristic",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-6b2ea139315769028c",
+    "source_id": "dioscorides-berendes-1902",
+    "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+    "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+    "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+    "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "plant_context_start": 1357055,
+    "plant_context_end": 1357118,
+    "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "Frauen",
+    "span_start": 1358870,
+    "span_end": 1359132,
+    "source_span": "Der  Same   des   schwariien  Mohns    wird,    fein    gestoben,] \nmit  Wein  gegen  ßauchfluss  und  FItiss  der  Frauen  getrunken;  bei  den  anl \nSchlaflosigkeit  Leidenden  wird  er  mit  Wasser  als  Umschlag  auf  die  Stirn \nund   die  Schläfen  gelegt.",
+    "category": "gynaecological",
+    "category_candidates": [
+      {
+        "category": "gynaecological",
+        "score": 1.0
+      }
+    ],
+    "harmonisation": {
+      "method": "german_ailment_lexicon_baseline_v1",
+      "candidates": [
+        {
+          "category": "gynaecological",
+          "score": 1.0
+        }
+      ],
+      "calibrated": false,
+      "requires_adjudication": true
+    },
+    "year": 60,
+    "edition_year": 1902,
+    "era": "dioscorides",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-dioscorides-mekon",
+    "method": "manuscript_lexicon_baseline_v1",
+    "text_layer": "translated_original_prefix_heuristic",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-7d60c487ee3d5a7cee",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "POPPY.",
+    "historical_name_context": "POPPY.",
+    "plant_context_start": 545222,
+    "plant_context_end": 545228,
+    "plant_context_span": "POPPY.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "pains",
+    "span_start": 550020,
+    "span_end": 550194,
+    "source_span": "It is generally used in treacle and mithridate, and\r\nin all other medicines that are made to procure rest and sleep, and to\r\nease pains in the head as well as in other parts.",
+    "category": "neuro",
+    "category_candidates": [
+      {
+        "category": "neuro",
+        "score": 0.280457
+      },
+      {
+        "category": "cardiovascular",
+        "score": 0.117134
+      },
+      {
+        "category": "skin",
+        "score": 0.022029
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "neuro",
+          "score": 0.280457
+        },
+        {
+          "category": "cardiovascular",
+          "score": 0.117134
+        },
+        {
+          "category": "skin",
+          "score": 0.022029
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-garden-poppy",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-87caf2f6f4b6596722",
+    "source_id": "dioscorides-berendes-1902",
+    "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+    "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+    "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+    "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "plant_context_start": 1357055,
+    "plant_context_end": 1357118,
+    "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "Magen",
+    "span_start": 1359137,
+    "span_end": 1359418,
+    "source_span": "Der  Saft  selbst,    welcher  noch  mehr  kältend, \nverdichtend  und  austrocknend  ist,  wirkt,  wenig,  etwa  in  der  Grösse  ein« \nErbse  genommen,  schmerzstillend,  schlafmachend  und  die  Verdauung  be \nf<)rdernd,    hilft  auch    bei    Husten  und    Magen aifectionen.",
+    "category": "gi",
+    "category_candidates": [
+      {
+        "category": "gi",
+        "score": 1.0
+      }
+    ],
+    "harmonisation": {
+      "method": "german_ailment_lexicon_baseline_v1",
+      "candidates": [
+        {
+          "category": "gi",
+          "score": 1.0
+        }
+      ],
+      "calibrated": false,
+      "requires_adjudication": true
+    },
+    "year": 60,
+    "edition_year": 1902,
+    "era": "dioscorides",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-dioscorides-mekon",
+    "method": "manuscript_lexicon_baseline_v1",
+    "text_layer": "translated_original_prefix_heuristic",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-970b2b0f6da8be8974",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "POPPY.",
+    "historical_name_context": "POPPY.",
+    "plant_context_start": 545222,
+    "plant_context_end": 545228,
+    "plant_context_span": "POPPY.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "cough",
+    "span_start": 550195,
+    "span_end": 550489,
+    "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+    "category": "respiratory",
+    "category_candidates": [
+      {
+        "category": "respiratory",
+        "score": 0.350798
+      },
+      {
+        "category": "neuro",
+        "score": 0.033505
+      },
+      {
+        "category": "gi",
+        "score": 0.022303
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "respiratory",
+          "score": 0.350798
+        },
+        {
+          "category": "neuro",
+          "score": 0.033505
+        },
+        {
+          "category": "gi",
+          "score": 0.022303
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-garden-poppy",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-9926c4108b0a2c5547",
+    "source_id": "dioscorides-berendes-1902",
+    "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+    "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+    "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+    "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "plant_context_start": 1357055,
+    "plant_context_end": 1357118,
+    "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "Husten",
+    "span_start": 1358426,
+    "span_end": 1358756,
+    "source_span": "] \nWerden  die  Köpfchen  fUr  sich  allein  mit  Wasser  bis  auf  die  Hälfte  ein- \ngekocht, dann  wieder  mit  Honig  gekocht,  bis  die  Flüssigkeit  dicklich  ge-, \nworden   ist,    so  geben  sie  ein  Lcckmifctel,   welches  schmensstillend  wirkt \nbei  Husten,  Fluss  (Erkältung)  der  Luftrühre  und  Magen allectionen.",
+    "category": "respiratory",
+    "category_candidates": [
+      {
+        "category": "respiratory",
+        "score": 1.0
+      }
+    ],
+    "harmonisation": {
+      "method": "german_ailment_lexicon_baseline_v1",
+      "candidates": [
+        {
+          "category": "respiratory",
+          "score": 1.0
+        }
+      ],
+      "calibrated": false,
+      "requires_adjudication": true
+    },
+    "year": 60,
+    "edition_year": 1902,
+    "era": "dioscorides",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-dioscorides-mekon",
+    "method": "manuscript_lexicon_baseline_v1",
+    "text_layer": "translated_original_prefix_heuristic",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-af6e0afdf6287cf84a",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "POPPY.",
+    "historical_name_context": "POPPY.",
+    "plant_context_start": 545222,
+    "plant_context_end": 545228,
+    "plant_context_span": "POPPY.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "agues",
+    "span_start": 550195,
+    "span_end": 550489,
+    "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+    "category": "infection",
+    "category_candidates": [
+      {
+        "category": "infection",
+        "score": 0.353425
+      },
+      {
+        "category": "skin",
+        "score": 0.01445
+      },
+      {
+        "category": "eye",
+        "score": 0.013569
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "infection",
+          "score": 0.353425
+        },
+        {
+          "category": "skin",
+          "score": 0.01445
+        },
+        {
+          "category": "eye",
+          "score": 0.013569
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-garden-poppy",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-b58a7fbd61b4a06e42",
+    "source_id": "dioscorides-berendes-1902",
+    "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+    "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+    "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+    "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "plant_context_start": 1357055,
+    "plant_context_end": 1357118,
+    "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "Magen",
+    "span_start": 1358426,
+    "span_end": 1358756,
+    "source_span": "] \nWerden  die  Köpfchen  fUr  sich  allein  mit  Wasser  bis  auf  die  Hälfte  ein- \ngekocht, dann  wieder  mit  Honig  gekocht,  bis  die  Flüssigkeit  dicklich  ge-, \nworden   ist,    so  geben  sie  ein  Lcckmifctel,   welches  schmensstillend  wirkt \nbei  Husten,  Fluss  (Erkältung)  der  Luftrühre  und  Magen allectionen.",
+    "category": "gi",
+    "category_candidates": [
+      {
+        "category": "gi",
+        "score": 1.0
+      }
+    ],
+    "harmonisation": {
+      "method": "german_ailment_lexicon_baseline_v1",
+      "candidates": [
+        {
+          "category": "gi",
+          "score": 1.0
+        }
+      ],
+      "calibrated": false,
+      "requires_adjudication": true
+    },
+    "year": 60,
+    "edition_year": 1902,
+    "era": "dioscorides",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-dioscorides-mekon",
+    "method": "manuscript_lexicon_baseline_v1",
+    "text_layer": "translated_original_prefix_heuristic",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-b6c60bb406a315554a",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "POPPY.",
+    "historical_name_context": "POPPY.",
+    "plant_context_start": 545222,
+    "plant_context_end": 545228,
+    "plant_context_span": "POPPY.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "belly",
+    "span_start": 550195,
+    "span_end": 550489,
+    "source_span": "It is also used to\r\ncool inflammations, agues, or frenzies, or to stay defluxions which\r\ncause a cough, or consumptions, and also other fluxes of the belly or\r\nwomen’s courses; it is also put into hollow teeth, to ease the pain,\r\nand hath been found by experience to ease the pains of the gout.",
+    "category": "gi",
+    "category_candidates": [
+      {
+        "category": "gi",
+        "score": 0.219185
+      },
+      {
+        "category": "skin",
+        "score": 0.044846
+      },
+      {
+        "category": "cardiovascular",
+        "score": 0.0
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "gi",
+          "score": 0.219185
+        },
+        {
+          "category": "skin",
+          "score": 0.044846
+        },
+        {
+          "category": "cardiovascular",
+          "score": 0.0
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-garden-poppy",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-cc21b40a2d9f1fbed7",
+    "source_id": "dioscorides-berendes-1902",
+    "source_text_path": "data/raw/cache/texts/dioscorides-berendes-1902.txt",
+    "source_sha256": "e431bd9d4b5cbe5e08038a02b32212e433b0ac3a4d6a89e42852ff2fc373c986",
+    "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+    "plant_name_as_written": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "historical_name_context": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  —",
+    "plant_context_start": 1357055,
+    "plant_context_end": 1357118,
+    "plant_context_span": "Cap.  65.  lUpl  Mtjxuvo;  Yjti.ii>o'j.  Gartenmohn.  Mekon  — ",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "Schlaf",
+    "span_start": 1357914,
+    "span_end": 1358135,
+    "source_span": "Ge- \nmeinsam  ist  ihnen  die  kältende  Kraft,   deshalb   bewirkeu  die  in  Wa»sei \ngekochten  Blätter  und  Kftpfe  als  Bähmittcl  Schlaf;  die  Abkochung  davoi \ntvird    auch    gegen   Schlaflosigkeit   getrunken.",
+    "category": "neuro",
+    "category_candidates": [
+      {
+        "category": "neuro",
+        "score": 1.0
+      }
+    ],
+    "harmonisation": {
+      "method": "german_ailment_lexicon_baseline_v1",
+      "candidates": [
+        {
+          "category": "neuro",
+          "score": 1.0
+        }
+      ],
+      "calibrated": false,
+      "requires_adjudication": true
+    },
+    "year": 60,
+    "edition_year": 1902,
+    "era": "dioscorides",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-dioscorides-mekon",
+    "method": "manuscript_lexicon_baseline_v1",
+    "text_layer": "translated_original_prefix_heuristic",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-d6063d8390c058c6e1",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "POPPY.",
+    "historical_name_context": "POPPY.",
+    "plant_context_start": 545222,
+    "plant_context_end": 545228,
+    "plant_context_span": "POPPY.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "agues",
+    "span_start": 550847,
+    "span_end": 551137,
+    "source_span": "The distilled water of the flowers is held to be of much good\r\nuse against surfeits, being drank evening and morning; It is also more\r\ncooling than any of the other Poppies, and therefore cannot but be as\r\neffectual in hot agues, frenzies, and other inflammations either inward\r\nor outward.",
+    "category": "infection",
+    "category_candidates": [
+      {
+        "category": "infection",
+        "score": 0.353425
+      },
+      {
+        "category": "skin",
+        "score": 0.01445
+      },
+      {
+        "category": "eye",
+        "score": 0.013569
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "infection",
+          "score": 0.353425
+        },
+        {
+          "category": "skin",
+          "score": 0.01445
+        },
+        {
+          "category": "eye",
+          "score": 0.013569
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-wild-poppy",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  },
+  {
+    "id": "claim-ed00016f4ebc9ddccc",
+    "source_id": "culpeper-gutenberg-49513",
+    "source_text_path": "data/raw/cache/texts/culpeper-gutenberg-49513.txt",
+    "source_sha256": "d9bacb3247d798fcd2a8ce3b7c76222407fc0ac1c8d4242e9e8163508c10e968",
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "plant_name_as_written": "POPPY.",
+    "historical_name_context": "POPPY.",
+    "plant_context_start": 545222,
+    "plant_context_end": 545228,
+    "plant_context_span": "POPPY.",
+    "part": null,
+    "preparation": null,
+    "ailment_as_written": "sickness",
+    "span_start": 550493,
+    "span_end": 550585,
+    "source_span": "The Wild Poppy, or Corn Rose (as Matthiolus saith) is good to prevent\r\nthe falling-sickness.",
+    "category": "neuro",
+    "category_candidates": [
+      {
+        "category": "neuro",
+        "score": 0.214247
+      },
+      {
+        "category": "eye",
+        "score": 0.101777
+      },
+      {
+        "category": "respiratory",
+        "score": 0.046442
+      }
+    ],
+    "harmonisation": {
+      "method": "word_character_tfidf_cosine_baseline",
+      "version": "organ-system-lexicon-2026-11-07-v1",
+      "candidates": [
+        {
+          "category": "neuro",
+          "score": 0.214247
+        },
+        {
+          "category": "eye",
+          "score": 0.101777
+        },
+        {
+          "category": "respiratory",
+          "score": 0.046442
+        }
+      ],
+      "requires_adjudication": true,
+      "calibrated": false
+    },
+    "year": 1653,
+    "edition_year": 1850,
+    "era": "renaissance",
+    "reviewed": true,
+    "historical_date_reviewed": true,
+    "licence_reviewed": true,
+    "identity_id": "identity-culpeper-wild-poppy",
+    "method": "therapeutic_cue_and_ailment_lexicon_v1",
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "status": "reviewed"
+  }
+]

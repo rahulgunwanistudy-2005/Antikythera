@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "identity-culpeper-garden-poppy",
+    "candidates": [
+      {
+        "species_id": "Papaver somniferum",
+        "probability": 0.95
+      },
+      {
+        "species_id": "Papaver rhoeas",
+        "probability": 0.05
+      }
+    ],
+    "available_year": 1753,
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "note": "Culpeper’s “garden poppy” (white/black, opium-yielding) matches P. somniferum; Linnaean name available 1753.",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+  },
+  {
+    "id": "identity-culpeper-periwinkle",
+    "candidates": [
+      {
+        "species_id": "Vinca major",
+        "probability": 0.5
+      },
+      {
+        "species_id": "Vinca minor",
+        "probability": 0.5
+      }
+    ],
+    "available_year": 1753,
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "note": "English periwinkle is Vinca, not Catharanthus; the two Vinca species are not separable from the text.",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+  },
+  {
+    "id": "identity-culpeper-wild-poppy",
+    "candidates": [
+      {
+        "species_id": "Papaver rhoeas",
+        "probability": 0.9
+      },
+      {
+        "species_id": "Papaver somniferum",
+        "probability": 0.1
+      }
+    ],
+    "available_year": 1753,
+    "source_url": "https://www.gutenberg.org/ebooks/49513",
+    "note": "“Wild Poppy, or Corn Rose” and red-flower distilled water: P. rhoeas.",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+  },
+  {
+    "id": "identity-dioscorides-mekon",
+    "candidates": [
+      {
+        "species_id": "Papaver somniferum",
+        "probability": 0.8
+      },
+      {
+        "species_id": "Papaver rhoeas",
+        "probability": 0.2
+      }
+    ],
+    "available_year": 1902,
+    "source_url": "https://archive.org/details/despedaniosdios00pedagoog",
+    "note": "Dioscorides II.65 mekon covers cultivated and wild poppies; Berendes 1902 identification.",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)"
+  }
+]

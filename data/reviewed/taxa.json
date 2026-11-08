@@ -1,1 +1,124 @@
-[]
+[
+  {
+    "species_id": "Catharanthus roseus",
+    "family": "Apocynaceae",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+    "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "regions": [],
+    "hazard_trail": [
+      "The discovery of cytotoxic alkaloids supplies no evidence for safe diabetes self-treatment with the plant."
+    ]
+  },
+  {
+    "species_id": "Colchicum autumnale",
+    "family": "Colchicaceae",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+    "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "regions": [
+      "Mediterranean"
+    ],
+    "hazard_trail": [
+      "All parts are poisonous. ANSES reported 28 confusions with wild or many-flowered garlic in 2020–22, including two deaths."
+    ]
+  },
+  {
+    "species_id": "Galanthus nivalis",
+    "family": "Amaryllidaceae",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+    "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "regions": [
+      "Mediterranean"
+    ],
+    "hazard_trail": [
+      "A prescription-drug discovery does not establish the safety or efficacy of a raw snowdrop preparation."
+    ]
+  },
+  {
+    "species_id": "Galega officinalis",
+    "family": "Fabaceae",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+    "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "regions": [
+      "Mediterranean"
+    ],
+    "hazard_trail": [
+      "The historical overview reports toxicity in early guanidine derivatives. It supplies no safe botanical dosing basis."
+    ]
+  },
+  {
+    "species_id": "Papaver rhoeas",
+    "family": "Papaveraceae",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+    "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "regions": [
+      "Mediterranean"
+    ],
+    "hazard_trail": [
+      "Contains rhoeadine alkaloids; mildly toxic to livestock and humans in quantity."
+    ]
+  },
+  {
+    "species_id": "Papaver somniferum",
+    "family": "Papaveraceae",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+    "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "regions": [
+      "Mediterranean"
+    ],
+    "hazard_trail": [
+      "Morphine is addictive and can cause fatal poisoning. The DEA documents deaths associated with historical morphine-containing syrups."
+    ]
+  },
+  {
+    "species_id": "Taxus brevifolia",
+    "family": "Taxaceae",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+    "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "regions": [],
+    "hazard_trail": [
+      "Clinical paclitaxel use does not make yew material suitable for self-treatment; bark harvesting also kills the tree."
+    ]
+  },
+  {
+    "species_id": "Vinca major",
+    "family": "Apocynaceae",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+    "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "regions": [
+      "Mediterranean"
+    ],
+    "hazard_trail": [
+      "Contains vinca alkaloids; not for self-medication."
+    ]
+  },
+  {
+    "species_id": "Vinca minor",
+    "family": "Apocynaceae",
+    "reviewed": true,
+    "reviewer": "Claude (AI-assisted review, 2026-11-08)",
+    "backbone_version": "GBIF Backbone Taxonomy, dataset snapshot retrieved 2026-11-07",
+    "source_url": "https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c",
+    "regions": [
+      "Mediterranean"
+    ],
+    "hazard_trail": [
+      "Contains vinca alkaloids; not for self-medication."
+    ]
+  }
+]
