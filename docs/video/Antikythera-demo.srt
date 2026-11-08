@@ -1,0 +1,221 @@
+1
+00:00:00,000 --> 00:00:05,069
+Start in the first century. Antikythera lets us
+move through Mediterranean medicinal history
+
+2
+00:00:05,069 --> 00:00:10,138
+and inspect how a claim changes across authors.
+The six stories in this
+
+3
+00:00:10,138 --> 00:00:15,207
+view are case studies. They do not supply the
+statistical result. Move to
+
+4
+00:00:15,207 --> 00:00:20,275
+the present, then open the corpus. Four acquired
+sources now provide nearly three
+
+5
+00:00:20,275 --> 00:00:25,344
+thousand proposed claims, each with the source
+words and exact offsets. A person
+
+6
+00:00:25,344 --> 00:00:30,413
+can review the annotation, record its historical
+date, and resolve the plant identity.
+
+7
+00:00:30,413 --> 00:00:35,482
+The evidence view keeps retrieved papers separate
+from supporting experimental outcomes. At the
+
+8
+00:00:35,482 --> 00:00:40,551
+final comparison, the software requires dated
+evidence, matched controls, and a complete
+follow-up
+
+9
+00:00:40,551 --> 00:00:44,840
+window. The headline remains unavailable until
+those inputs pass independent audit.
+
+10
+00:01:00,000 --> 00:01:05,903
+Antikythera asks whether Mediterranean medical
+traditions predict later pharmacology after
+accounting for research
+
+11
+00:01:05,903 --> 00:01:11,805
+attention. The software now runs from source
+collection through a review workbench and
+
+12
+00:01:11,805 --> 00:01:15,891
+temporal analysis. Scientific conclusions still
+require independent human review.
+
+13
+00:01:17,280 --> 00:01:23,003
+Famous plants attract more research. Later
+authors can inherit earlier claims, and
+historical
+
+14
+00:01:23,003 --> 00:01:28,726
+plant names can remain ambiguous. A fair
+comparison therefore needs dated information,
+matched
+
+15
+00:01:28,726 --> 00:01:32,688
+unclaimed controls and uncertainty that follows
+each unresolved identity.
+
+16
+00:01:34,080 --> 00:01:40,818
+Four acquired sources now produce 2,972
+annotation proposals: Culpeper, the Berendes
+Dioscorides translation,
+
+17
+00:01:40,818 --> 00:01:47,556
+Paul of Aegina and a licensed Balkan medicinal
+table. That covers 844 detected
+
+18
+00:01:47,556 --> 00:01:54,294
+chapters and 91 table rows. These are unreviewed
+proposals, not validated plant uses.
+
+19
+00:01:55,680 --> 00:02:01,498
+The literature sample contains 69 unique PubMed
+records in 75 species-and-category query rows.
+
+20
+00:02:01,498 --> 00:02:07,316
+We also retrieved 30 annual publication counts
+and six modern taxonomy candidate sets.
+
+21
+00:02:07,316 --> 00:02:13,134
+Exact spans and record hashes make the queue
+inspectable. Human-reviewed claims and evidence
+
+22
+00:02:13,134 --> 00:02:14,477
+grades remain zero.
+
+23
+00:02:15,880 --> 00:02:21,708
+The engine compares pairs after temporal freezes,
+matching within species, within family or
+
+24
+00:02:21,708 --> 00:02:27,535
+on earlier research effort. LightGBM fitting,
+calibration and evaluation use separate calendar
+windows.
+
+25
+00:02:27,535 --> 00:02:33,363
+Synthetic integration tests verify the software.
+A real-data model has not been fitted.
+
+26
+00:02:34,760 --> 00:02:39,999
+The headline risk ratio remains pending.
+Acquisition gives us material to review, but
+
+27
+00:02:39,999 --> 00:02:45,237
+it cannot decide historical dates, uncertain
+identities or experimental support. The eligible
+scientific
+
+28
+00:02:45,237 --> 00:02:50,476
+dataset is still empty. We will report an effect
+only after those review
+
+29
+00:02:50,476 --> 00:02:51,281
+gates pass.
+
+30
+00:02:52,680 --> 00:02:58,264
+Case studies help expose mistakes. Colchicum
+podagra use predates Byzantium, so a Byzantine
+
+31
+00:02:58,264 --> 00:03:03,847
+ranking improvement cannot be promised. Galega
+connects to guanidine and metformin research.
+Pacific
+
+32
+00:03:03,847 --> 00:03:09,002
+yew emerged through screening. Every case keeps
+its hazards and source trail.
+
+33
+00:03:10,400 --> 00:03:16,216
+The shortlist remains empty until a calibrated
+model and documented search coverage support
+
+34
+00:03:16,216 --> 00:03:22,032
+release. Predictions condition on future first
+testing. They do not estimate clinical benefit.
+
+35
+00:03:22,032 --> 00:03:27,849
+Ensemble ranges describe identity and model
+variation. This is research prioritisation for
+laboratory
+
+36
+00:03:27,849 --> 00:03:29,638
+testing, not medical advice.
+
+37
+00:03:31,040 --> 00:03:37,343
+OCR errors and commentary boundaries can change
+ancient claims. Missing synonyms and older
+
+38
+00:03:37,343 --> 00:03:43,646
+literature limit coverage. Capped searches cannot
+establish first-ever confirmation or never-tested
+status. Publication-bias
+
+39
+00:03:43,646 --> 00:03:48,495
+sensitivity and human audits remain necessary
+before interpreting the comparison.
+
+40
+00:03:49,880 --> 00:03:55,512
+The deliverable is an open workbench with
+reproducible collection, DuckDB storage, a review
+
+41
+00:03:55,512 --> 00:04:01,145
+API, temporal comparisons and an interactive
+source browser. The next milestone is an
+
+42
+00:04:01,145 --> 00:04:06,777
+independently audited result. After review,
+domain experts can assess whether any laboratory
+leads
+
+43
+00:04:06,777 --> 00:04:07,644
+deserve testing.

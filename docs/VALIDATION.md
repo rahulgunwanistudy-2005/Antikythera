@@ -1,0 +1,11 @@
+# Final build verification
+
+The complete build has 98 passing Python checks and seven passing frontend checks. `make all` executes offline collection/snapshot preservation, reviewed-input promotion, analysis/model reporting, typed Parquet export, static JSON export, the test suites and the React production build. The final two snapshot checks additionally verify a cache-free checkout can preserve its supplied proposals and that changed snapshot bytes are rejected.
+
+Checks cover exact source spans, licensed table projections, source hashes, changed records, stale review revisions, rejected external write origins, immutable audit predictions, invalidated old audits, full review-to-promotion chains, temporal feature leakage, shared identity sampling, rematching, empty/undefined comparisons, actual synthetic LightGBM fit/save/reload/predict, disjoint identity calibration, offline cue abstention and the local model protocol. Synthetic fixtures stay in isolated temporary repositories and do not become scientific results.
+
+Browser verification covered the seven-view workspace, the actual 2,972-record source queue, all four source filters, table-row provenance, local abstract retrieval, the human review dialog, pending effect/ranker states, and the asynchronous Rebuild exports job. The job completed and refreshed the workspace while preserving zero eligible reviewed claims. At 390px the document width equals the viewport width. Hosted output is a read-only snapshot and has no raw abstract text.
+
+The ten-slide editable deck was rendered and individually inspected by the presentation authoring agent, and its PowerPoint export contains ten slides. No inspection in Microsoft PowerPoint is claimed. The 4-minute-9-second demo contains a verified video stream, nonempty narration and subtitles, and sampled first/final slides were visually inspected. Audio mean level is -19.3dB and peak -4.2dB, with no clipping indicated by those checks.
+
+These checks establish software behavior and artifact completeness. They do not establish extraction accuracy, evidence-grading precision, calibrated historical identities or a scientific effect. Independent human audits remain zero, and the report releases no headline or shortlist probability.

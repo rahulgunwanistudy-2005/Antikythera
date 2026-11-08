@@ -1,0 +1,15 @@
+{
+  "path": "/Users/rahul/Antikythera/docs/video/Antikythera-demo.mp4",
+  "duration_seconds": 249.092969,
+  "voice": "Samantha",
+  "narration": "local synthetic speech",
+  "slides": 10,
+  "ui_captures": 8,
+  "resolution": "1280x720",
+  "streams": [
+    "audio",
+    "subtitle",
+    "video"
+  ],
+  "bytes": 5383208
+}
